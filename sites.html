@@ -112,6 +112,7 @@
         code: "SFE",
         name: "Sociedad, Familia y Educación",
         folder: "sfe",
+        totalSubjectQuestions: 40,
         description: "Análisis sociológico de la educación, agentes de socialización, diversidad cultural y coordinación entre familia y centro educativo.",
         badgeColor: "bg-blue-50 text-blue-700 border-blue-200",
         themes: [
@@ -119,13 +120,13 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: Desarrollo físico, pubertad y maduración cerebral en la adolescencia",
-            questions: []
+            questions: 20,
           },
           {
             id: "tema-2",
             number: 2,
             title: "Tema 2: La función socializadora de la escuela. Educación y empleo",
-            questions: []
+            questions: 20,
           },
         ]
       },
@@ -135,6 +136,7 @@
         code: "ADA",
         name: "Aprendizaje y Desarrollo en la Adolescencia",
         folder: "ada",
+        totalSubjectQuestions: 40,
         description: "Procesos madurativos, cognitivos, emocionales y sociales en la etapa adolescente y sus implicaciones educativas.",
         badgeColor: "bg-indigo-50 text-indigo-700 border-indigo-200",
         themes: [
@@ -142,7 +144,7 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: Desarrollo físico, pubertad y maduración cerebral en la adolescencia",
-            questions: []
+            questions: 20
           },
         ]
       },
@@ -152,6 +154,7 @@
         code: "PCE",
         name: "Procesos y Contextos Educativos",
         folder: "pce",
+        totalSubjectQuestions: 40,
         description: "Marco normativo del sistema educativo, organización escolar, participación, atención a la diversidad y orientación tutorial.",
         badgeColor: "bg-sky-50 text-sky-700 border-sky-200",
         themes: [
@@ -159,7 +162,7 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: El sistema educativo español: evolución legislativa y marco LOMLOE",
-            questions: []
+            questions: 20
           },
         ]
       },
@@ -169,6 +172,7 @@
         code: "Didáctica",
         name: "Didáctica e Innovación Docente",
         folder: "didactica",
+        totalSubjectQuestions: 40,
         description: "Diseño metodológico, metodologías activas, evaluación formativa, DUA e innovación en los procesos de enseñanza-aprendizaje.",
         badgeColor: "bg-violet-50 text-violet-700 border-violet-200",
         themes: [
@@ -176,7 +180,7 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: Fundamentos de la Didáctica y modelos de enseñanza-aprendizaje",
-            questions: []
+            questions: 20
           }
         ]
       },
@@ -186,6 +190,7 @@
         code: "BICE",
         name: "Bases de la Investigación y Calidad Educativa",
         folder: "bice",
+        totalSubjectQuestions: 40,
         description: "Paradigmas, diseños metodológicos, instrumentos de recogida de datos, indicadores de calidad y ética en investigación educativa.",
         badgeColor: "bg-emerald-50 text-emerald-700 border-emerald-200",
         themes: [
@@ -193,7 +198,7 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: Paradigmas de investigación educativa: positivista, interpretativo y sociocrítico",
-            questions: []
+            questions: 20
           },
         ]
       },
@@ -203,6 +208,7 @@
         code: "TICS",
         name: "Tecnologías de la Información y la Comunicación",
         folder: "tics",
+        totalSubjectQuestions: 40,
         description: "Competencia digital docente, entornos virtuales, creación de REA, evaluación digital, IA educativa y seguridad en red.",
         badgeColor: "bg-cyan-50 text-cyan-700 border-cyan-200",
         themes: [
@@ -210,7 +216,7 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: Competencia digital docente y marco europeo DigCompEdu",
-            questions: []
+            questions: 20
           },
         ]
       },
@@ -220,6 +226,7 @@
         code: "Programación",
         name: "Programación y Diseño Curricular",
         folder: "pcei",
+        totalSubjectQuestions: 40,
         description: "Niveles de concreción curricular, perfil de salida, competencias específicas, saberes básicos, criterios de evaluación y situaciones de aprendizaje.",
         badgeColor: "bg-indigo-50 text-indigo-700 border-indigo-200",
         themes: [
@@ -227,7 +234,7 @@
             id: "tema-1",
             number: 1,
             title: "Tema 1: Niveles de concreción curricular y arquitectura de la LOMLOE",
-            questions: []
+            questions: 20
           },
         ]
       }
@@ -235,33 +242,6 @@
 
     // Orden exacto de las 7 asignaturas solicitado para la Home y barra de navegación
     const SUBJECT_ORDER = ["SFE", "PCE", "Didáctica", "BICE", "TICS", "ADA", "Programación"];
-
-    /**
-     * GENERADOR DEL CUESTIONARIO GLOBAL DE CADA ASIGNATURA
-     * Combina preguntas de los 6 temas de la asignatura de forma equilibrada.
-     */
-    function getGlobalQuestionsForSubject(subjectId) {
-      const subject = SUBJECTS_DB[subjectId];
-      if (!subject) return [];
-
-      const combined = [];
-      subject.themes.forEach((theme) => {
-        // En SFE tomamos una selección equilibrada de todos los temas (incluyendo varias del Tema 2) para un global completo
-        const limit = subjectId === "SFE" ? (theme.number === 2 ? 10 : 3) : 3;
-        const slice = theme.questions.slice(0, limit);
-        slice.forEach((q) => {
-          combined.push({
-            ...q,
-            themeLabel: `Tema ${theme.number}`
-          });
-        });
-      });
-
-      return combined.map((q, index) => ({
-        ...q,
-        num: index + 1
-      }));
-    }
 
     /**
      * ESTADO GLOBAL DE LA APLICACIÓN SPA
@@ -843,7 +823,7 @@
     function renderHomeView() {
       const subjectCardsHtml = SUBJECT_ORDER.map((subjId, idx) => {
         const subj = SUBJECTS_DB[subjId];
-        const totalQuestions = subj.themes.reduce((acc, t) => acc + t.questions.length, 0);
+        const totalQuestions = subj.totalSubjectQuestions;
 
         return `
           <article
@@ -960,13 +940,13 @@
     function renderSubjectView() {
       const subject = SUBJECTS_DB[state.subjectId] || SUBJECTS_DB.SFE;
       const themesCount = subject.themes.length;
-      const globalQuestionsCount = getGlobalQuestionsForSubject(subject.id).length;
+      const globalQuestionsCount = subject.totalSubjectQuestions;
 
       const optionsHtml = subject.themes.map((theme) => {
         const selectedAttr = theme.id === state.selectedThemeId ? "selected" : "";
         return `
           <option value="${escapeHTML(theme.id)}" ${selectedAttr}>
-            ${escapeHTML(theme.title)} (${theme.questions.length} preguntas)
+            ${escapeHTML(theme.title)} (${theme.questions} preguntas)
           </option>
         `;
       }).join("");
