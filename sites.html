@@ -111,6 +111,7 @@
         id: "SFE",
         code: "SFE",
         name: "Sociedad, Familia y Educación",
+        folder: "sfe",
         description: "Análisis sociológico de la educación, agentes de socialización, diversidad cultural y coordinación entre familia y centro educativo.",
         badgeColor: "bg-blue-50 text-blue-700 border-blue-200",
         themes: [
@@ -133,6 +134,7 @@
         id: "ADA",
         code: "ADA",
         name: "Aprendizaje y Desarrollo en la Adolescencia",
+        folder: "ada",
         description: "Procesos madurativos, cognitivos, emocionales y sociales en la etapa adolescente y sus implicaciones educativas.",
         badgeColor: "bg-indigo-50 text-indigo-700 border-indigo-200",
         themes: [
@@ -149,6 +151,7 @@
         id: "PCE",
         code: "PCE",
         name: "Procesos y Contextos Educativos",
+        folder: "pce",
         description: "Marco normativo del sistema educativo, organización escolar, participación, atención a la diversidad y orientación tutorial.",
         badgeColor: "bg-sky-50 text-sky-700 border-sky-200",
         themes: [
@@ -165,6 +168,7 @@
         id: "Didáctica",
         code: "Didáctica",
         name: "Didáctica e Innovación Docente",
+        folder: "didactica",
         description: "Diseño metodológico, metodologías activas, evaluación formativa, DUA e innovación en los procesos de enseñanza-aprendizaje.",
         badgeColor: "bg-violet-50 text-violet-700 border-violet-200",
         themes: [
@@ -181,6 +185,7 @@
         id: "BICE",
         code: "BICE",
         name: "Bases de la Investigación y Calidad Educativa",
+        folder: "bice",
         description: "Paradigmas, diseños metodológicos, instrumentos de recogida de datos, indicadores de calidad y ética en investigación educativa.",
         badgeColor: "bg-emerald-50 text-emerald-700 border-emerald-200",
         themes: [
@@ -197,6 +202,7 @@
         id: "TICS",
         code: "TICS",
         name: "Tecnologías de la Información y la Comunicación",
+        folder: "tics",
         description: "Competencia digital docente, entornos virtuales, creación de REA, evaluación digital, IA educativa y seguridad en red.",
         badgeColor: "bg-cyan-50 text-cyan-700 border-cyan-200",
         themes: [
@@ -213,6 +219,7 @@
         id: "Programación",
         code: "Programación",
         name: "Programación y Diseño Curricular",
+        folder: "pcei",
         description: "Niveles de concreción curricular, perfil de salida, competencias específicas, saberes básicos, criterios de evaluación y situaciones de aprendizaje.",
         badgeColor: "bg-indigo-50 text-indigo-700 border-indigo-200",
         themes: [
@@ -303,7 +310,6 @@
 
       try {
         const url = `${GITHUB_DATA_BASE_URL}/${subject.folder}/${quizKey}.json`;
-        console.log(url, quizKey);
         const response = await fetch(url);
 
         if (!response.ok) {
@@ -457,7 +463,6 @@
       }
 
       if (parts[0] === "cuestionario" && parts[1] && SUBJECTS_DB[parts[1]]) {
-        console.log(parts);
         const subjId = parts[1];
         const quizKey = parts[2] || "global";
         const subj = SUBJECTS_DB[subjId];

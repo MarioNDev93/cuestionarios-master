@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T1-01",
+        "num": 1,
+        "question": "¿Qué doble alcance caracteriza el objeto de estudio de la Sociología de la Educación según el planteamiento general del Tema 1?",
+        "options": {
+            "A": "Analiza exclusivamente los métodos didácticos aplicados dentro del aula y evalúa el rendimiento individual del alumnado en las distintas materias escolares.",
+            "B": "Aborda la dimensión social de los hechos educativos, desde las interacciones en el aula hasta los sistemas educativos y su vínculo con la estructura social.",
+            "C": "Estudia únicamente las reformas legislativas del sistema educativo y la evolución histórica de los presupuestos públicos destinados a la escolarización.",
+            "D": "Examina las capacidades psicológicas del aprendizaje infantil y establece criterios clínicos para clasificar las dificultades cognitivas de los estudiantes."
+        },
+        "correct": "B",
+        "justification": "La Sociología de la Educación analiza la dimensión social de los hechos educativos abarcando tanto el nivel micro de las relaciones en el aula como el nivel macro de los sistemas educativos y su vinculación con la estructura social. Además, examina cómo la sociedad influye en la educación y cómo esta puede favorecer la cohesión o reproducir desigualdades."
+    },
+    {
+        "id": "SFE-T1-02",
+        "num": 2,
+        "question": "En relación con el concepto y el origen etimológico de la Sociología recogidos en el material del tema, ¿qué afirmación es correcta?",
+        "options": {
+            "A": "El término deriva de las voces griegas socium (comunidad política) y logia (norma), y es definido por la RAE como el estudio de las instituciones estatales.",
+            "B": "El vocablo procede de societas (contrato) y logos (discurso), y Lebrero y Quicios (2011) la definen como el análisis económico de las clases sociales.",
+            "C": "La palabra surge de la unión de socius (ciudadano) y logia (orden), y la RAE la delimita como la disciplina que regula la convivencia escolar.",
+            "D": "El término procede de socius (compañero) y logos (tratado o estudio), y Lebrero y Quicios (2011) la sintetizan como la ciencia que estudia las relaciones humanas."
+        },
+        "correct": "D",
+        "justification": "Según los apuntes del tema, la palabra Sociología procede de socius (compañero) y logos (tratado o estudio), mientras que la RAE la define como la ciencia social que estudia la estructura y el funcionamiento de las sociedades humanas. Por su parte, Lebrero y Quicios (2011) la resumen específicamente como la ciencia que estudia las relaciones humanas."
+    },
+    {
+        "id": "SFE-T1-03",
+        "num": 3,
+        "question": "¿Cómo explica el Tema 1 la relación entre el desarrollo del sistema educativo, la intervención del Estado y las demandas de la sociedad industrial?",
+        "options": {
+            "A": "La expansión del derecho a la educación vincula al Estado con la garantía educativa mediante leyes que orientan el currículo, mientras la escuela responde al mercado laboral y al concepto de capital humano de Becker.",
+            "B": "La consolidación del Estado moderno desvincula las leyes educativas de las prioridades sociales para que el mercado laboral regule directamente los contenidos escolares sin mediación institucional.",
+            "C": "La expansión de la escolarización limita la acción del Estado a la financiación básica y sustituye el concepto de capital humano de Becker por una formación ajena a las demandas productivas.",
+            "D": "Las leyes educativas surgen exclusivamente para preservar las tradiciones preindustriales frente a las exigencias del mercado laboral, rechazando la conexión entre educación y capital humano."
+        },
+        "correct": "A",
+        "justification": "La expansión del derecho a la educación amplía el acceso escolar y vincula al Estado con la garantía educativa a través de leyes que expresan prioridades sociales y orientan prácticas y contenidos curriculares. Asimismo, la escuela responde a las demandas de la sociedad industrial y del mercado laboral, evolución que el material vincula con el concepto de capital humano de Becker (1964/1993)."
+    },
+    {
+        "id": "SFE-T1-04",
+        "num": 4,
+        "question": "¿Por qué sostiene el material del Tema 1 que la institución escolar no se limita a transmitir conocimientos neutrales?",
+        "options": {
+            "A": "Porque el profesorado sustituye los contenidos académicos oficiales por opiniones políticas personales en todas las etapas educativas.",
+            "B": "Porque las leyes educativas prohíben la enseñanza de normas de convivencia y reservan la transmisión de valores exclusivamente al ámbito familiar.",
+            "C": "Porque el currículo, la metodología y las normas escolares transmiten valores e ideologías dominantes que pueden presentarse como naturales y reproducir desigualdades.",
+            "D": "Porque los sistemas educativos modernos seleccionan al alumnado mediante pruebas psicotécnicas que impiden cualquier influencia del entorno social."
+        },
+        "correct": "C",
+        "justification": "El currículo, la metodología, las normas escolares y la organización de los contenidos transmiten también hábitos, costumbres, valores e ideologías. Al presentarse los valores dominantes como naturales, la escuela puede contribuir a que las desigualdades económicas y sociales se acepten y reproduzcan entre generaciones."
+    },
+    {
+        "id": "SFE-T1-05",
+        "num": 5,
+        "question": "¿Cuál de las siguientes caracterizaciones corresponde fielmente a la aportación de Émile Durkheim recogida en el Tema 1?",
+        "options": {
+            "A": "Formula el materialismo histórico en la Revolución Industrial y analiza cómo el modo de producción determina la educación que recibe cada clase social.",
+            "B": "Desarrolla la teoría de la escuela como subsistema social enfocada en la estratificación, la igualdad de oportunidades y la formación técnica.",
+            "C": "Concibe la educación como un hecho social que debe estudiarse científicamente y que desarrolla los estados físicos, intelectuales y morales exigidos por la sociedad.",
+            "D": "Distingue entre funciones manifiestas y latentes de las instituciones escolares dentro de la corriente neoweberiana centrada en los grupos de estatus."
+        },
+        "correct": "C",
+        "justification": "Émile Durkheim, figura fundacional de la Sociología de la Educación situada en la III República francesa y el pensamiento progresista-liberal, define la educación como un hecho social que debe estudiarse científicamente. Para él, la educación prepara a la infancia para ocupar un lugar útil en la sociedad desarrollando los estados físicos, intelectuales y morales que esta exige."
+    },
+    {
+        "id": "SFE-T1-06",
+        "num": 6,
+        "question": "¿Qué diferencia fundamental establece el Tema 1 entre el planteamiento de Karl Marx y las aportaciones de Max Weber en el estudio socioeducativo?",
+        "options": {
+            "A": "Marx analiza cómo el modo de producción y el conflicto entre clases condicionan la educación, mientras que Weber aporta categorías sobre poder, legitimidad y grupos de estatus que influyen en la corriente neoweberiana.",
+            "B": "Marx defiende que la escuela garantiza la cohesión moral en sociedades industriales, mientras que Weber sostiene que el currículo escolar reproduce mecánicamente el modo de producción capitalista.",
+            "C": "Marx formula una teoría pedagógica específica para la escuela pública republicana, mientras que Weber rechaza el estudio de la dominación simbólica y la acción social en las instituciones.",
+            "D": "Marx explica la estratificación educativa a partir del mérito individual en el mercado, mientras que Weber centra su análisis en la emancipación femenina mediante la reforma preescolar."
+        },
+        "correct": "A",
+        "justification": "Desde el materialismo histórico, Marx analiza el conflicto entre burguesía y proletariado y sostiene que el modo de producción y la organización del trabajo condicionan la cultura, la posición social y la educación recibida. En cambio, Weber, aunque no elabora una teoría específica de la Sociología de la Educación, estudia la acción social, el poder, la dominación simbólica, la legitimidad y los grupos de estatus, categorías que influyen en la corriente neoweberiana."
+    },
+    {
+        "id": "SFE-T1-07",
+        "num": 7,
+        "question": "¿Qué elementos específicos incorpora Thorstein Veblen al análisis sociológico recogido en el Tema 1?",
+        "options": {
+            "A": "La distinción entre socialización primaria y secundaria, junto con la influencia del «otro generalizado» en la infancia.",
+            "B": "La clasificación de las funciones escolares en manifiestas y latentes, vinculadas al equilibrio de los subsistemas sociales.",
+            "C": "La conceptualización del capital humano como inversión educativa orientada a responder a las demandas del mercado laboral.",
+            "D": "La distinción entre clase ociosa y clase trabajadora, el análisis de las desigualdades de género y el estudio del movimiento de la Nueva Mujer y el Kindergarten."
+        },
+        "correct": "D",
+        "justification": "Thorstein Veblen diferencia entre la clase ociosa y la clase trabajadora, con culturas e intereses materiales contrapuestos, e introduce el análisis de las desigualdades de género. Asimismo, vincula la industrialización con el debilitamiento del orden patriarcal y destaca el papel de mujeres acomodadas en la emancipación, el trabajo asalariado, la reforma preescolar mediante el Kindergarten y el movimiento de la Nueva Mujer."
+    },
+    {
+        "id": "SFE-T1-08",
+        "num": 8,
+        "question": "¿Cómo se complementan las aportaciones de Talcott Parsons y Robert K. Merton en el análisis de la institución escolar presentado en el Tema 1?",
+        "options": {
+            "A": "Parsons analiza las relaciones de producción del capitalismo y Merton identifica los mecanismos ideológicos de la reproducción cultural.",
+            "B": "Parsons concibe la escuela como un subsistema social vinculado a la integración y la meritocracia, mientras que Merton distingue entre sus funciones manifiestas y sus funciones latentes.",
+            "C": "Parsons estudia la acción social y los grupos de estatus, mientras que Merton desarrolla la teoría de la educación integral basada en competencias clave.",
+            "D": "Parsons propone superar la escuela del siglo XIX mediante entornos informales, mientras que Merton define los cuatro pilares básicos del aprendizaje permanente."
+        },
+        "correct": "B",
+        "justification": "Talcott Parsons formula la teoría de la escuela como subsistema social, relacionándola desde el funcionalismo con la integración del sistema, la estratificación, la igualdad de oportunidades, la meritocracia, la formación técnica y el capital humano. Por su parte, Robert K. Merton aporta la distinción analítica entre las funciones manifiestas (declaradas y reconocidas) y las funciones latentes (no previstas o no reconocidas) de las instituciones escolares."
+    },
+    {
+        "id": "SFE-T1-09",
+        "num": 9,
+        "question": "En un centro educativo, una parte del claustro sostiene que la escuela ofrece igualdad de oportunidades y clasifica al alumnado exclusivamente según su esfuerzo y mérito personal, mientras que otro grupo de docentes argumenta que las normas y la cultura escolar legitiman la estructura de clases existente. ¿Qué corrientes teóricas del Tema 1 representan respectivamente ambas posturas?",
+        "options": {
+            "A": "El estructural-funcionalismo representa la primera postura y la nueva Sociología de la Educación representa la segunda.",
+            "B": "La nueva Sociología de la Educación representa la primera postura y el funcionalismo de Parsons representa la segunda.",
+            "C": "El materialismo histórico de Marx representa la primera postura y la teoría del capital humano de Becker representa la segunda.",
+            "D": "La corriente neoweberiana representa la primera postura y la pedagogía de Delors representa la segunda."
+        },
+        "correct": "A",
+        "justification": "La primera postura corresponde al estructural-funcionalismo, que concibe la escuela como un instrumento valioso de socialización, integración, cohesión, igualdad de oportunidades y meritocracia. La segunda postura encaja con la nueva Sociología de la Educación, que cuestiona la aparente neutralidad escolar y sostiene que la escuela puede reproducir las clases sociales, la división del trabajo y la ideología dominante."
+    },
+    {
+        "id": "SFE-T1-10",
+        "num": 10,
+        "question": "De acuerdo con el bloque sobre socialización del Tema 1, ¿qué modalidades de socialización y qué conjunto de agentes intervienen en el proceso?",
+        "options": {
+            "A": "Comprende únicamente la socialización primaria y secundaria durante la etapa escolar, ejecutadas exclusivamente por la familia y el profesorado.",
+            "B": "Abarca la socialización formal e informal en la infancia, dirigida de manera sucesiva e independiente por la escuela y el grupo de iguales.",
+            "C": "Incluye la socialización primaria, secundaria, terciaria y la resocialización a lo largo de toda la vida, con la actuación combinada de familia, iguales, escuela, trabajo, medios y TIC.",
+            "D": "Se limita a la resocialización adulta en el entorno laboral, donde el trabajo y los medios de comunicación sustituyen por completo la influencia previa de la familia y la escuela."
+        },
+        "correct": "C",
+        "justification": "El material establece que la socialización es continua y dura toda la vida, distinguiendo entre socialización primaria, secundaria, terciaria y resocialización. En este proceso intervienen de forma combinada en distintos espacios y momentos vitales la familia, el grupo de iguales, la escuela, el trabajo, los medios de comunicación y las TIC."
+    },
+    {
+        "id": "SFE-T1-11",
+        "num": 11,
+        "question": "¿Qué correspondencia entre autores y conceptos del proceso de socialización y cultura figura en el cuadro resumen del Tema 1?",
+        "options": {
+            "A": "Rocher desarrolla el concepto de «otro generalizado»; Berger y Luckmann definen los cuatro pilares de la educación; y Monferrer formula la teoría del capital humano.",
+            "B": "Berger y Luckmann abordan la socialización primaria y el «otro generalizado»; Rocher analiza los componentes de la cultura y la socialización; y Fernández Palomares y Monferrer tratan los tipos de socialización, roles y resocialización.",
+            "C": "Fernández Palomares y Monferrer estudian las funciones manifiestas y latentes; Rocher analiza la clase ociosa y el género; y Berger y Luckmann plantean la escuela como subsistema social.",
+            "D": "Berger y Luckmann introducen las habilidades blandas; Rocher define el concepto de competencia clave europea; y Fernández Palomares analiza el modo de producción industrial."
+        },
+        "correct": "B",
+        "justification": "En la síntesis de autores del tema, Berger y Luckmann se asocian con la socialización primaria y el concepto de «otro generalizado», mientras que Rocher se vincula con los componentes de la cultura y el proceso de socialización. Por su parte, Fernández Palomares y Monferrer aparecen asociados al estudio de los tipos de socialización, los roles y la resocialización."
+    },
+    {
+        "id": "SFE-T1-12",
+        "num": 12,
+        "question": "Una persona adulta que traslada su residencia a otro país y accede a un nuevo entorno profesional debe interiorizar pautas culturales diferentes, asumir nuevos roles ocupacionales e interactuar con plataformas digitales de trabajo desconocidas para ella. Según el Tema 1, ¿qué rasgo del proceso socializador ilustra esta situación?",
+        "options": {
+            "A": "Que la socialización culmina al finalizar la escolarización obligatoria, limitándose en la edad adulta a una mera aplicación mecánica de lo aprendido en la infancia.",
+            "B": "Que en la edad adulta los medios de comunicación y las TIC anulan cualquier aprendizaje previo adquirido en la socialización primaria.",
+            "C": "Que el proceso socializador depende exclusivamente de la institución escolar formal, sin participación de contextos laborales ni tecnológicos.",
+            "D": "Que la socialización dura toda la vida y comprende procesos como la socialización terciaria y la resocialización mediante la actuación combinada de distintos agentes y espacios."
+        },
+        "correct": "D",
+        "justification": "La situación refleja que la socialización es un proceso continuo que se extiende a lo largo de toda la vida y abarca tanto la socialización secundaria y terciaria como la resocialización ante nuevos roles y contextos. Además, muestra cómo agentes como el trabajo y las TIC intervienen combinadamente en distintos espacios y momentos vitales."
+    },
+    {
+        "id": "SFE-T1-13",
+        "num": 13,
+        "question": "¿Qué diagnóstico sobre la institución escolar y qué propuesta de transformación articulan respectivamente Davidson y Goldberg (2009) y Scott (2015) en el Tema 1?",
+        "options": {
+            "A": "Davidson y Goldberg sostienen que el currículo actual carece de contenidos teóricos, y Scott propone restringir el aprendizaje exclusivamente al aula formal.",
+            "B": "Davidson y Goldberg afirman que las familias han perdido toda capacidad educativa, y Scott plantea sustituir la escuela presencial por plataformas digitales autónomas.",
+            "C": "Davidson y Goldberg defienden mantener la estructura escolar decimonónica para garantizar la cohesión, y Scott propone separar los aprendizajes formales de los informales.",
+            "D": "Davidson y Goldberg señalan el desfase de una escuela con estructuras del siglo XIX, docentes del siglo XX y alumnado del siglo XXI, y Scott plantea evolucionar hacia un entorno integral que conecte aprendizajes formales, no formales e informales."
+        },
+        "correct": "D",
+        "justification": "Davidson y Goldberg (2009) sintetizan el desfase institucional señalando que existe una escuela con estructuras del siglo XIX, docentes del siglo XX y alumnado del siglo XXI. Frente a ello, Scott (2015) propone que la escuela evolucione desde un enfoque centrado solo en el aprendizaje formal hacia un entorno de aprendizaje integral que conecte los aprendizajes formales, no formales e informales en sinergia con las familias y la sociedad."
+    },
+    {
+        "id": "SFE-T1-14",
+        "num": 14,
+        "question": "¿Cómo caracteriza el Tema 1 las denominadas habilidades blandas (soft skills) y qué capacidades específicas incluye dentro de ellas?",
+        "options": {
+            "A": "Son conocimientos disciplinares altamente especializados en áreas científicas que solo pueden adquirirse mediante la memorización individual de contenidos académicos.",
+            "B": "Son competencias no cognitivas o transferibles que facilitan la adaptación a distintos entornos, especialmente laborales, e incluyen analizar problemas, comunicar ideas, creatividad, liderazgo, atención y emprendimiento.",
+            "C": "Son destrezas exclusivamente técnicas vinculadas al manejo de maquinaria industrial que sustituyen a las actitudes y valores en la formación del alumnado.",
+            "D": "Son hábitos de obediencia pasiva desarrollados únicamente en el seno familiar antes de la escolarización, por lo que el profesorado no debe intervenir sobre ellas."
+        },
+        "correct": "B",
+        "justification": "El material define las habilidades blandas (soft skills) como competencias no cognitivas o transferibles que ayudan a adaptarse a diversos entornos, especialmente al ámbito laboral. Entre ellas incluye analizar problemas y encontrar soluciones, comunicar ideas e información, ser creativo, mostrar capacidad de liderazgo y atención, y emprender."
+    },
+    {
+        "id": "SFE-T1-15",
+        "num": 15,
+        "question": "¿Qué relación establece el Tema 1 entre el concepto general de «competencia» y la definición de «competencias clave» formulada por la Comisión Europea (2004)?",
+        "options": {
+            "A": "La competencia equivale a la retención precisa de datos teóricos, mientras que las competencias clave son las calificaciones numéricas obtenidas en cada asignatura.",
+            "B": "La competencia se restringe a aptitudes físicas y técnicas para un oficio concreto, mientras que las competencias clave son contenidos exclusivos de la educación superior.",
+            "C": "La competencia combina destrezas, conocimientos, aptitudes y actitudes para actuar en contextos diversos, y las competencias clave constituyen un conjunto multifuncional y transferible necesario para la realización personal, la inclusión, el empleo y el aprendizaje permanente.",
+            "D": "La competencia alude únicamente a valores emocionales desarrollados en la familia, mientras que las competencias clave son normas disciplinares fijadas por cada centro escolar."
+        },
+        "correct": "C",
+        "justification": "El tema define la competencia como la combinación de destrezas, conocimientos, aptitudes y actitudes que permite movilizar recursos para actuar en situaciones y contextos diversos, superando el mero saber datos. En coherencia con ello, la Comisión Europea (2004) concibe las competencias clave como un conjunto multifuncional y transferible necesario para el desarrollo personal, la inclusión, el empleo y el aprendizaje a lo largo de la vida."
+    },
+    {
+        "id": "SFE-T1-16",
+        "num": 16,
+        "question": "¿Cuáles son los cuatro pilares de la educación formulados por Delors (1996) que el Tema 1 vincula con el desarrollo competencial y el aprendizaje permanente?",
+        "options": {
+            "A": "Aprender a conocer, aprender a hacer, aprender a ser y aprender a vivir juntos.",
+            "B": "Aprender a memorizar, aprender a competir, aprender a obedecer y aprender a producir.",
+            "C": "Aprender a investigar, aprender a emprender, aprender a liderar y aprender a evaluar.",
+            "D": "Aprender a comunicar, aprender a digitalizar, aprender a gestionar y aprender a especializarse."
+        },
+        "correct": "A",
+        "justification": "El material recoge los cuatro pilares de la educación establecidos por Delors (1996) como fundamento del aprendizaje a lo largo de la vida: aprender a conocer, aprender a hacer, aprender a ser y aprender a vivir juntos."
+    },
+    {
+        "id": "SFE-T1-17",
+        "num": 17,
+        "question": "En una reunión de coordinación pedagógica, un departamento propone que la competencia emprendedora y la competencia digital sean trabajadas exclusivamente por dos asignaturas optativas, considerando además que la competencia STEM tiene mayor jerarquía normativa que la competencia en conciencia y expresión culturales. ¿Por qué este planteamiento contradice el marco de la LOMLOE descrito en el Tema 1?",
+        "options": {
+            "A": "Porque la LOMLOE reduce las competencias clave a cuatro pilares básicos y prohíbe su evaluación dentro de las materias curriculares ordinarias.",
+            "B": "Porque las ocho competencias clave de la LOMLOE son transversales, carecen de jerarquía entre sí y deben trabajarse desde todas las áreas y materias sin quedar encerradas en una sola asignatura.",
+            "C": "Porque la LOMLOE establece que las competencias clave solo se desarrollan en ámbitos educativos informales externos al centro escolar.",
+            "D": "Porque la competencia digital y la competencia emprendedora no forman parte del listado de las ocho competencias clave del marco LOMLOE."
+        },
+        "correct": "B",
+        "justification": "De acuerdo con el tema, el marco LOMLOE se estructura en ocho competencias clave (lingüística, plurilingüe, STEM, digital, personal-social-aprender a aprender, ciudadana, emprendedora y conciencia y expresión culturales) que tienen carácter transversal y carecen de jerarquía entre sí. Además, el aprendizaje competencial debe trabajarse desde todas las áreas y materias, sin quedar encerrado en una única asignatura."
+    },
+    {
+        "id": "SFE-T1-18",
+        "num": 18,
+        "question": "Un equipo docente desea mejorar el desarrollo competencial, axiológico y emocional de su alumnado contando con las familias, aunque observa que la acción educativa familiar suele ser menos sistemática que la escolar. Según el Tema 1, ¿qué orientación resulta coherente con la noción de «hábitat educativo»?",
+        "options": {
+            "A": "Limitar la intervención educativa exclusivamente al horario lectivo del centro, dado que la familia no puede mejorar sus resultados educativos.",
+            "B": "Sustituir la participación de las familias por el uso autónomo de internet, ya que las redes digitales constituyen el único entorno socializador relevante.",
+            "C": "Separar de forma estricta la transmisión escolar de conocimientos de la educación familiar en valores, evitando cualquier coordinación entre ambos ámbitos.",
+            "D": "Promover una intervención intencional con las familias y considerar conjuntamente todos los entornos del hábitat educativo del estudiante: familia, escuela, iguales, internet y sociedad."
+        },
+        "correct": "D",
+        "justification": "El tema señala que la familia es fundamental en la adquisición de competencias, valores y emociones positivas, y que, aunque su acción educativa suele ser menos sistemática que la escolar, una intervención intencional puede mejorar sus resultados. Asimismo, subraya que deben considerarse conjuntamente todos los entornos que integran el hábitat educativo del estudiante: familia, escuela, iguales, internet y sociedad."
+    },
+    {
+        "id": "SFE-T1-19",
+        "num": 19,
+        "question": "Un centro escolar diseña su proyecto educativo centrándose únicamente en maximizar el rendimiento técnico-instrumental del alumnado para su futura inserción laboral, relegando explícitamente la educación en valores y la gestión emocional por considerarlas ajenas a la función docente. ¿Qué crítica se desprende del enfoque de educación integral y marco holístico expuesto en el Tema 1?",
+        "options": {
+            "A": "Que los objetivos educativos no deben reducirse a que el alumnado sea competente en términos técnicos, sino integrar competencias, valores y gestión positiva de las emociones para desarrollar un proyecto de vida satisfactorio y contribuir al bienestar y la felicidad.",
+            "B": "Que la escuela debe abandonar la preparación profesional y el desarrollo de competencias clave para dedicarse exclusivamente a la terapia psicológica individual.",
+            "C": "Que la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018 prohíbe vincular la educación competencial con el empleo y la adaptación al cambio.",
+            "D": "Que el marco holístico restringe la adquisición de valores y emociones positivas al aprendizaje formal dentro del aula, excluyendo los ámbitos no formales e informales."
+        },
+        "correct": "A",
+        "justification": "Según el enfoque de educación integral y el marco holístico del tema, los objetivos educativos no pueden reducirse a lograr que el alumnado sea meramente competente, sino que deben combinar competencias, valores y gestión positiva de las emociones. De este modo, se persigue que cada persona pueda desarrollar un proyecto de vida satisfactorio y contribuir tanto a su propio bienestar y felicidad como al bienestar de los demás."
+    },
+    {
+        "id": "SFE-T1-20",
+        "num": 20,
+        "question": "Una profesora de Educación Secundaria organiza un proyecto interdisciplinar en el que el alumnado investiga un problema real de su barrio, colabora en equipo con asociaciones locales, utiliza recursos digitales y presenta soluciones creativas ante las familias. ¿Cómo se interpreta esta práctica docente a la luz de los planteamientos del Tema 1?",
+        "options": {
+            "A": "Como una práctica propia del modelo tradicional centrado exclusivamente en la transmisión unidireccional de datos teóricos dentro del aula formal.",
+            "B": "Como una actuación que contraviene la Agenda 2030 y la Recomendación del Consejo de la UE de 2018 al incorporar entornos externos a la escuela.",
+            "C": "Como una experiencia coherente con el enfoque competencial, ya que conecta aprendizajes formales, no formales e informales, moviliza habilidades blandas y trabaja en sinergia con familias y sociedad.",
+            "D": "Como un ejemplo de socialización primaria en el que la familia delega por completo la función socializadora en el grupo de iguales y en las TIC."
+        },
+        "correct": "C",
+        "justification": "Esta práctica encaja plenamente con el enfoque competencial del tema porque supera la mera transmisión de datos en el aula y moviliza destrezas, conocimientos, aptitudes y actitudes en un contexto real. Además, desarrolla habilidades blandas como la resolución de problemas, la creatividad y la comunicación, conectando los aprendizajes formales, no formales e informales en sinergia con las familias y la sociedad."
+    }
+]
