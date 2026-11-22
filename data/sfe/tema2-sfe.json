@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T2-01",
+        "num": 1,
+        "question": "¿De qué factores depende que en la escuela predomine la función de reproducción del orden social existente o la de contribución a su transformación?",
+        "options": {
+            "A": "Exclusivamente de los criterios cognitivos y morales establecidos por el profesorado en el aula.",
+            "B": "De los agentes sociales, de las relaciones de poder y del momento histórico concreto.",
+            "C": "De la ausencia de reformas educativas frecuentes impulsadas por los distintos gobiernos.",
+            "D": "Únicamente del nivel de cohesión religiosa alcanzado en las sociedades modernas."
+        },
+        "correct": "B",
+        "justification": "El predominio de la reproducción o de la transformación social depende de los agentes sociales, las relaciones de poder y el momento histórico."
+    },
+    {
+        "id": "SFE-T2-02",
+        "num": 2,
+        "question": "Según Émile Durkheim, ¿qué concepto designa la ausencia de una moralidad común que oriente la conducta y debilita la cohesión social, la cual la escuela ayuda a prevenir en las sociedades modernas?",
+        "options": {
+            "A": "Homogeneización cultural.",
+            "B": "Diferenciación social.",
+            "C": "Dimensión expresiva.",
+            "D": "Anomia."
+        },
+        "correct": "D",
+        "justification": "La anomia es la ausencia de una moralidad común que oriente la conducta y debilita la cohesión social."
+    },
+    {
+        "id": "SFE-T2-03",
+        "num": 3,
+        "question": "En el planteamiento funcionalista sobre la escuela, ¿cómo se distinguen la dimensión instrumental y la dimensión expresiva?",
+        "options": {
+            "A": "La instrumental se refiere a la adquisición de habilidades y capacidades cognitivas para la vida adulta, mientras que la expresiva alude a la interiorización de valores sociales para integrarse en la sociedad.",
+            "B": "La instrumental se centra en la disciplina y el comportamiento hacia los compañeros, mientras que la expresiva mide los resultados en el aprendizaje de contenidos curriculares.",
+            "C": "La instrumental corresponde a la transmisión de una moralidad común para evitar la anomia, mientras que la expresiva orienta hacia posiciones distintas en la división del trabajo.",
+            "D": "La instrumental abarca los efectos latentes no declarados en el centro educativo, mientras que la expresiva recoge los objetivos manifiestos de las leyes educativas."
+        },
+        "correct": "A",
+        "justification": "La dimensión instrumental se vincula a las habilidades y capacidades cognitivas para la vida adulta, y la expresiva a la interiorización de valores sociales para la integración."
+    },
+    {
+        "id": "SFE-T2-04",
+        "num": 4,
+        "question": "De acuerdo con Talcott Parsons, ¿qué dos tipos de criterios utiliza la escuela para clasificar y diferenciar al alumnado en relación con la futura distribución del trabajo?",
+        "options": {
+            "A": "Criterios ideológicos y criterios de resistencia cultural.",
+            "B": "Criterios instrumentales y criterios de capital familiar.",
+            "C": "Criterios cognitivos y criterios morales o de conducta.",
+            "D": "Criterios de polivalencia y criterios de acreditación formal."
+        },
+        "correct": "C",
+        "justification": "Parsons señala criterios cognitivos (resultados de aprendizaje) y criterios morales o de conducta (responsabilidad, disciplina y comportamiento)."
+    },
+    {
+        "id": "SFE-T2-05",
+        "num": 5,
+        "question": "Según Bourdieu y Passeron, ¿por qué la aparente neutralidad de la escuela puede agravar las desigualdades sociales de partida?",
+        "options": {
+            "A": "Porque aplica normas distintas según el origen socioeconómico para compensar las carencias del entorno familiar.",
+            "B": "Porque aplica reglas formalmente iguales que favorecen a quienes ya dominan los conocimientos, el lenguaje y los códigos culturales valorados por la institución.",
+            "C": "Porque elimina los contenidos intelectuales en favor de una formación exclusivamente orientada al mercado laboral.",
+            "D": "Porque sustituye el control externo de la conducta por mecanismos explícitos de evaluación meritocrática."
+        },
+        "correct": "B",
+        "justification": "Para Bourdieu y Passeron, aplicar reglas formalmente iguales ignora las diferencias de capital cultural de partida y favorece a quienes ya dominan los códigos valorados por la escuela."
+    },
+    {
+        "id": "SFE-T2-06",
+        "num": 6,
+        "question": "Un equipo directivo diseña los horarios del instituto con timbres estrictos, filas ordenadas para entrar al aula y un sistema de puntos por obediencia y puntualidad que replica la disciplina laboral. ¿Con qué planteamiento teórico del tema se corresponde directamente esta situación?",
+        "options": {
+            "A": "El principio de correspondencia de Bowles y Gintis, según el cual la organización escolar reproduce jerarquías, control y relaciones disciplinarias del mundo laboral.",
+            "B": "La pedagogía invisible de Bernstein, basada en la transmisión implícita mediante códigos lingüísticos que favorecen a determinados grupos.",
+            "C": "La función de homogeneización cultural de Durkheim, orientada a sustituir el papel integrador que antes ejercía la religión.",
+            "D": "El concepto de currículo nulo de Eisner, referido a los contenidos relevantes que quedan excluidos de la enseñanza oficial."
+        },
+        "correct": "A",
+        "justification": "El principio de correspondencia de Bowles y Gintis explica cómo la organización escolar reproduce jerarquías de autoridad, control y relaciones disciplinarias del trabajo."
+    },
+    {
+        "id": "SFE-T2-07",
+        "num": 7,
+        "question": "En la clasificación de las cuatro funciones sociales principales de la escuela hoy, ¿qué funciones se agrupan bajo el eje de la «selección social» y cuáles bajo el de la «socialización»?",
+        "options": {
+            "A": "La selección social abarca la integración y el control social; la socialización comprende la preparación para el trabajo y la formación ciudadana.",
+            "B": "La selección social incluye la formación ciudadana y la distribución de posiciones; la socialización agrupa la preparación laboral y el control social.",
+            "C": "La selección social integra la homogeneización cultural y la meritocracia; la socialización reúne la diferenciación social y la capacitación profesional.",
+            "D": "La selección social comprende la preparación para el trabajo y la distribución de posiciones sociales; la socialización abarca la integración/control social y la formación política de la ciudadanía."
+        },
+        "correct": "D",
+        "justification": "La selección social integra la preparación para el trabajo y la distribución de posiciones sociales; la socialización comprende la integración/control social y la formación política de la ciudadanía."
+    },
+    {
+        "id": "SFE-T2-08",
+        "num": 8,
+        "question": "Cuando un estudiante deja de necesitar que el docente le recuerde constantemente las normas de convivencia porque ha asumido como propias las pautas de comportamiento y se autorregula en el aula, ¿qué proceso descrito en el tema se está produciendo?",
+        "options": {
+            "A": "La legitimación meritocrática de la distribución de posiciones sociales en la estructura ocupacional.",
+            "B": "La transición desde una pedagogía invisible hacia una pedagogía visible de objetivos explícitos.",
+            "C": "La función de integración y control social mediante la sustitución progresiva del control externo por disposiciones interiorizadas.",
+            "D": "La consolidación de la red primaria-profesional frente a la red secundaria-superior de escolarización."
+        },
+        "correct": "C",
+        "justification": "La integración y el control social sustituyen progresivamente el control externo de la conducta por disposiciones interiorizadas de autorregulación."
+    },
+    {
+        "id": "SFE-T2-09",
+        "num": 9,
+        "question": "Durante una clase de 4.º de ESO, el docente tiene programado explicar en 50 minutos un tema teórico, pero al detectar las dudas y el interés del grupo tras una experiencia local reciente, decide reorganizar la sesión para dedicar más tiempo a debatir esa situación. ¿Qué dimensión del currículo ilustra principalmente esta actuación?",
+        "options": {
+            "A": "El currículo real, entendido como la puesta en práctica del currículo formal y su negociación y adaptación a las circunstancias e intereses del aula.",
+            "B": "El currículo oculto, definido como los valores y normas que se transmiten de forma inconsciente sin figurar en ningún documento escrito.",
+            "C": "El currículo nulo, constituido por las perspectivas relevantes que quedan excluidas de la programación didáctica oficial.",
+            "D": "El currículo formal, formulado oficialmente en leyes, decretos y unidades didácticas como saber cultural previsto."
+        },
+        "correct": "A",
+        "justification": "El currículo real es la puesta en práctica del currículo formal y supone una negociación y adaptación al grupo, al tiempo, a los intereses y a las circunstancias del aula."
+    },
+    {
+        "id": "SFE-T2-10",
+        "num": 10,
+        "question": "¿A qué autor se atribuye en el material docente el concepto de «currículo nulo» y cómo se diferencia del «currículo oculto»?",
+        "options": {
+            "A": "A Stenhouse (1981/2003); el nulo se refiere a los objetivos cerrados de la programación y el oculto a la negociación en el aula.",
+            "B": "A E. W. Eisner (1979); el nulo es aquello que queda fuera de la enseñanza aunque sea relevante, mientras que el oculto es lo que se transmite implícitamente.",
+            "C": "A Bernstein (1990/2001); el nulo corresponde a las prácticas explícitas y el oculto a los códigos lingüísticos de cada grupo social.",
+            "D": "A Feito (2020); el nulo engloba los contenidos excesivos y desfasados, mientras que el oculto refleja la jerarquización de las materias."
+        },
+        "correct": "B",
+        "justification": "El currículo nulo se atribuye a E. W. Eisner (1979) y designa los contenidos o perspectivas que quedan fuera de la enseñanza, a diferencia del oculto que se transmite implícitamente."
+    },
+    {
+        "id": "SFE-T2-11",
+        "num": 11,
+        "question": "En un aula, el docente concede sistemáticamente el turno de palabra al primer estudiante que levanta la mano, sin dejar margen de espera a quienes reflexionan más despacio antes de intervenir. Según los ejemplos del tema, ¿qué efecto curricular produce esta práctica cotidiana?",
+        "options": {
+            "A": "Desarrolla el currículo formal al fomentar la participación oral prevista en la programación didáctica.",
+            "B": "Genera currículo nulo al omitir contenidos relevantes sobre las normas de cortesía en el debate.",
+            "C": "Configura una pedagogía visible al explicitar los criterios cognitivos de evaluación del aprendizaje.",
+            "D": "Activa el currículo oculto al transmitir implícitamente que la rapidez y la visibilidad valen más que tomarse tiempo para pensar."
+        },
+        "correct": "D",
+        "justification": "Dar la palabra siempre a quien levanta la mano más rápido transmite implícitamente (currículo oculto) que la rapidez y la visibilidad valen más que tomarse tiempo para pensar."
+    },
+    {
+        "id": "SFE-T2-12",
+        "num": 12,
+        "question": "Desde la mirada sociológica sobre el currículo desarrollada por Bernstein, ¿qué diferencia a la pedagogía visible de la pedagogía invisible?",
+        "options": {
+            "A": "La pedagogía visible se aplica únicamente en la red secundaria-superior y la invisible en la red primaria-profesional.",
+            "B": "La pedagogía visible excluye los contenidos ideológicos del currículo y la invisible los incorpora de manera declarada en las leyes.",
+            "C": "En la pedagogía visible los objetivos y la estructura de las prácticas son explícitos, mientras que en la invisible la transmisión se regula mediante aspectos implícitos y códigos lingüísticos que pueden generar desigualdad.",
+            "D": "En la pedagogía visible predomina la negociación entre docentes y estudiantes y en la invisible se ejecuta mecánicamente la programación oficial."
+        },
+        "correct": "C",
+        "justification": "Según Bernstein, la pedagogía visible explicita objetivos y estructura, mientras que la invisible regula la transmisión mediante aspectos implícitos y códigos que afectan de forma desigual según los recursos lingüísticos."
+    },
+    {
+        "id": "SFE-T2-13",
+        "num": 13,
+        "question": "¿Qué caracteriza a las dos redes de escolarización propuestas por Baudelot y Establet bajo la idea de «doble currículo»?",
+        "options": {
+            "A": "La red primaria-profesional se orienta a la preparación laboral con una escolaridad más corta, y la red secundaria-superior se orienta a la formación intelectual con una escolaridad más larga reservada a una minoría.",
+            "B": "La red primaria-profesional corresponde a la educación obligatoria común, y la red secundaria-superior engloba exclusivamente los estudios universitarios de posgrado.",
+            "C": "La red primaria-profesional se basa en una pedagogía invisible y la red secundaria-superior se organiza mediante una pedagogía visible.",
+            "D": "La red primaria-profesional desarrolla la dimensión expresiva de la socialización y la red secundaria-superior cubre la dimensión instrumental."
+        },
+        "correct": "A",
+        "justification": "Baudelot y Establet distinguen la red primaria-profesional (orientación laboral y escolaridad más corta) y la red secundaria-superior (formación intelectual y escolaridad más larga reservada a una minoría)."
+    },
+    {
+        "id": "SFE-T2-14",
+        "num": 14,
+        "question": "Según la síntesis de autores recogida en el tema, ¿qué cinco problemas identifica Feito (2020) en los contenidos curriculares?",
+        "options": {
+            "A": "Ideológicos, mercantilizados, individualistas, homogéneos y excluyentes.",
+            "B": "Ocultos, nulos, burocráticos, descontextualizados y meritocráticos.",
+            "C": "Teóricos, abstractos, elitistas, rígidos y desiguales.",
+            "D": "Excesivos, arbitrarios, jerarquizados, fragmentarios y desfasados."
+        },
+        "correct": "D",
+        "justification": "Feito (2020) señala cinco problemas en los contenidos curriculares: excesivos, arbitrarios, jerarquizados, fragmentarios y desfasados."
+    },
+    {
+        "id": "SFE-T2-15",
+        "num": 15,
+        "question": "¿En qué se diferencia la situación contemporánea de transición escuela-trabajo respecto al modelo tradicional descrito en el tema?",
+        "options": {
+            "A": "En la actualidad se ha consolidado el acceso inmediato a un empleo estable tras finalizar los estudios, desapareciendo la necesidad de formación posterior.",
+            "B": "Hoy la formación y el empleo se alternan sin un momento único en que se deje de estudiar ni garantía de estabilidad, predominando trayectorias flexibles, discontinuas e inciertas.",
+            "C": "En el modelo tradicional predominaban las entradas y salidas constantes del mercado laboral, mientras que hoy existen empleos para toda la vida.",
+            "D": "Actualmente las acreditaciones académicas garantizan por sí solas una posición ocupacional fija sin verse afectadas por las condiciones familiares."
+        },
+        "correct": "B",
+        "justification": "En la situación contemporánea la formación y el empleo se alternan sin garantía de estabilidad, dando lugar a trayectorias flexibles, discontinuas e inciertas."
+    },
+    {
+        "id": "SFE-T2-16",
+        "num": 16,
+        "question": "En el contexto de la adaptación escolar y laboral a entornos cambiantes, ¿cómo define el glosario del tema el concepto de «polivalencia»?",
+        "options": {
+            "A": "Oferta y promoción de servicios formativos como inversión para mejorar el acceso y la permanencia en el empleo.",
+            "B": "Legitimación de la distribución de posiciones sociales en función de los méritos y resultados individuales.",
+            "C": "Capacidad para responder a tareas y situaciones laborales distintas y cambiantes.",
+            "D": "Proceso por el cual el alumnado interioriza normas sociales para autorregular su conducta en el trabajo."
+        },
+        "correct": "C",
+        "justification": "La polivalencia se define como la capacidad para responder a tareas y situaciones laborales distintas y cambiantes."
+    },
+    {
+        "id": "SFE-T2-17",
+        "num": 17,
+        "question": "Ante el desarrollo del capitalismo informacional y las demandas de la economía hacia el sistema educativo, ¿qué postura mantiene el tema respecto a la relación entre currículo y mercado laboral?",
+        "options": {
+            "A": "Cuestiona que se dé por resuelto el debate otorgando al mercado toda la capacidad de decidir qué debe enseñarse en la escuela.",
+            "B": "Sostiene que la función exclusiva de la escuela contemporánea es ajustarse sin reservas a las necesidades productivas inmediatas.",
+            "C": "Afirma que las dinámicas productivas actuales han eliminado la presión económica sobre la selección de contenidos escolares.",
+            "D": "Defiende que los títulos educativos han perdido todo valor como inversión en las sociedades globalizadas."
+        },
+        "correct": "A",
+        "justification": "El tema cuestiona que el debate sobre el currículo y el capitalismo informacional se resuelva otorgando al mercado toda la capacidad de decidir qué debe enseñarse."
+    },
+    {
+        "id": "SFE-T2-18",
+        "num": 18,
+        "question": "Una persona graduada encadena contratos temporales mientras cursa continuamente formación por su cuenta por temor a que sus competencias queden obsoletas, asumiendo que su falta de estabilidad laboral depende únicamente de su esfuerzo individual. ¿Qué lógica analizada en el tema refleja este caso?",
+        "options": {
+            "A": "La homogeneización cultural mediante la transmisión de valores cívicos comunes.",
+            "B": "La pedagogía visible centrada en la explicitación de los objetivos curriculares.",
+            "C": "La función manifiesta de la escuela como aparato ideológico del Estado.",
+            "D": "La persona trabajadora como «empresa para sí misma», que intenta evitar la depreciación de sus competencias y se considera responsable individual de su destino en condiciones desiguales."
+        },
+        "correct": "D",
+        "justification": "La lógica de la persona trabajadora como «empresa para sí misma» exige actualizar continuamente el atractivo profesional para evitar la depreciación de competencias y responsabiliza al individuo de su destino pese a la desigualdad."
+    },
+    {
+        "id": "SFE-T2-19",
+        "num": 19,
+        "question": "¿Qué fenómeno designa el concepto de «marketing educativo» (asociado en el tema a Santos, Montalbá y Moldes, 2004)?",
+        "options": {
+            "A": "La sustitución de la educación pública por redes privadas de escolarización primaria-profesional.",
+            "B": "La oferta y promoción de formación presentada como una inversión para mejorar el acceso y la permanencia en el empleo.",
+            "C": "La selección de contenidos escolares realizada mediante criterios estrictamente cognitivos y neutrales.",
+            "D": "La crítica a la imposición de la lógica del mercado como única razón social en el ámbito pedagógico."
+        },
+        "correct": "B",
+        "justification": "El marketing educativo consiste en la oferta y promoción de formación como inversión para mejorar el acceso y la permanencia en el empleo."
+    },
+    {
+        "id": "SFE-T2-20",
+        "num": 20,
+        "question": "Según la visión global del tema sobre cómo conectar el bloque de educación y empleo con el resto de la unidad, ¿por qué resulta insuficiente analizar la relación educación-empleo como una simple correspondencia entre títulos y puestos de trabajo?",
+        "options": {
+            "A": "Porque la institución escolar ha dejado de emitir credenciales y de transmitir competencias profesionales útiles.",
+            "B": "Porque el mercado laboral actual garantiza la igualdad de oportunidades independientemente del origen familiar.",
+            "C": "Porque la escuela también socializa en normas laborales, selecciona y distribuye oportunidades, y en las transiciones influyen las condiciones familiares, las desigualdades de partida y los cambios del mercado.",
+            "D": "Porque los itinerarios formativos contemporáneos son lineales y culminan siempre con un empleo estable para toda la vida."
+        },
+        "correct": "C",
+        "justification": "La relación educación-empleo excede la correspondencia entre títulos y puestos porque la escuela socializa en normas laborales, selecciona y distribuye oportunidades, interviniendo también las condiciones familiares, las desigualdades de partida y los cambios del mercado."
+    }
+]
