@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T3-01",
+        "num": 1,
+        "question": "¿Cómo define Wallace (1961/1963) el concepto de cultura en relación con las prácticas sociales de un grupo?",
+        "options": {
+            "A": "Como el conjunto de normas jurídicas escritas y tradiciones folclóricas inmutables que identifican exclusivamente a un Estado-nación.",
+            "B": "Como las formas de conducta o técnicas de resolución de problemas que, por tener mayor frecuencia y menor dispersión, presentan alta probabilidad de ser utilizadas.",
+            "C": "Como la acumulación de objetos artísticos y saberes científicos universales que deben transmitirse de forma homogénea a toda la población.",
+            "D": "Como las diferencias biológicas e individuales que separan a las comunidades mediante fronteras culturales rígidas y claramente delimitadas."
+        },
+        "correct": "B",
+        "justification": "Wallace (1961/1963) define la cultura como las formas de conducta o técnicas de resolución de problemas que, por tener mayor frecuencia y menor dispersión que otras, tienen una alta probabilidad de ser utilizadas por los miembros de una sociedad."
+    },
+    {
+        "id": "SFE-T3-02",
+        "num": 2,
+        "question": "Según García García (1999) y Díaz de Rada (2012), ¿cómo se articulan la homogeneidad y la heterogeneidad dentro de una misma cultura?",
+        "options": {
+            "A": "La homogeneidad implica que todos los miembros ejecutan idénticamente cada conducta, mientras que la heterogeneidad corresponde únicamente a las personas extranjeras.",
+            "B": "La homogeneidad reside en las convenciones y prácticas compartidas que se repiten, mientras que la heterogeneidad refleja las diferencias individuales y variaciones al realizarlas.",
+            "C": "La homogeneidad se refiere al currículo oficial del sistema educativo y la heterogeneidad a las adaptaciones curriculares de las aulas de enlace.",
+            "D": "La homogeneidad desaparece cuando existen convenciones sociales, dando paso a una heterogeneidad basada en la ausencia de acuerdos compartidos."
+        },
+        "correct": "B",
+        "justification": "García García (1999) señala que los modelos culturales organizan las diferencias individuales, coexistiendo homogeneidad (prácticas, acuerdos o convenciones compartidas según Díaz de Rada) y heterogeneidad (diferencias entre personas y variaciones al ejecutar esas prácticas)."
+    },
+    {
+        "id": "SFE-T3-03",
+        "num": 3,
+        "question": "¿Qué aporta Clifford Geertz (1973/2009; 1986/1996) a la comprensión de la cultura y de la diversidad cultural en el mundo actual?",
+        "options": {
+            "A": "Sostiene que la cultura se limita a observar conductas externas y que las comunidades viven aisladas por fronteras nítidas.",
+            "B": "Destaca que la cultura incluye los significados atribuidos por la comunidad a sus prácticas y que los planteamientos de vida conviven en espacios mixtos de límites difusos.",
+            "C": "Propone clasificar al alumnado en grupos homogéneos según su nacionalidad y religión para preservar la pureza de cada tradición.",
+            "D": "Define la diversidad cultural como una esencia estática vinculada exclusivamente a los flujos migratorios posteriores al año 2000."
+        },
+        "correct": "B",
+        "justification": "Geertz señala que la cultura comprende los significados que una comunidad atribuye a sus prácticas (1973/2009) y que actualmente conviven planteamientos de vida distintos en espacios sociales mixtos con límites difusos e irregulares (1986/1996)."
+    },
+    {
+        "id": "SFE-T3-04",
+        "num": 4,
+        "question": "De acuerdo con García Castaño et al. (2000) y el análisis de la realidad española, ¿qué ocurre cuando se identifica la diversidad cultural únicamente con la nacionalidad, la religión o la procedencia geográfica?",
+        "options": {
+            "A": "Se logra una clasificación pedagógica precisa que elimina por completo los prejuicios y estereotipos en los centros educativos.",
+            "B": "Se invisibilizan otras diferencias culturales y la diversidad histórica previa de España, reduciendo indebidamente la cultura a esas tres categorías.",
+            "C": "Se garantiza que las personas adoptadas o racializadas nacidas en España sean reconocidas plenamente como parte de la mayoría cultural.",
+            "D": "Se fortalece el enfoque inclusivo al centrar la intervención docente en las barreras estructurales del sistema educativo."
+        },
+        "correct": "B",
+        "justification": "España ya contaba con diversidad histórica (influencias africanas, árabes, musulmanas, judías y pueblo gitano) antes de la inmigración reciente; reducir la diversidad a nacionalidad, religión o procedencia invisibiliza otras diferencias culturales y simplifica la cultura."
+    },
+    {
+        "id": "SFE-T3-05",
+        "num": 5,
+        "question": "En relación con los flujos migratorios en España, ¿qué cambio relevante se produjo a raíz de la crisis económica de 2008 según Domingo y Blanes (2016)?",
+        "options": {
+            "A": "Se interrumpió totalmente la llegada de población inmigrante y la tasa de población extranjera descendió por debajo del 2,5%.",
+            "B": "Aumentó la emigración desde España a partir de 2011 y descendió, aunque sin interrumpirse, la llegada de inmigrantes.",
+            "C": "El saldo migratorio exterior alcanzó inmediatamente un superávit superior a las 600.000 personas anuales desde 2009.",
+            "D": "La tasa de emigración quedó sobrerrepresentada en los registros estadísticos oficiales debido al retorno masivo de población."
+        },
+        "correct": "B",
+        "justification": "La crisis económica de 2008 modificó los flujos migratorios en España: aumentó la emigración desde el país a partir de 2011 y descendió la llegada de inmigrantes, pero sin llegar a interrumpirse (Domingo y Blanes, 2016)."
+    },
+    {
+        "id": "SFE-T3-06",
+        "num": 6,
+        "question": "Una alumna nacida y socializada íntegramente en España, hija de padres adoptivos españoles pero con rasgos fenotípicos racializados, es tratada habitualmente en su instituto como si fuera recién llegada de otro país y tuviera otra cultura. ¿Qué error conceptual señalado en el estudio de la diversidad cultural ilustra esta situación?",
+        "options": {
+            "A": "Confundir la diversidad con extranjería y atribuir automáticamente una cultura a una persona a partir de su apariencia o color de piel.",
+            "B": "Aplicar el principio de justicia cognitiva mediante la incorporación de epistemologías del Sur en el currículo ordinario.",
+            "C": "Fomentar el asimilacionismo lingüístico a través de la escolarización transitoria en escuelas-puente.",
+            "D": "Desarrollar agrupamientos heterogéneos que mezclan al alumnado con distinto nivel de motivación académica."
+        },
+        "correct": "A",
+        "justification": "La diversidad no equivale a extranjería: personas nacidas o socializadas en España —como personas racializadas, de origen migrante o adoptadas— pueden ser percibidas como extranjeras por su color de piel, atribuyéndoles automáticamente una cultura."
+    },
+    {
+        "id": "SFE-T3-07",
+        "num": 7,
+        "question": "¿En qué consiste la denominada «paradoja de la escuela» frente a la diversidad del alumnado?",
+        "options": {
+            "A": "En que el currículo oficial exige metodologías cooperativas, pero el alumnado prefiere siempre la enseñanza magistral unidireccional.",
+            "B": "En que las personas aprenden de maneras diferentes, pero la escuela tiende a responder clasificando y agrupando al alumnado como si fuera homogéneo.",
+            "C": "En que las familias demandan currículos diferenciados por origen cultural, mientras que la administración prohíbe cualquier atención a la diversidad.",
+            "D": "En que los centros con mayor presencia de alumnado extranjero obtienen mejores resultados en las pruebas estandarizadas que los centros monolingües."
+        },
+        "correct": "B",
+        "justification": "La paradoja escolar radica en que, aunque el alumnado aprende de formas diversas, la respuesta tradicional de la escuela consiste en clasificarlo y organizarlo en grupos uniformes como si todos aprendieran igual."
+    },
+    {
+        "id": "SFE-T3-08",
+        "num": 8,
+        "question": "¿Qué relación correcta establece la literatura pedagógica sobre cómo aprendemos entre autor y aportación principal?",
+        "options": {
+            "A": "Ausubel destaca los periodos sensitivos; Montessori propone el aprendizaje por proyectos mediante experimentación; Dewey formula las inteligencias múltiples.",
+            "B": "Decroly señala el aprendizaje global según intereses; Vygotsky destaca las experiencias concretas y relaciones sociales; Freire subraya las cosmovisiones de las que emanan los saberes.",
+            "C": "Piaget plantea la conexión con conocimientos previos; Gardner propone el desarrollo secuencial lógico-matemático; Ausubel impulsa la neurociencia emocional.",
+            "D": "Freire defiende la transmisión unidireccional de contenidos; Decroly propone separar al alumnado por niveles de rendimiento; Piaget rechaza la construcción activa del saber."
+        },
+        "correct": "B",
+        "justification": "Decroly destaca el aprendizaje global y basado en intereses; Vygotsky subraya el aprendizaje mediante experiencias concretas y relaciones con los demás; y Freire señala que las personas poseen cosmovisiones del mundo de las que emanan sus saberes."
+    },
+    {
+        "id": "SFE-T3-09",
+        "num": 9,
+        "question": "Un departamento didáctico decide dividir al alumnado de 2.º de ESO en dos grupos separados —uno «avanzado» y otro «de refuerzo»— según sus calificaciones previas, impartiendo exactamente el mismo ritmo y método expositivo dentro de cada grupo. Desde el análisis de la homogeneización escolar, ¿qué efecto produce esta medida?",
+        "options": {
+            "A": "Elimina las barreras para el aprendizaje al garantizar altas expectativas y convivencia en un espacio común.",
+            "B": "Refuerza la falsa idea de que todos los integrantes de cada grupo aprenden igual y necesitan una enseñanza uniforme, jerarquizando las diferencias.",
+            "C": "Aplica el Diseño Universal para el Aprendizaje al ofrecer múltiples medios de representación y expresión.",
+            "D": "Desarrolla una comunidad de aprendizaje basada en la interacción dialógica entre alumnado con distinto rendimiento."
+        },
+        "correct": "B",
+        "justification": "Separar al alumnado en clases «avanzadas» o «de refuerzo» según el rendimiento refuerza la suposición de que todos los integrantes de un grupo aprenden igual y requieren enseñanza uniforme, convirtiendo las diferencias en categorías rígidas o jerárquicas."
+    },
+    {
+        "id": "SFE-T3-10",
+        "num": 10,
+        "question": "En la evolución histórica de los modelos de atención a la diversidad en España, ¿qué caracterizó a las «escuelas-puente» de finales de los años setenta y ochenta?",
+        "options": {
+            "A": "Eran programas de inmersión lingüística en aulas ordinarias dirigidos exclusivamente al alumnado universitario de intercambio.",
+            "B": "Respondían a un modelo del déficit y segregación que afectó especialmente al alumnado romaní en centros específicos transitorios.",
+            "C": "Constituían redes de comunidades de aprendizaje orientadas a la revisión antirracista y descolonizada del currículo.",
+            "D": "Fueron creadas por la LOMLOE para sustituir la educación compensatoria mediante el Diseño Universal para el Aprendizaje."
+        },
+        "correct": "B",
+        "justification": "En los años 70-80 predominó un modelo del déficit y la segregación que afectó especialmente al alumnado romaní mediante las escuelas-puente (creadas en 1978 como centros específicos transitorios con efectos segregadores)."
+    },
+    {
+        "id": "SFE-T3-11",
+        "num": 11,
+        "question": "¿Cuál es la diferencia fundamental entre el modelo de «integración» y el modelo de «inclusión» según el esquema de respuestas ante la diversidad?",
+        "options": {
+            "A": "En la integración la persona queda fuera del sistema educativo, mientras que en la inclusión asiste a un centro específico separado.",
+            "B": "En la integración la persona entra en el espacio común pero permanece en un subgrupo diferenciado sin que cambie apenas la estructura, mientras que en la inclusión el entorno se organiza para eliminar barreras y lograr la participación de todos.",
+            "C": "En la integración se eliminan todas las barreras curriculares y metodológicas, mientras que en la inclusión se aplican currículos diferenciados según el origen social.",
+            "D": "En la integración participan conjuntamente familias y barrio, mientras que en la inclusión la intervención corresponde exclusivamente al especialista de pedagogía terapéutica."
+        },
+        "correct": "B",
+        "justification": "En la integración, el alumnado accede al espacio común pero permanece en un subgrupo diferenciado sin transformar apenas la estructura; en la inclusión, todas las personas participan en el mismo espacio porque el entorno se organiza para eliminar barreras."
+    },
+    {
+        "id": "SFE-T3-12",
+        "num": 12,
+        "question": "Según la definición de la UNESCO (2017) y los principios del modelo inclusivo recogidos en el material, ¿cuál de las siguientes afirmaciones describe correctamente la educación inclusiva?",
+        "options": {
+            "A": "Es un conjunto de medidas compensatorias destinadas únicamente al alumnado extranjero con desconocimiento del idioma vehicular.",
+            "B": "Es el proceso de fortalecimiento de la capacidad del sistema educativo para llegar a todos los estudiantes, asegurando presencia, participación y apoyo, y oponiéndose a centros segregados y currículos diferenciados.",
+            "C": "Es una estrategia basada en reducir los objetivos curriculares del alumnado en situación de vulnerabilidad para evitar el fracaso escolar.",
+            "D": "Es un modelo organizativo que prioriza la creación de itinerarios separados por capacidad cognitiva desde la educación primaria."
+        },
+        "correct": "B",
+        "justification": "La UNESCO (2017) define la educación inclusiva como el proceso de fortalecimiento de la capacidad del sistema para llegar a todos los estudiantes, asegurando presencia, participación y apoyo, superando barreras y oponiéndose a centros segregados y currículos diferenciados."
+    },
+    {
+        "id": "SFE-T3-13",
+        "num": 13,
+        "question": "Frente al modelo compensatorio tradicional, ¿dónde sitúa el foco de análisis e intervención el enfoque inclusivo?",
+        "options": {
+            "A": "En diagnosticar los déficits individuales y las carencias culturales del entorno familiar del estudiante.",
+            "B": "En identificar y eliminar las barreras para el aprendizaje y la participación que surgen en el contexto ante los distintos estilos y ritmos del alumnado.",
+            "C": "En seleccionar al alumnado con mejores resultados académicos para concentrar en ellos los recursos económicos del centro.",
+            "D": "En exigir que las minorías abandonen sus pautas culturales antes de incorporarse al aula ordinaria."
+        },
+        "correct": "B",
+        "justification": "Frente al modelo compensatorio centrado en dificultades o necesidades individuales, el enfoque inclusivo pone el foco en identificar y eliminar las barreras del contexto que impiden aprender y participar cuando hay ritmos y estilos diversos."
+    },
+    {
+        "id": "SFE-T3-14",
+        "num": 14,
+        "question": "En el marco de la perspectiva intercultural, ¿qué diferencia existe entre el «enfoque culturalista o esencialista» y el «asimilacionismo»?",
+        "options": {
+            "A": "El enfoque culturalista considera las culturas como fijas e inmutables (asociando cada país a una única cultura), mientras que el asimilacionismo exige a la minoría abandonar su cultura y adoptar la del país de destino.",
+            "B": "El enfoque culturalista promueve el diálogo horizontal entre saberes, mientras que el asimilacionismo defiende la creación de escuelas-puente segregadas.",
+            "C": "El enfoque culturalista sitúa a un grupo bajo tutela paternalista, mientras que el asimilacionismo revisa el currículo desde una óptica descolonizada.",
+            "D": "El enfoque culturalista favorece los agrupamientos heterogéneos, mientras que el asimilacionismo garantiza el mantenimiento de las lenguas maternas en el centro."
+        },
+        "correct": "A",
+        "justification": "La perspectiva intercultural evita tanto el enfoque culturalista o esencialista (concebir las culturas como fijas e inmutables o identificar cada país con una única cultura) como el asimilacionismo (exigir a la minoría que renuncie a su cultura para adoptar la dominante)."
+    },
+    {
+        "id": "SFE-T3-15",
+        "num": 15,
+        "question": "De acuerdo con Torrego y Villaoslada (2004), ¿cómo deben concebirse y gestionarse los conflictos en el entorno escolar?",
+        "options": {
+            "A": "Como anomalías graves que deben reprimirse mediante sanciones unilaterales impuestas por el equipo directivo sin participación del alumnado.",
+            "B": "Como fenómenos inherentes a la convivencia humana que deben prevenirse y gestionarse mediante normas democráticas, mediación, cultura dialógica y educación emocional.",
+            "C": "Como problemas derivados exclusivamente de la presencia de alumnado inmigrante que se resuelven separando a los grupos por origen.",
+            "D": "Como situaciones privadas entre estudiantes en las que el centro educativo debe abstenerse de intervenir para respetar su autonomía."
+        },
+        "correct": "B",
+        "justification": "Torrego y Villaoslada (2004) sostienen que los conflictos son inherentes a toda convivencia y proponen gestionarlos mediante la elaboración participativa y democrática de normas, equipos de mediación, cultura dialógica y regulación emocional."
+    },
+    {
+        "id": "SFE-T3-16",
+        "num": 16,
+        "question": "¿Cómo distingue el material las necesidades básicas formuladas por Galtung (1980) de las necesidades individuales señaladas por Besalú (2002)?",
+        "options": {
+            "A": "Galtung identifica supervivencia, bienestar, identidad, representación y libertad; Besalú señala las necesidades afectivas, cognitivas, sociales y culturales.",
+            "B": "Galtung identifica las necesidades afectivas y cognitivas; Besalú enumera las necesidades de empleo, vivienda, salud y seguridad jurídica.",
+            "C": "Galtung se centra únicamente en las necesidades lingüísticas del alumnado migrante; Besalú analiza las necesidades económicas del profesorado.",
+            "D": "Galtung clasifica las necesidades curriculares de etapa; Besalú establece las competencias clave de la LOMLOE."
+        },
+        "correct": "A",
+        "justification": "Galtung (1980) identifica cinco necesidades básicas (supervivencia, bienestar, identidad, representación y libertad), mientras que Besalú (2002) añade que el centro debe detectar las necesidades individuales afectivas, cognitivas, sociales y culturales."
+    },
+    {
+        "id": "SFE-T3-17",
+        "num": 17,
+        "question": "Según Boaventura de Sousa (2009, 2011), ¿qué significa la «injusticia cognitiva» y qué alternativa propone frente a ella?",
+        "options": {
+            "A": "Consiste en la falta de recursos digitales en las aulas rurales y se resuelve dotando de ordenadores individuales a cada estudiante.",
+            "B": "Consiste en asumir que existe un único conocimiento válido desvalorizando otros saberes, frente a lo cual propone las «epistemologías del Sur» para reconocer y relacionar saberes diversos.",
+            "C": "Consiste en evaluar mediante exámenes escritos al alumnado con dificultades lectoras, proponiendo sustituir todas las pruebas por autoevaluaciones.",
+            "D": "Consiste en el predominio de las asignaturas humanísticas sobre las científicas, proponiendo un currículo exclusivamente tecnológico."
+        },
+        "correct": "B",
+        "justification": "De Sousa define la injusticia cognitiva como asumir que solo existe un conocimiento válido y desvalorizar otros saberes; frente a ello plantea las epistemologías del Sur para reconocer y articular diversos conocimientos, incluidos los de grupos oprimidos."
+    },
+    {
+        "id": "SFE-T3-18",
+        "num": 18,
+        "question": "Un claustro de un instituto situado en una localidad sin alumnado extranjero decide descartar la incorporación de la perspectiva intercultural en su Proyecto Educativo argumentando que «aquí no tenemos problemas de inmigración». A la luz de Besalú (2002), Sáez (2006) y Arroyo (2013), ¿por qué es erróneo este planteamiento?",
+        "options": {
+            "A": "Porque la legislación obliga a aplicar programas compensatorios únicamente cuando el porcentaje de alumnado extranjero supera el 15%.",
+            "B": "Porque la perspectiva intercultural es una educación para todas las personas que debe formar parte de los valores y de toda la comunidad educativa, con independencia del número de estudiantes racializados.",
+            "C": "Porque la interculturalidad consiste en organizar jornadas gastronómicas anuales aunque no haya familias de otros países en el barrio.",
+            "D": "Porque la ausencia de alumnado migrante exige implantar currículos diferenciados para preparar al alumnado ante futuros viajes internacionales."
+        },
+        "correct": "B",
+        "justification": "Besalú (2002), Sáez (2006) y Arroyo (2013) sostienen que la perspectiva intercultural debe impregnar los valores de todo el centro y su entorno comunitario para todas las personas, independientemente de cuántos estudiantes racializados o extranjeros haya."
+    },
+    {
+        "id": "SFE-T3-19",
+        "num": 19,
+        "question": "Un equipo docente de Lengua y Literatura e Historia revisa sus programaciones para sustituir un temario centrado exclusivamente en autores europeos por otro que incorpore referentes literarios, filosóficos e históricos de África, América Latina y el pueblo gitano, analizando críticamente sesgos y estereotipos. ¿Qué dimensión de la perspectiva intercultural están aplicando?",
+        "options": {
+            "A": "La revisión del currículo y los recursos didácticos desde una perspectiva antirracista y descolonizada.",
+            "B": "La aplicación de un modelo de educación compensatoria centrado en el déficit lingüístico inicial.",
+            "C": "La implementación de un enfoque paternalista de tutela hacia las minorías culturales del centro.",
+            "D": "La creación de aulas de enlace para separar temporalmente al alumnado según su origen geográfico."
+        },
+        "correct": "A",
+        "justification": "Revisar el currículo y los materiales para superar el etnoeurocentrismo e incorporar referentes diversos, antirracistas y descolonizados corresponde directamente a la dimensión curricular de la perspectiva intercultural (Walsh, 2010; Arroyo, 2014)."
+    },
+    {
+        "id": "SFE-T3-20",
+        "num": 20,
+        "question": "¿Qué prácticas pedagógicas y organizativas propone el enfoque inclusivo e intercultural para favorecer la interacción y luchar contra el fracaso escolar según Flecha y Puigvert (2002)?",
+        "options": {
+            "A": "Agrupamientos homogéneos por nivel de competencia, reducción de objetivos mínimos y docencia individualizada aislada.",
+            "B": "Altas expectativas hacia alumnado, familias y profesorado, agrupamientos heterogéneos, metodologías cooperativas y comunidades de aprendizaje.",
+            "C": "Segregación transitoria en centros específicos hasta que el alumnado alcance la media académica del grupo ordinario.",
+            "D": "Delegación exclusiva de la convivencia en sanciones disciplinarias externas sin participación de las familias ni del barrio."
+        },
+        "correct": "B",
+        "justification": "Flecha y Puigvert (2002) proponen mantener altas expectativas hacia alumnado, familias y profesorado, organizar agrupamientos heterogéneos que mezclen distintos niveles de rendimiento o motivación, utilizar metodologías cooperativas e impulsar comunidades de aprendizaje."
+    }
+]
