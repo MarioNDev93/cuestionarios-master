@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T8-01",
+        "num": 1,
+        "question": "Según la distinción establecida por Rojas (1999), ¿qué diferencia a la «competencia social» de las «habilidades sociales»?",
+        "options": {
+            "A": "La competencia social es un constructo global, teórico y multidimensional para valorar el desempeño, mientras que las habilidades sociales son conductas concretas que la sustentan.",
+            "B": "La competencia social comprende exclusivamente los componentes emocionales innatos, mientras que las habilidades sociales abarcan solo destrezas motoras observables.",
+            "C": "La competencia social se adquiere en el grupo de iguales durante la adolescencia, mientras que las habilidades sociales se desarrollan únicamente en la formación inicial docente.",
+            "D": "La competencia social mide el dominio disciplinar del profesorado y las habilidades sociales evalúan la participación administrativa de las familias."
+        },
+        "correct": "A",
+        "justification": "Según Rojas (1999), la competencia social es un constructo global, teórico y multidimensional que permite valorar el desempeño, mientras que las habilidades sociales son conductas concretas que, en conjunto, sustentan esa competencia."
+    },
+    {
+        "id": "SFE-T8-02",
+        "num": 2,
+        "question": "¿Cuál de las siguientes aportaciones sobre el concepto de habilidades sociales corresponde específicamente a Monjas (1999)?",
+        "options": {
+            "A": "Son destrezas específicas para realizar de forma competente una tarea interpersonal que forman repertorios complejos adquiridos mediante el aprendizaje y, por tanto, pueden enseñarse y mejorarse.",
+            "B": "Son un proceso continuo y permanente que desarrolla competencias emocionales con el objetivo exclusivo de prevenir conflictos legales en el centro.",
+            "C": "Son rasgos temperamentales estables que determinan el equilibrio psicológico del docente con independencia de su contexto cultural.",
+            "D": "Son técnicas de comunicación unilateral destinadas a persuadir a las familias para que acepten las normas disciplinarias del aula."
+        },
+        "correct": "A",
+        "justification": "Monjas (1999) define las habilidades sociales como destrezas específicas para realizar de forma competente una tarea interpersonal, formando repertorios de conductas complejas adquiridas mediante el aprendizaje que pueden enseñarse y mejorarse."
+    },
+    {
+        "id": "SFE-T8-03",
+        "num": 3,
+        "question": "En el ámbito de la importancia de las habilidades socioeducativas para el proceso docente, ¿qué papel atribuyen Roche y Marsh (2000) al autoconcepto del profesorado?",
+        "options": {
+            "A": "Señalan su posible efecto mediador en la enseñanza, vinculándolo con el rendimiento docente, su equilibrio psicológico y su manera de relacionarse.",
+            "B": "Lo consideran una variable irrelevante una vez que el docente domina los contenidos científicos de su especialidad.",
+            "C": "Lo restringen exclusivamente a la valoración académica que el alumnado realiza sobre las pruebas de evaluación.",
+            "D": "Sostienen que un autoconcepto positivo sustituye la necesidad de formación inicial en competencias sociales y personales."
+        },
+        "correct": "A",
+        "justification": "El material vincula la percepción y valoración que el profesorado tiene de sí mismo con su rendimiento, equilibrio psicológico y forma de relacionarse, destacando que Roche y Marsh (2000) señalan el posible efecto mediador del autoconcepto en la enseñanza."
+    },
+    {
+        "id": "SFE-T8-04",
+        "num": 4,
+        "question": "De acuerdo con Curran (1985, citado por Luca de Tena, Rodríguez y Sureda, 2001), ¿cuál de las siguientes ideas sintetiza la relación entre habilidades interpersonales y funcionamiento psicológico?",
+        "options": {
+            "A": "Las relaciones son clave para el desarrollo psicológico, la falta de armonía interpersonal puede alterarlo y aprender estrategias mejora la competencia y favorece dicho funcionamiento.",
+            "B": "El funcionamiento psicológico determina de forma unilateral la competencia social sin que el aprendizaje de estrategias modifique el desempeño.",
+            "C": "La falta de armonía interpersonal en el aula estimula el pensamiento alternativo y fortalece automáticamente el clima escolar.",
+            "D": "Las estrategias de relación interpersonal resultan eficaces únicamente cuando se aplican de forma homogénea sin atender al marco cultural."
+        },
+        "correct": "A",
+        "justification": "Curran (1985) destaca cuatro ideas: las relaciones son clave para el desarrollo y funcionamiento psicológico, la falta de armonía interpersonal puede alterarlo, aprender estrategias mejora la competencia en situaciones concretas y una mayor competencia interpersonal favorece el funcionamiento psicológico."
+    },
+    {
+        "id": "SFE-T8-05",
+        "num": 5,
+        "question": "En la clasificación de las habilidades sociales en tres tipos de destrezas (pensar, sentir y actuar), ¿qué elementos comprende el tipo «cognitivas (pensar)»?",
+        "options": {
+            "A": "Distinguir conductas socialmente deseables, detectar estados propios y ajenos, resolver problemas mediante pensamiento alternativo y relacional y autorregularse con autorrefuerzo y autocastigo.",
+            "B": "Iniciar y mantener conversaciones, formular preguntas, negociar conflictos y rechazar provocaciones sin recurrir a la agresión.",
+            "C": "Expresar y manifestar emociones como la ira, el enfado, la alegría, la tristeza, el asco o la vergüenza ante un interlocutor.",
+            "D": "Regular la postura corporal, la intensidad vocal, el ritmo del habla, los gestos y el contacto visual durante una entrevista."
+        },
+        "correct": "A",
+        "justification": "Las habilidades cognitivas (pensar) comprenden distinguir conductas socialmente deseables, detectar necesidades, gustos y estados de ánimo propios y ajenos, resolver problemas mediante pensamiento alternativo y relacional y autorregularse mediante autorrefuerzo y autocastigo."
+    },
+    {
+        "id": "SFE-T8-06",
+        "num": 6,
+        "question": "Según la Regla de Mehrabian presentada en el material para la comunicación de emociones y sentimientos, ¿qué porcentaje corresponde respectivamente al lenguaje oral, al paraverbal y al corporal?",
+        "options": {
+            "A": "7 % oral, 38 % paraverbal y 55 % corporal.",
+            "B": "38 % oral, 55 % paraverbal y 7 % corporal.",
+            "C": "55 % oral, 7 % paraverbal y 38 % corporal.",
+            "D": "15 % oral, 35 % paraverbal y 50 % corporal."
+        },
+        "correct": "A",
+        "justification": "La diapositiva del material asigna al comunicar emociones y sentimientos un 7 % al lenguaje oral, un 38 % al paraverbal (entonación, pausas y ritmo) y un 55 % al corporal (gestos, posturas y mirada), precisándose en la ampliación que en la obra de Mehrabian (1971) ese 55 % corresponde a la expresión facial."
+    },
+    {
+        "id": "SFE-T8-07",
+        "num": 7,
+        "question": "Dentro de «Las 7 C» de la comunicación eficaz recogidas en el temario, ¿qué diferencia a la «Calma» del «Control»?",
+        "options": {
+            "A": "La calma consiste en mantener la serenidad para favorecerla también en el interlocutor, mientras que el control implica regularse y cuidar el lenguaje corporal, el ritmo y el tono.",
+            "B": "La calma consiste en exponer los argumentos de forma breve y concreta, mientras que el control supone respaldar lo dicho con hechos verificables.",
+            "C": "La calma equivale a saber escuchar sin interrumpir, mientras que el control consiste en expresar los mensajes de forma directa y comprensible.",
+            "D": "La calma se aplica únicamente en reuniones grupales, mientras que el control se reserva para las entrevistas individuales con familias."
+        },
+        "correct": "A",
+        "justification": "En el cuadro de Las 7 C, «Calma» se aplica manteniendo la serenidad para favorecerla también en el interlocutor, mientras que «Control» se refiere a autorregularse y cuidar el lenguaje corporal, el ritmo y el tono."
+    },
+    {
+        "id": "SFE-T8-08",
+        "num": 8,
+        "question": "En la clasificación de seis grupos de habilidades sociales del material, ¿a qué grupo pertenecen «pedir ayuda, dar y seguir instrucciones, disculparse y convencer o persuadir»?",
+        "options": {
+            "A": "Grupo II. Avanzadas",
+            "B": "Grupo I. Primeras o elementales",
+            "C": "Grupo IV. Alternativas a la agresión",
+            "D": "Grupo V. De planificación"
+        },
+        "correct": "A",
+        "justification": "El Grupo II (Habilidades avanzadas) incluye pedir ayuda, dar y seguir instrucciones, disculparse y convencer o persuadir."
+    },
+    {
+        "id": "SFE-T8-09",
+        "num": 9,
+        "question": "Al analizar los estilos de relación deficitarios por niveles, ¿qué manifestaciones caracterizan al estilo «pasivo» en el nivel emocional y en el nivel instrumental?",
+        "options": {
+            "A": "En el nivel emocional presenta culpa, vergüenza, temor o ansiedad, y en el instrumental hablar poco o despacio, sumisión, timidez y aislamiento.",
+            "B": "En el nivel emocional presenta ira, rabia o rencor, y en el instrumental gritos, ironía, burlas y daños materiales.",
+            "C": "En el nivel emocional presenta serenidad y empatía, y en el instrumental tono conversacional firme y expresión en primera persona.",
+            "D": "En el nivel emocional presenta ausencia de ansiedad condicionada, y en el instrumental facilidad para iniciar y mantener conversaciones."
+        },
+        "correct": "A",
+        "justification": "En el cuadro de agresión y pasividad por niveles, la pasividad se manifiesta en el nivel emocional mediante culpa, vergüenza, temor, ansiedad o hipersensibilidad, y en el instrumental mediante hablar poco, bajo o despacio, escasa autoafirmación, quejas, sumisión, timidez, aislamiento y dificultad para conversar."
+    },
+    {
+        "id": "SFE-T8-10",
+        "num": 10,
+        "question": "Un estudiante difunde en redes sociales un rumor falso sobre un compañero de clase sin enfrentarse a él cara a cara. Según la tipología de la agresión del material, ¿cómo se clasifica esta conducta?",
+        "options": {
+            "A": "Agresión verbal e indirecta, porque la persona afectada sufre las consecuencias de una acción (como una calumnia) que no recibe directamente.",
+            "B": "Agresión física y directa, porque produce un perjuicio observable en la convivencia del grupo de iguales.",
+            "C": "Estilo pasivo instrumental, porque evita la confrontación presencial y la expresión honesta de opiniones.",
+            "D": "Agresión verbal y directa, porque se transmite mediante mensajes escritos dirigidos a la comunidad escolar."
+        },
+        "correct": "A",
+        "justification": "Según el material, la agresión es verbal cuando emplea palabras (insultos, calumnias) y es indirecta cuando la persona afectada sufre las consecuencias de una acción que no recibe directamente cara a cara, citando explícitamente la calumnia o la vulneración de la intimidad."
+    },
+    {
+        "id": "SFE-T8-11",
+        "num": 11,
+        "question": "En el desarrollo de la respuesta asertiva, ¿qué diferencia al «pensamiento consecuencial» del «pensamiento de perspectiva»?",
+        "options": {
+            "A": "El pensamiento consecuencial consiste en anticipar qué ocurriría con cada opción, mientras que el pensamiento de perspectiva consiste en ponerse en el lugar de la otra persona.",
+            "B": "El pensamiento consecuencial consiste en buscar múltiples opciones de conducta, mientras que el pensamiento de perspectiva consiste en aplicar el autorrefuerzo.",
+            "C": "El pensamiento consecuencial se adquiere exclusivamente por observación simbólica, mientras que el de perspectiva depende solo de la instrucción formal.",
+            "D": "El pensamiento consecuencial evalúa la madurez moral del interlocutor, mientras que el de perspectiva mide la intensidad vocal de la respuesta."
+        },
+        "correct": "A",
+        "justification": "El documento define el pensamiento alternativo como buscar opciones, el pensamiento consecuencial como anticipar qué ocurriría con cada opción y el pensamiento de perspectiva como ponerse en el lugar de la otra persona."
+    },
+    {
+        "id": "SFE-T8-12",
+        "num": 12,
+        "question": "Un docente en prácticas observa que su tutor de instituto maneja con serenidad y firmeza una queja de una familia, recibe elogios del equipo directivo por su mediación y decide imitar esa forma de actuar en su propia tutoría. ¿Qué vía de aprendizaje de las habilidades sociales ilustra este caso?",
+        "options": {
+            "A": "Aprendizaje por observación, al ver a un modelo significativo y las consecuencias positivas que obtiene.",
+            "B": "Aprendizaje por experiencia directa mediante extinción de una conducta previamente reforzada.",
+            "C": "Aprendizaje verbal o instruccional mediante incitaciones explícitas en el aula.",
+            "D": "Aprendizaje por retroalimentación interpersonal recibida simultáneamente de su propio interlocutor."
+        },
+        "correct": "A",
+        "justification": "El aprendizaje por observación se produce al ver modelos significativos (como docentes, familia o amistades) o simbólicos y comprobar las consecuencias de su conducta (por ejemplo, ver que reciben reconocimiento o felicitación), lo que lleva a imitarla."
+    },
+    {
+        "id": "SFE-T8-13",
+        "num": 13,
+        "question": "¿Por qué puede fallar la respuesta asertiva de una persona incluso cuando ya ha aprendido previamente dicha habilidad?",
+        "options": {
+            "A": "Por el castigo o el temor al castigo que inhiben la conducta aprendida, o por cogniciones inadecuadas como creencias irracionales o valoraciones desadaptadas.",
+            "B": "Únicamente por la falta de oportunidades o modelos previos durante la socialización primaria en la familia.",
+            "C": "Porque el aprendizaje mediante instrucción verbal en la escuela anula el refuerzo obtenido en el grupo de iguales.",
+            "D": "Porque las habilidades instrumentales de actuación impiden activar simultáneamente la regulación emocional."
+        },
+        "correct": "A",
+        "justification": "Entre las causas por las que falla la asertividad, el material distingue la falta de aprendizaje y el aprendizaje inadecuado frente al castigo (o temor al castigo), que puede inhibir una respuesta asertiva ya aprendida, y las cogniciones inadecuadas (creencias irracionales o valoraciones desadaptadas)."
+    },
+    {
+        "id": "SFE-T8-14",
+        "num": 14,
+        "question": "Durante una entrevista tutorial, un familiar insiste repetidamente en que el profesor modifique la calificación de un examen sin aportar criterios objetivos, intentando hacerle sentir culpable por el suspenso. El docente responde: «Entiendo que le preocupe mucho el resultado de su hijo este trimestre, pero la calificación responde a los criterios evaluados y no voy a modificarla». ¿Qué técnica asertiva está empleando?",
+        "options": {
+            "A": "Banco de niebla",
+            "B": "Interrogación negativa",
+            "C": "Aplazar la respuesta",
+            "D": "Aserción negativa"
+        },
+        "correct": "A",
+        "justification": "La técnica del «banco de niebla» consiste en reconocer lo admisible o comprensible de lo que dice el interlocutor ante una presión o crítica manipuladora y retomar el propio argumento o límite (disco rayado) sin ceder."
+    },
+    {
+        "id": "SFE-T8-15",
+        "num": 15,
+        "question": "Dentro de las técnicas para mejorar las habilidades sociales y afrontar críticas, ¿en qué consiste la «interrogación negativa»?",
+        "options": {
+            "A": "En pedir al interlocutor que concrete la crítica para entender mejor sus ideas o sentimientos.",
+            "B": "En aceptar una crítica justa sin dar excusas ni justificarse en exceso.",
+            "C": "En comunicar expresamente que se desea dar por terminado el tema de conversación.",
+            "D": "En demorar la contestación a una petición a la que no se accederá para evitar herir al otro."
+        },
+        "correct": "A",
+        "justification": "La interrogación negativa consiste en pedir que se concrete la crítica formulada con el fin de comprender mejor las ideas o los sentimientos de quien la emite, diferenciándose de la aserción negativa (aceptar una crítica justa sin excusas)."
+    },
+    {
+        "id": "SFE-T8-16",
+        "num": 16,
+        "question": "En el marco de la relación entre familia y escuela, ¿qué plantean Hernández-Aristu y Hernández-Van-Waes (2016) respecto al asesoramiento o «coaching» educativo?",
+        "options": {
+            "A": "Que se apoya en el diálogo, la confianza y la cooperación, proponiendo un proyecto familiar consensuado con valores, misión y visión concretado en tiempo de calidad, exigencia y cariño.",
+            "B": "Que debe centrarse en sustituir el proyecto educativo familiar por directrices técnicas unilaterales fijadas por el departamento de orientación.",
+            "C": "Que limita la intervención tutorial a la entrega trimestral de calificaciones sin abordar las expectativas ni la comunicación intrafamiliar.",
+            "D": "Que exige separar estrictamente la función afectiva del hogar de la función instructiva del centro educativo para evitar solapamientos."
+        },
+        "correct": "A",
+        "justification": "Hernández-Aristu y Hernández-Van-Waes (2016) sostienen que el asesoramiento o coaching educativo se basa en el diálogo, la confianza y la cooperación, promoviendo un proyecto familiar consensuado (valores, actitudes, expectativas, misión y visión) concretado en tiempo compartido de calidad, comunicación, exigencia y cariño, planes conjuntos y apertura al apoyo del centro."
+    },
+    {
+        "id": "SFE-T8-17",
+        "num": 17,
+        "question": "Dentro de las cinco tareas del liderazgo positivo atribuido en el material a Kouzes y Posner (2003), ¿qué implica la tarea denominada «Marcar el camino»?",
+        "options": {
+            "A": "Dar ejemplo y actuar con transparencia y coherencia con los propios valores.",
+            "B": "Innovar, experimentar, asumir riesgos y aceptar ideas nuevas en un clima estable.",
+            "C": "Alentar, reforzar y reconocer aportaciones y avances respetando ritmos y necesidades.",
+            "D": "Ayudar a visualizar los objetivos futuros aprovechando los puntos fuertes de cada persona."
+        },
+        "correct": "A",
+        "justification": "En el modelo de cinco tareas del liderazgo positivo recogido en el tema, «Marcar el camino» consiste en dar ejemplo y actuar con transparencia y coherencia con los propios valores."
+    },
+    {
+        "id": "SFE-T8-18",
+        "num": 18,
+        "question": "¿Qué diferencia la finalidad de la «tutoría como asesoramiento individual» frente a la «escuela de familias»?",
+        "options": {
+            "A": "La tutoría personaliza el seguimiento mediante un intercambio bidireccional entre docente, estudiante y familia, mientras que la escuela de familias es un espacio grupal de información, formación y reflexión preventiva sobre la función parental.",
+            "B": "La tutoría aborda exclusivamente el rendimiento académico de cada asignatura, mientras que la escuela de familias sustituye al Consejo Escolar en la aprobación de normas.",
+            "C": "La tutoría se dirige únicamente a familias en situación de riesgo social, mientras que la escuela de familias es obligatoria al inicio de cada trimestre para todo el alumnado.",
+            "D": "La tutoría consiste en exposiciones magistrales del departamento de orientación, mientras que la escuela de familias evalúa individualmente la conducta de cada estudiante."
+        },
+        "correct": "A",
+        "justification": "La tutoría individual personaliza el seguimiento y permite un intercambio bidireccional entre docente, estudiante y familia, mientras que la escuela de familias constituye un espacio grupal de información, formación y reflexión sobre la función parental que Fresnillo Poza et al. (2000) definen como recurso preventivo."
+    },
+    {
+        "id": "SFE-T8-19",
+        "num": 19,
+        "question": "Al diseñar un plan de acción socioeducativo con un adolescente y su familia, ¿qué cuestión específica resuelve el elemento «Motivación» dentro de los cinco elementos propuestos en el temario?",
+        "options": {
+            "A": "¿Por qué le merece la pena implicarse al adolescente?, buscando motivación intrínseca, participación voluntaria y compromiso.",
+            "B": "¿Con qué recursos concretos se trabajará?, seleccionando herramientas como una guía de estudio o tabla de autorregulación.",
+            "C": "¿En qué plazos y sesiones se desarrollará la intervención?, asumiendo que ciertos cambios requieren varios meses.",
+            "D": "¿Cómo avanza y qué ha conseguido?, evaluando el proceso mediante observación y conversaciones informales."
+        },
+        "correct": "A",
+        "justification": "Dentro de los cinco elementos de un plan de acción (objetivo, medios, motivación, temporalización y control o seguimiento), la «Motivación» responde a «¿Por qué le merece la pena implicarse al adolescente?», buscando motivación intrínseca, participación voluntaria y compromiso."
+    },
+    {
+        "id": "SFE-T8-20",
+        "num": 20,
+        "question": "Según Palomero-Fernández (2009), ¿qué cualidad docente consiste en percibir los propios pensamientos, emociones y conductas para desarrollar la competencia socioemocional?",
+        "options": {
+            "A": "La disposición fenomenológica",
+            "B": "La inteligencia distribuida",
+            "C": "La equifinalidad motivacional",
+            "D": "El pensamiento consecuencial"
+        },
+        "correct": "A",
+        "justification": "Palomero-Fernández (2009) propone cultivar cuatro cualidades para desarrollar la competencia socioemocional docente: la disposición fenomenológica (definida como percibir los propios pensamientos, emociones y conductas), la autonomía y responsabilidad, la independencia de criterio para construir la identidad profesional y la disposición cooperadora."
+    }
+]

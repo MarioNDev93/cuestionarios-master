@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T4-01",
+        "num": 1,
+        "question": "¿Por qué se afirma que la influencia educativa de la familia es especialmente intensa en comparación con la del profesorado?",
+        "options": {
+            "A": "Porque los hijos suelen identificarse con sus progenitores y comparten con ellos más tiempo que con los docentes.",
+            "B": "Porque la familia constituye el segundo agente socializador tras la escuela en la construcción de la identidad.",
+            "C": "Porque la familia transmite exclusivamente normas formales y contenidos académicos estructurados.",
+            "D": "Porque las relaciones familiares se basan únicamente en el afecto y carecen de normas organizativas."
+        },
+        "correct": "A",
+        "justification": "Los hijos suelen identificarse con sus progenitores, a veces de forma inconsciente, y comparten con ellos más tiempo que con el profesorado, lo que hace que su influencia educativa sea especialmente intensa."
+    },
+    {
+        "id": "SFE-T4-02",
+        "num": 2,
+        "question": "Desde la mirada sociológica sobre la familia, ¿cuál es el objeto de estudio de la perspectiva microsociológica?",
+        "options": {
+            "A": "El análisis de las estructuras familiares y sus grandes transformaciones históricas.",
+            "B": "El estudio de las interacciones y relaciones que se producen dentro de la familia.",
+            "C": "La función de la familia como organismo político al servicio de la ciudad y los ciudadanos.",
+            "D": "La clasificación estadística de los distintos tipos de hogares según su extensión."
+        },
+        "correct": "B",
+        "justification": "La perspectiva microsociológica se centra en las interacciones y relaciones que tienen lugar en el interior de la familia, mientras que la macrosociológica la estudia como institución social, sus estructuras y transformaciones."
+    },
+    {
+        "id": "SFE-T4-03",
+        "num": 3,
+        "question": "¿Qué planteamiento central sobre el matrimonio introducen Marx y Engels (1848)?",
+        "options": {
+            "A": "Su concepción como un organismo exclusivamente político y jurídico al margen del afecto.",
+            "B": "La necesidad de mantener la simbiosis entre la familia y la comunidad tradicional.",
+            "C": "El paso de entenderlo como unión de dos bienes a concebirlo como unión de dos corazones basada en la libertad.",
+            "D": "La supremacía de la regulación de clase sobre cualquier vínculo emocional entre los cónyuges."
+        },
+        "correct": "C",
+        "justification": "Marx y Engels (1848) destacan que el amor debe ocupar un lugar central, de modo que el matrimonio deja de entenderse como la unión de dos bienes y pasa a concebirse como la unión de dos corazones basada en la libertad."
+    },
+    {
+        "id": "SFE-T4-04",
+        "num": 4,
+        "question": "Según Philippe Ariès, ¿qué rasgo caracteriza a la familia durante la Edad Media y el Antiguo Régimen?",
+        "options": {
+            "A": "El predominio de la intimidad afectiva estrecha entre los cónyuges y hacia los hijos.",
+            "B": "La ausencia de predominio de la intimidad afectiva, existiendo distancia en la pareja y entre padres e hijos.",
+            "C": "La separación radical entre la esfera familiar privada y la intervención del Estado.",
+            "D": "El nacimiento de la sociología de la familia para racionalizar las relaciones domésticas."
+        },
+        "correct": "B",
+        "justification": "Según Philippe Ariès, en la Edad Media y el Antiguo Régimen no predomina la intimidad afectiva entre los miembros de la familia, alcanzando la distancia tanto a la pareja como a las relaciones entre padres e hijos."
+    },
+    {
+        "id": "SFE-T4-05",
+        "num": 5,
+        "question": "¿Qué autor del siglo XIX definió a la familia como el «verdadero elemento sociológico» y la sociedad más pequeña, considerándola fuente del orden social?",
+        "options": {
+            "A": "Lewis Henry Morgan",
+            "B": "John Locke",
+            "C": "Auguste Comte",
+            "D": "Frédéric Le Play"
+        },
+        "correct": "C",
+        "justification": "Auguste Comte define la familia como el «verdadero elemento sociológico» y la sociedad más pequeña, situándola como fuente y elemento del orden social."
+    },
+    {
+        "id": "SFE-T4-06",
+        "num": 6,
+        "question": "Según los indicadores demográficos de España recogidos en el material (serie 1976-2021), ¿qué tendencia se observa respecto a los hijos de madre no casada?",
+        "options": {
+            "A": "Un descenso progresivo desde casi la mitad de los nacimientos en 1976 hasta situarse por debajo del 3 % en 2021.",
+            "B": "Un mantenimiento estable en torno al 10 % durante todo el periodo analizado.",
+            "C": "Un incremento continuado que pasa del 2,15 % en 1976 al 49,25 % en 2021.",
+            "D": "Un aumento brusco hasta 1990 seguido de una caída constante hasta 2021."
+        },
+        "correct": "C",
+        "justification": "La tabla de indicadores demográficos de España muestra que el porcentaje de hijos de madre no casada aumenta de forma continua desde el 2,15 % en 1976, pasando por el 9,60 % en 1990 y el 34,48 % en 2009, hasta alcanzar el 49,25 % en 2021."
+    },
+    {
+        "id": "SFE-T4-07",
+        "num": 7,
+        "question": "¿Cuál de los siguientes rasgos forma parte de la teoría de la segunda transición demográfica formulada por Lesthaeghe (1995)?",
+        "options": {
+            "A": "El adelanto de la edad al primer matrimonio y el aumento de la fecundidad tradicional.",
+            "B": "La consolidación exclusiva de la familia nuclear moderna parsoniana frente a otras formas.",
+            "C": "El descenso y retraso de la nupcialidad y la fecundidad junto con el aumento de separaciones y divorcios.",
+            "D": "El incremento simultáneo de las tasas brutas de mortalidad y nupcialidad en sociedades occidentales."
+        },
+        "correct": "C",
+        "justification": "Lesthaeghe (1995) explica que la segunda transición demográfica en sociedades con bajas tasas de natalidad y mortalidad incluye el descenso y retraso de la nupcialidad y la fecundidad, la decisión de no casarse o no tener hijos, el aumento de separaciones y divorcios y una mayor visibilidad de diversas formas familiares."
+    },
+    {
+        "id": "SFE-T4-08",
+        "num": 8,
+        "question": "De acuerdo con Del Campo (2004), ¿qué valores prioriza la sociedad post-materialista con la que se relacionan las transformaciones familiares actuales?",
+        "options": {
+            "A": "La obediencia jerárquica, la división rígida de roles y la autoridad patriarcal.",
+            "B": "La autoexpresión, la tolerancia, la igualdad, la libertad y la calidad de vida.",
+            "C": "La acumulación patrimonial, la homogeneidad institucional y la indisolubilidad marital.",
+            "D": "La subordinación de la autonomía individual a las normas de la comunidad local."
+        },
+        "correct": "B",
+        "justification": "Del Campo (2004) relaciona las transformaciones familiares con una sociedad post-materialista que prioriza valores como la autoexpresión, la tolerancia, la igualdad, la libertad y la calidad de vida."
+    },
+    {
+        "id": "SFE-T4-09",
+        "num": 9,
+        "question": "¿Cómo se define el concepto de pareja LAT (Living Apart Together) según el glosario del material?",
+        "options": {
+            "A": "Una pareja con proyecto de vida común que convive bajo el mismo techo sin haber contraído matrimonio.",
+            "B": "Una relación estable sin convivencia habitual bajo el mismo techo.",
+            "C": "Una familia extensa en la que conviven tres generaciones en el mismo domicilio.",
+            "D": "Una unión reconstruida tras un proceso de separación o divorcio con hijos previos."
+        },
+        "correct": "B",
+        "justification": "El material define la pareja LAT como una relación estable en la que sus miembros no mantienen convivencia habitual bajo el mismo techo, diferenciándola de la unión de hecho."
+    },
+    {
+        "id": "SFE-T4-10",
+        "num": 10,
+        "question": "Respecto al debate sobre la «desfamiliarización», ¿qué postura sostiene Beck-Gernsheim (2003)?",
+        "options": {
+            "A": "Considera que la pérdida de hegemonía del modelo tradicional provoca el colapso de la cohesión social.",
+            "B": "Valora positivamente la transformación por el abanico de posibilidades que abre en las formas de convivencia.",
+            "C": "Defiende el retorno a la división rígida de roles por género para garantizar la estabilidad infantil.",
+            "D": "Sostiene que la estructura familiar tradicional es el único factor que garantiza el ajuste psicosocial."
+        },
+        "correct": "B",
+        "justification": "En el debate sobre la desfamiliarización, Beck-Gernsheim (2003) valora positivamente la transformación familiar debido al abanico de posibilidades que abre, debilitando el papel del patriarca y la división rígida de roles."
+    },
+    {
+        "id": "SFE-T4-11",
+        "num": 11,
+        "question": "Un docente observa que dos estudiantes de su aula pertenecen a estructuras familiares distintas (uno a una familia nuclear y otro a una familia monoparental), pero ambos muestran un excelente bienestar emocional. ¿Qué principio del material explica esta situación?",
+        "options": {
+            "A": "La estructura familiar por sí sola no determina el ajuste de los hijos, sino el clima familiar y las prácticas educativas.",
+            "B": "Las estructuras familiares diversas producen exactamente los mismos resultados que la familia extensa tradicional.",
+            "C": "El ajuste psicosocial del alumnado depende exclusivamente de la escuela una vez iniciada la escolarización.",
+            "D": "La ausencia de uno de los progenitores elimina la influencia de la disciplina familiar en el desarrollo."
+        },
+        "correct": "A",
+        "justification": "El material sostiene que la estructura familiar por sí sola no determina el ajuste de los hijos: el bienestar emocional y psicosocial depende más directamente de la capacidad de crear un clima familiar positivo y unas prácticas educativas adecuadas."
+    },
+    {
+        "id": "SFE-T4-12",
+        "num": 12,
+        "question": "Dentro de las funciones de la familia, ¿en qué consiste específicamente la función asistencial?",
+        "options": {
+            "A": "En poner recursos financieros en común para cubrir la alimentación y la crianza ordinaria.",
+            "B": "En ofrecer atención y ayuda especiales cuando algún miembro presenta un problema o necesidad específica.",
+            "C": "En transmitir normas culturales y valores mediante prácticas educativas cotidianas.",
+            "D": "En delegar la educación formal y religiosa en colegios e instituciones especializadas."
+        },
+        "correct": "B",
+        "justification": "La función asistencial consiste en ofrecer atención y ayuda especiales cuando algún miembro de la familia presenta un problema o necesidad específica, diferenciándose de las funciones económica, socializadora y afectiva."
+    },
+    {
+        "id": "SFE-T4-13",
+        "num": 13,
+        "question": "¿Cuál es la meta principal del proceso de socialización según Molpeceres, Musitu y Lila (1994)?",
+        "options": {
+            "A": "Garantizar la obediencia externa inmediata a las normas establecidas por la autoridad adulta.",
+            "B": "Interiorizar un sistema coherente de valores que sirva de guía para valorar la propia conducta.",
+            "C": "Sustituir los modelos de conducta familiares por los del grupo de iguales durante la infancia.",
+            "D": "Asegurar que los hijos reproduzcan sin cambios las costumbres de la generación anterior."
+        },
+        "correct": "B",
+        "justification": "Según Molpeceres, Musitu y Lila (1994), la meta de la socialización es interiorizar un sistema coherente de valores que sirva de guía para valorar la propia conducta."
+    },
+    {
+        "id": "SFE-T4-14",
+        "num": 14,
+        "question": "En el análisis del proceso de socialización familiar, ¿qué diferencia a la dimensión de «contenido» de la dimensión formal o «disciplina familiar»?",
+        "options": {
+            "A": "El contenido se refiere a las estrategias de supervisión y diálogo, y la disciplina a las creencias culturales.",
+            "B": "El contenido responde a qué se socializa (valores y normas), mientras que la disciplina responde a cómo se socializa.",
+            "C": "El contenido actúa únicamente en la infancia y la disciplina familiar se activa en la adolescencia.",
+            "D": "El contenido depende de la genética de los progenitores y la disciplina del entorno escolar."
+        },
+        "correct": "B",
+        "justification": "El material distingue dos dimensiones inseparables: el contenido responde a «¿qué se socializa?» (valores, creencias, normas, costumbres) y el aspecto formal o disciplina familiar responde a «¿cómo se socializa?» (estrategias, normas, supervisión, diálogo y prácticas educativas)."
+    },
+    {
+        "id": "SFE-T4-15",
+        "num": 15,
+        "question": "¿Por qué se afirma en el documento que la socialización familiar es un proceso bidireccional?",
+        "options": {
+            "A": "Porque participan tanto el padre como la madre en igualdad de condiciones.",
+            "B": "Porque se desarrolla simultáneamente en el hogar y en el centro educativo.",
+            "C": "Porque los hijos no son receptores pasivos y todos los miembros se influyen mutuamente.",
+            "D": "Porque combina la transmisión de afecto con el establecimiento de límites normativos."
+        },
+        "correct": "C",
+        "justification": "La socialización es un proceso bidireccional porque los hijos no son receptores pasivos: todos los miembros de la familia pueden influirse mutuamente en conductas, actitudes, sentimientos y valores."
+    },
+    {
+        "id": "SFE-T4-16",
+        "num": 16,
+        "question": "Durante la adolescencia, la búsqueda de identidad y autonomía suele generar distanciamiento y conflictos familiares. ¿Qué papel atribuye el material a estos conflictos?",
+        "options": {
+            "A": "Son un indicador inevitable de fracaso en el apego seguro desarrollado durante la infancia.",
+            "B": "Pueden servir para renegociar normas, requiriendo que la familia se adapte y mantenga el apoyo afectivo.",
+            "C": "Exigen que los progenitores reduzcan su apoyo emocional para acelerar la independencia adulta.",
+            "D": "Demuestran que la influencia familiar desaparece por completo frente al grupo de iguales."
+        },
+        "correct": "B",
+        "justification": "En la adolescencia, los conflictos derivados de la búsqueda de identidad y autonomía pueden servir para renegociar normas, por lo que la familia debe adaptarse y mantener el apoyo afectivo."
+    },
+    {
+        "id": "SFE-T4-17",
+        "num": 17,
+        "question": "En el ciclo vital familiar, ¿a quiénes se aplica la denominación de «generación sándwich»?",
+        "options": {
+            "A": "A los adolescentes que se encuentran entre las exigencias de la familia y la presión del grupo de iguales.",
+            "B": "A las personas adultas que atienden a la vez a sus descendientes y a sus progenitores mayores.",
+            "C": "A los abuelos que asumen en solitario la crianza de sus nietos por ausencia de los padres.",
+            "D": "A los jóvenes adultos que retrasan su emancipación manteniendo la convivencia en el hogar de origen."
+        },
+        "correct": "B",
+        "justification": "La «generación sándwich» designa a las personas adultas que atienden simultáneamente a sus descendientes y a sus progenitores mayores, evidenciando que la familia nuclear sigue necesitando la red de apoyo de la familia extensa."
+    },
+    {
+        "id": "SFE-T4-18",
+        "num": 18,
+        "question": "¿Cómo se configura el estilo educativo democrático a partir de las dos dimensiones propuestas en el material (López, 2005)?",
+        "options": {
+            "A": "Combina niveles altos de afecto y comunicación con niveles altos de control y disciplina razonada.",
+            "B": "Presenta niveles altos de afecto y comunicación junto con niveles bajos de control y exigencia.",
+            "C": "Prioriza niveles altos de control y disciplina estricta con niveles bajos de expresión afectiva.",
+            "D": "Mantiene niveles bajos tanto en la dimensión de afecto-comunicación como en la de control-disciplina."
+        },
+        "correct": "A",
+        "justification": "Los estilos educativos se organizan en torno a dos dimensiones (afecto/comunicación y control/disciplina), y el estilo democrático se caracteriza por combinar ambas dimensiones en niveles altos mediante afecto, comunicación y disciplina razonada."
+    },
+    {
+        "id": "SFE-T4-19",
+        "num": 19,
+        "question": "Según el material, ¿qué tendencia se asocia al nivel educativo de los progenitores en las prácticas de socialización familiar?",
+        "options": {
+            "A": "Niveles educativos más altos se asocian con mayor énfasis en la obediencia estricta y la conformidad.",
+            "B": "Niveles educativos más altos se asocian con mayor énfasis en la autonomía, el razonamiento y la expresión emocional.",
+            "C": "Niveles educativos más bajos se asocian con un rechazo sistemático al establecimiento de normas.",
+            "D": "El nivel educativo de los progenitores no guarda relación alguna con las pautas educativas empleadas."
+        },
+        "correct": "B",
+        "justification": "El material señala como tendencia (no como regla universal) que niveles educativos más altos de los progenitores se asocian con un mayor énfasis en la autonomía, el razonamiento y la expresión emocional, mientras que niveles más bajos enfatizan más la obediencia y la conformidad."
+    },
+    {
+        "id": "SFE-T4-20",
+        "num": 20,
+        "question": "Un niño muestra seguridad en sus relaciones escolares y buen ajuste psicosocial. Según el enfoque sobre los estilos de educación familiar del texto, ¿qué conducta parental temprana favorece este desarrollo?",
+        "options": {
+            "A": "La falta de respuesta parental para estimular tempranamente la autosuficiencia emocional.",
+            "B": "La disponibilidad y sensibilidad parental, que favorecen el desarrollo de un apego seguro.",
+            "C": "La aplicación de una disciplina rígida invariable independientemente de la edad y madurez del hijo.",
+            "D": "La delegación temprana de la función afectiva en redes institucionales externas al hogar."
+        },
+        "correct": "B",
+        "justification": "El material explica que la disponibilidad y sensibilidad parental favorecen un apego seguro, el cual se relaciona con un mejor ajuste psicosocial posterior, mientras que la falta de respuesta puede favorecer inseguridad e introversión."
+    }
+]

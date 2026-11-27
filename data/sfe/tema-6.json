@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T6-01",
+        "num": 1,
+        "question": "Según el planteamiento de Cobo (2016) recogido en el material, ¿qué se requiere además de dotar de tecnología a los centros para asegurar mejoras educativas?",
+        "options": {
+            "A": "Liderazgo docente y un cambio organizativo que abarque ámbitos como la formación, la evaluación y la reorganización de tiempos y espacios.",
+            "B": "Sustituir progresivamente los libros de texto impresos por dispositivos individuales en todas las materias del currículo.",
+            "C": "Adoptar una postura tecnófila optimista que delegue la gestión del aprendizaje en plataformas digitales automatizadas.",
+            "D": "Centralizar las decisiones pedagógicas en la administración educativa para homogeneizar el uso de herramientas digitales."
+        },
+        "correct": "A",
+        "justification": "Según Cobo (2016), dotar de tecnología no asegura mejoras educativas; se requiere liderazgo docente y un cambio organizativo concretado en siete ámbitos, entre los que figuran la formación de educadores, la descentralización de decisiones, la revisión de la evaluación y la reorganización de tiempos y espacios."
+    },
+    {
+        "id": "SFE-T6-02",
+        "num": 2,
+        "question": "¿Cómo se clasifican en el documento autores como Roszak (1986), Bloom (1989), Postman (1994) y Stoll (1996) respecto a su postura ante la tecnología?",
+        "options": {
+            "A": "Dentro de la postura optimista, al defender que la tecnología resuelve por sí sola los problemas educativos.",
+            "B": "Dentro de la postura pesimista, al sostener que la tecnología puede introducir más problemas que soluciones.",
+            "C": "Como fundadores del modelo TPACK de integración curricular contextualizada.",
+            "D": "Como impulsores de la segunda transición digital vinculada al aprendizaje permanente."
+        },
+        "correct": "B",
+        "justification": "El material agrupa a Roszak (1986), Bloom (1989), Postman (1994) y Stoll (1996) en la postura pesimista ante la tecnología, caracterizada por defender que esta puede introducir más problemas que soluciones."
+    },
+    {
+        "id": "SFE-T6-03",
+        "num": 3,
+        "question": "De acuerdo con la distinción conceptual establecida en el material, ¿qué diferencia a la «información» del «conocimiento»?",
+        "options": {
+            "A": "La información se transmite de forma síncrona y el conocimiento se construye únicamente mediante comunicación asíncrona.",
+            "B": "La información son datos y contenidos accesibles, mientras que el conocimiento es información seleccionada, comprendida y utilizada significativamente.",
+            "C": "La información pertenece al ámbito de las TAC y el conocimiento corresponde exclusivamente al dominio instrumental de las TIC.",
+            "D": "La información requiere validación científica previa y el conocimiento surge automáticamente al acceder a redes digitales."
+        },
+        "correct": "B",
+        "justification": "El documento establece como distinción esencial que la información equivale a datos y contenidos accesibles, mientras que el conocimiento es información seleccionada, comprendida y utilizada significativamente, por lo que tener acceso a información no equivale a aprender."
+    },
+    {
+        "id": "SFE-T6-04",
+        "num": 4,
+        "question": "Un docente de Educación Secundaria propone un debate en un foro virtual de la plataforma del centro para que el alumnado intervenga desde casa a lo largo de la semana antes de la siguiente sesión presencial. ¿Qué tipo de comunicación educativa está empleando?",
+        "options": {
+            "A": "Comunicación síncrona, porque todos los participantes comparten un mismo entorno virtual oficial.",
+            "B": "Comunicación asíncrona, porque la interacción ocurre en momentos distintos y existe demora entre mensajes.",
+            "C": "Comunicación unidireccional de transmisión, propia de las tecnologías expositivas tradicionales.",
+            "D": "Comunicación instrumental directa, definida por la simultaneidad de emisión y recepción."
+        },
+        "correct": "B",
+        "justification": "La comunicación asíncrona se define como aquella interacción que tiene lugar en momentos distintos existiendo demora entre los mensajes, siendo el foro y el correo electrónico ejemplos explícitos del material."
+    },
+    {
+        "id": "SFE-T6-05",
+        "num": 5,
+        "question": "Dentro de las nueve características de la sociedad de la información descritas por Cabero (2007), ¿a qué hace referencia la «inteligencia distribuida»?",
+        "options": {
+            "A": "A la desigualdad entre territorios y hogares en las oportunidades de acceso a Internet.",
+            "B": "A que el conocimiento se crea y comparte colectivamente con el apoyo de instrumentos tecnológicos.",
+            "C": "A la rapidez con la que las herramientas digitales quedan obsoletas y son sustituidas.",
+            "D": "A la necesidad de aprender fuera de las instituciones formales durante toda la vida."
+        },
+        "correct": "B",
+        "justification": "En la clasificación de Cabero (2007), la inteligencia distribuida implica que el conocimiento se crea y se comparte colectivamente con el apoyo de instrumentos tecnológicos."
+    },
+    {
+        "id": "SFE-T6-06",
+        "num": 6,
+        "question": "Según los resultados de PISA 2025 (OCDE, 2026) citados en el desarrollo teórico, ¿qué relación se observa entre el uso de dispositivos digitales en el centro escolar y el rendimiento en ciencias?",
+        "options": {
+            "A": "El uso muy elevado de dispositivos en el aula produce causalmente los mejores resultados en ciencias.",
+            "B": "El uso limitado o moderado para aprender se asocia con mejor rendimiento que el no uso o el uso muy elevado.",
+            "C": "El uso recreativo durante la jornada escolar mejora el rendimiento siempre que no supere las tres horas diarias.",
+            "D": "No existe ninguna asociación estadística entre la intensidad de uso de dispositivos y el rendimiento académico."
+        },
+        "correct": "B",
+        "justification": "El material indica que, según PISA 2025 (OCDE, 2026), el uso limitado o moderado de dispositivos para aprender en el centro se asocia con mejor rendimiento en ciencias que el no uso o el uso muy elevado, y que el uso recreativo se asocia con peores resultados al superar aproximadamente una hora diaria (siendo asociaciones y no relaciones causales)."
+    },
+    {
+        "id": "SFE-T6-07",
+        "num": 7,
+        "question": "¿Cuál es la secuencia correcta de decisión docente para integrar las TIC con sentido pedagógico según el material?",
+        "options": {
+            "A": "Seleccionar la herramienta digital disponible, diseñar una actividad motivadora y definir posteriormente los criterios de evaluación.",
+            "B": "Definir qué se pretende aprender, elegir cómo se aprenderá y evaluará, y decidir si las TIC aportan valor y cómo utilizarlas.",
+            "C": "Evaluar el nivel instrumental del alumnado, asignar dispositivos según sus habilidades y adaptar los objetivos al software.",
+            "D": "Sustituir los materiales impresos por recursos multimedia, fomentar el trabajo autónomo y comprobar la conectividad del aula."
+        },
+        "correct": "B",
+        "justification": "El objetivo didáctico precede a la herramienta: la secuencia de decisión docente consiste en (1) definir qué se pretende aprender, (2) elegir cómo se aprenderá y evaluará, y (3) decidir si las TIC aportan valor y cómo utilizarlas."
+    },
+    {
+        "id": "SFE-T6-08",
+        "num": 8,
+        "question": "Respecto a la distinción entre «nativos digitales» e «inmigrantes digitales» acuñada por Marc Prensky (2001), ¿qué precisión crítica realiza el material?",
+        "options": {
+            "A": "Los nacidos a partir de 1990 poseen de manera innata la capacidad de contrastar información y proteger su privacidad.",
+            "B": "Son etiquetas generacionales que no garantizan competencias digitales como contrastar información o producir contenidos de calidad.",
+            "C": "Los inmigrantes digitales presentan mayor competencia cognitiva y emocional en redes sociales que los nativos digitales.",
+            "D": "La brecha entre ambas generaciones desaparece automáticamente mediante el acceso temprano a teléfonos inteligentes."
+        },
+        "correct": "B",
+        "justification": "El material sitúa el corte generacional de Prensky (2001) en 1990 y advierte que estas etiquetas describen una clasificación generacional propuesta, pero no garantizan competencias: usar redes con frecuencia no implica saber contrastar información, proteger la privacidad o crear contenidos de calidad."
+    },
+    {
+        "id": "SFE-T6-09",
+        "num": 9,
+        "question": "En el modelo de cinco dimensiones de la competencia informacional y digital de Área y Pessoa (2012), ¿qué dimensión se define por saber seleccionar, analizar, comparar, interpretar y aplicar información para convertirla en conocimiento?",
+        "options": {
+            "A": "Dimensión instrumental",
+            "B": "Dimensión cognitiva",
+            "C": "Dimensión comunicativa",
+            "D": "Dimensión axiológica"
+        },
+        "correct": "B",
+        "justification": "Área y Pessoa (2012) definen la dimensión cognitiva como la capacidad de seleccionar, analizar, comparar, interpretar y aplicar información para convertirla en conocimiento, diferenciándola de la instrumental (manejar medios y buscar) y la axiológica (actuar ética y democráticamente)."
+    },
+    {
+        "id": "SFE-T6-10",
+        "num": 10,
+        "question": "Un estudiante participa en un foro de clase manteniendo una actitud empática, gestionando adecuadamente su frustración ante una crítica y evitando conductas impulsivas u ofensivas. ¿Qué dimensión de la competencia digital de Área y Pessoa (2012) está poniendo en práctica?",
+        "options": {
+            "A": "Dimensión emocional",
+            "B": "Dimensión instrumental",
+            "C": "Dimensión cognitiva",
+            "D": "Dimensión tecnológica"
+        },
+        "correct": "A",
+        "justification": "La dimensión emocional de Área y Pessoa (2012) supone regular emociones y conductas en espacios digitales, mantener el equilibrio y la empatía y evitar conductas problemáticas."
+    },
+    {
+        "id": "SFE-T6-11",
+        "num": 11,
+        "question": "En las transformaciones educativas necesarias para la sociedad de la información, ¿cómo cambia el rol del profesorado y del alumnado en el aula?",
+        "options": {
+            "A": "El profesorado transmite contenidos estructurados y el alumnado memoriza la información seleccionada por el centro.",
+            "B": "El profesorado diseña, orienta, acompaña y evalúa experiencias, mientras el alumnado busca, selecciona, procesa y transforma información en conocimiento.",
+            "C": "El profesorado limita su intervención al soporte técnico instrumental y el alumnado autoevalúa sus aprendizajes sin mediación.",
+            "D": "El profesorado elabora materiales estáticos unidireccionales y el alumnado reproduce los procedimientos en entornos virtuales."
+        },
+        "correct": "B",
+        "justification": "Según el material, el alumnado pasa de recibir contenidos a buscar, seleccionar, procesar, evaluar y transformar información en conocimiento, y el profesorado pasa de transmitir a diseñar, orientar, acompañar y evaluar experiencias como asesor, orientador y mediador."
+    },
+    {
+        "id": "SFE-T6-12",
+        "num": 12,
+        "question": "¿Cómo se estructura el marco europeo DigComp 2.0 (2016) recogido en el temario?",
+        "options": {
+            "A": "En 4 dimensiones transversales y 16 indicadores de desempeño docente.",
+            "B": "En 5 áreas y 21 competencias digitales.",
+            "C": "En 7 conocimientos articulados en torno al contexto educativo.",
+            "D": "En 9 ámbitos de participación ética y seguridad en la red."
+        },
+        "correct": "B",
+        "justification": "El marco DigComp, iniciado en 2012 y actualizado como DigComp 2.0 en 2016, se organiza en 5 áreas (Información, Comunicación, Creación de contenidos, Seguridad y Resolución de problemas) y 21 competencias."
+    },
+    {
+        "id": "SFE-T6-13",
+        "num": 13,
+        "question": "Dentro del modelo TPACK de Mishra y Koehler (2006–2009), ¿qué componente representa el saber cómo una herramienta tecnológica modifica las posibilidades de enseñar y aprender?",
+        "options": {
+            "A": "TCK (Technological Content Knowledge)",
+            "B": "TPK (Technological Pedagogical Knowledge)",
+            "C": "PCK (Pedagogical Content Knowledge)",
+            "D": "CK (Content Knowledge)"
+        },
+        "correct": "B",
+        "justification": "En el modelo TPACK, el TPK (Technological Pedagogical Knowledge) consiste en entender cómo una herramienta tecnológica modifica las posibilidades de enseñar y aprender, mientras que el TCK se refiere a cómo tecnología y contenido se potencian o limitan mutuamente."
+    },
+    {
+        "id": "SFE-T6-14",
+        "num": 14,
+        "question": "Una profesora de Historia analiza cómo el uso de mapas digitales interactivos permite representar procesos migratorios de forma dinámica (relación tecnología-contenido) y selecciona una metodología cooperativa adecuada a la conectividad limitada de su instituto. ¿Qué principio esencial del modelo TPACK ilustra esta actuación?",
+        "options": {
+            "A": "Que el dominio técnico de la herramienta (TK) basta para garantizar el aprendizaje disciplinar.",
+            "B": "Que el TPACK no es la suma aislada de tres saberes, sino su interacción ajustada al contexto educativo.",
+            "C": "Que el conocimiento pedagógico (PK) debe aplicarse con independencia de la materia impartida.",
+            "D": "Que la integración tecnológica exige disponer siempre de equipamiento avanzado en todos los hogares."
+        },
+        "correct": "B",
+        "justification": "El modelo TPACK subraya que no basta con sumar tres conocimientos aislados (contenido, pedagogía y tecnología), sino que resulta fundamental su interacción considerando el contexto educativo concreto, el cual condiciona qué combinación es adecuada."
+    },
+    {
+        "id": "SFE-T6-15",
+        "num": 15,
+        "question": "Según Lozano (2011), ¿qué diferencia fundamental define el paso de las TIC a las TAC?",
+        "options": {
+            "A": "Las TIC se utilizan únicamente en educación superior y las TAC se reservan para la educación obligatoria.",
+            "B": "Las TIC se centran en el manejo y acceso a la información («¿qué herramienta usamos?»), mientras las TAC orientan las tecnologías al aprendizaje y la construcción de conocimiento («¿qué y cómo aprenderemos mejor con ella?»).",
+            "C": "Las TIC abarcan exclusivamente el hardware escolar y las TAC designan únicamente las redes sociales abiertas.",
+            "D": "Las TIC garantizan la reducción automática de la brecha digital y las TAC se ocupan solo de la ciberseguridad."
+        },
+        "correct": "B",
+        "justification": "Según Lozano (2011), las TAC (Tecnologías del Aprendizaje y del Conocimiento) van más allá del mero manejo instrumental de las TIC y orientan las herramientas tecnológicas hacia el aprendizaje y la adquisición de conocimiento, desplazando el foco de «¿qué herramienta usamos?» a «¿qué y cómo aprenderemos mejor con ella?»."
+    },
+    {
+        "id": "SFE-T6-16",
+        "num": 16,
+        "question": "En las nueve áreas de la ciudadanía digital recogidas por Serrano, Román, González y Prendes (2016) a partir de Ribble, Bailey y Ross (2004), ¿qué área aborda el uso apropiado de la información en relación con la autoría, el plagio y los deberes?",
+        "options": {
+            "A": "Etiqueta",
+            "B": "Responsabilidad",
+            "C": "Acceso",
+            "D": "Comercio"
+        },
+        "correct": "B",
+        "justification": "En la clasificación de las nueve áreas de ciudadanía digital recogida en el material, el área de «Responsabilidad» se refiere al uso apropiado de la información, incluyendo cuestiones de autoría, plagio y deberes."
+    },
+    {
+        "id": "SFE-T6-17",
+        "num": 17,
+        "question": "Dentro de los riesgos de Internet descritos en el material según Serrano y cols. (2016), ¿cómo se define el «grooming»?",
+        "options": {
+            "A": "Como el hostigamiento, humillación o exclusión repetida entre iguales a través de medios electrónicos.",
+            "B": "Como la acción de un adulto que engaña y manipula a un menor por medios digitales con finalidad sexual, pudiendo recurrir a la coacción.",
+            "C": "Como el envío o intercambio digital voluntario de imágenes íntimas entre adolescentes sin intervención adulta.",
+            "D": "Como el uso nocturno de dispositivos tecnológicos que desplaza las horas de descanso y el rendimiento escolar."
+        },
+        "correct": "B",
+        "justification": "El material define el grooming como la conducta en la que un adulto engaña y manipula a un menor por medios digitales con finalidad sexual, pudiendo recurrir a la coacción, diferenciándolo del ciberacoso (hostigamiento entre iguales)."
+    },
+    {
+        "id": "SFE-T6-18",
+        "num": 18,
+        "question": "¿Cuál es la respuesta educativa que debe asumir el profesorado ante situaciones de ciberacoso y violencia online u offline según el temario?",
+        "options": {
+            "A": "Inhibirse cuando los hechos ocurran fuera del horario lectivo o en redes sociales privadas.",
+            "B": "Prevenir, reconocer y actuar ante estas situaciones siguiendo el protocolo vigente correspondiente.",
+            "C": "Limitarse a retirar los dispositivos móviles del aula sin intervenir en la convivencia del grupo.",
+            "D": "Delegar íntegramente la detección y el seguimiento en las plataformas digitales donde ocurre el acoso."
+        },
+        "correct": "B",
+        "justification": "El material establece que la respuesta educativa del profesorado ante la violencia online y offline consiste en prevenir, reconocer y actuar, comprobando además cuál es el procedimiento o protocolo vigente aplicable."
+    },
+    {
+        "id": "SFE-T6-19",
+        "num": 19,
+        "question": "Según la definición de la OCDE citada en el documento, ¿qué abarca la «brecha digital»?",
+        "options": {
+            "A": "Únicamente la falta de ordenadores en las aulas de centros públicos frente a los privados.",
+            "B": "La desigualdad entre personas, hogares y territorios en las oportunidades de acceso a las TIC y de uso de Internet en diferentes actividades.",
+            "C": "La diferencia de edad entre el profesorado veterano y el alumnado nacido después del año 2000.",
+            "D": "El retraso temporal entre la aparición de una innovación tecnológica y su inclusión en los libros de texto."
+        },
+        "correct": "B",
+        "justification": "La OCDE describe la brecha digital como la desigualdad entre personas, hogares y territorios en las oportunidades de acceso a las TIC y de uso de Internet en diferentes actividades."
+    },
+    {
+        "id": "SFE-T6-20",
+        "num": 20,
+        "question": "¿Qué postura defienden Kaplún (1998) y Pasquali (1979) respecto al concepto de comunicación en el ámbito educativo?",
+        "options": {
+            "A": "Identifican comunicar con la mera transmisión unidireccional de datos desde el emisor hasta el receptor.",
+            "B": "Vinculan la comunicación con el diálogo, el compartir, la reciprocidad y la cooperación, frente a la simple transmisión.",
+            "C": "Sostienen que la comunicación educativa solo es eficaz cuando se realiza de forma síncrona y presencial.",
+            "D": "Reducen la comunicación digital a la competencia técnica para operar plataformas virtuales."
+        },
+        "correct": "B",
+        "justification": "En el apartado sobre comunicación, Kaplún (1998) distingue entre comunicar como transmitir y comunicarse como dialogar y compartir, mientras que Pasquali (1979) define la comunicación desde la reciprocidad y la cooperación."
+    }
+]

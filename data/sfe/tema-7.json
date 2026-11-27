@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T7-01",
+        "num": 1,
+        "question": "¿En qué posición socioeconómica sitúa el material al profesorado y qué rasgos atribuye a su trayectoria profesional?",
+        "options": {
+            "A": "En los estratos intermedios (Primaria en el tramo inferior y enseñanza media y superior en el superior), con incorporación rápida a responsabilidades y abanico retributivo estrecho.",
+            "B": "En los estratos altos de la estructura ocupacional, con una carrera muy escalonada y amplia dispersión salarial según la etapa.",
+            "C": "En los estratos bajos del sector servicios, con acceso tardío a las responsabilidades docentes y promoción jerárquica continua.",
+            "D": "En los estratos intermedios superiores en todas las etapas educativas, con independencia de que se ejerza en Primaria o en Secundaria."
+        },
+        "correct": "A",
+        "justification": "El material sitúa al profesorado en los estratos intermedios —Primaria en su tramo inferior y enseñanza media y superior en el tramo superior—, caracterizando su carrera por una incorporación rápida a las responsabilidades, un abanico retributivo estrecho y una estructura poco escalonada."
+    },
+    {
+        "id": "SFE-T7-02",
+        "num": 2,
+        "question": "¿Qué diferencia estructural presenta la formación inicial del profesorado entre Educación Primaria y Educación Secundaria?",
+        "options": {
+            "A": "En Primaria la preparación pedagógica se integra en el grado (modelo concurrente), mientras que en Secundaria se cursa después de la titulación de acceso (modelo consecutivo).",
+            "B": "En Primaria se exige un posgrado pedagógico posterior a la titulación disciplinar, mientras que en Secundaria la didáctica se cursa dentro del grado.",
+            "C": "En ambas etapas educativas la formación inicial responde a un modelo consecutivo instaurado tras la derogación del CAP en 2009-2010.",
+            "D": "En Secundaria la formación inicial carece de componente pedagógico formal y se adquiere exclusivamente durante los primeros años de docencia."
+        },
+        "correct": "A",
+        "justification": "En Educación Primaria la preparación pedagógica se integra dentro del grado de Maestro (modelo concurrente), mientras que en Educación Secundaria se sigue un modelo consecutivo en el que la formación disciplinar precede al posgrado pedagógico."
+    },
+    {
+        "id": "SFE-T7-03",
+        "num": 3,
+        "question": "Según los datos demográficos del profesorado en España para el curso 2023-2024 recogidos en el documento, ¿qué afirmación es correcta?",
+        "options": {
+            "A": "En Régimen General el 33,3 % tenía 50 años o más y el tramo más numeroso era el de 40-49 años, presentando los centros privados un perfil más joven que los públicos.",
+            "B": "Las mujeres representaban el 49,6 % en Régimen General y el 72,3 % en Régimen Especial, predominando los menores de 40 años en la enseñanza pública.",
+            "C": "El tramo de edad más numeroso en ambos cuerpos docentes era el de 50-59 años, sin previsión de relevo generacional en la próxima década.",
+            "D": "La proporción de profesores varones menores de 40 años superaba a la de profesoras menores de esa edad dentro de sus respectivos grupos."
+        },
+        "correct": "A",
+        "justification": "En 2023-2024, las mujeres suponían el 72,3 % en Régimen General (y el 49,6 % en Régimen Especial); en Régimen General el 33,3 % tenía 50 años o más, el tramo de 40-49 años era el más numeroso, los centros privados presentaban un perfil más joven que los públicos y había más profesoras que profesores menores de 40 años en proporción a sus respectivos grupos."
+    },
+    {
+        "id": "SFE-T7-04",
+        "num": 4,
+        "question": "¿Cómo se configura y evoluciona la identidad profesional docente según el análisis del trabajo docente como proceso laboral?",
+        "options": {
+            "A": "Se forma desde la preparación inicial y se reconstruye en el ejercicio, influida por la satisfacción e insatisfacción, la valoración social y los cambios sociales, económicos y culturales.",
+            "B": "Queda fijada definitivamente al superar la formación inicial universitaria y permanece inalterable ante el reconocimiento social o las reformas legislativas.",
+            "C": "Depende exclusivamente de los incentivos materiales del mercado de trabajo y de la antigüedad acumulada en el mismo centro educativo.",
+            "D": "Se construye únicamente a partir de la valoración positiva de las familias, al margen de las condiciones organizativas del centro."
+        },
+        "correct": "A",
+        "justification": "La identidad profesional docente comienza a formarse en la preparación inicial y se reconstruye continuamente durante el ejercicio profesional bajo la influencia de la satisfacción e insatisfacción laboral, la valoración social y los cambios sociales, económicos y culturales."
+    },
+    {
+        "id": "SFE-T7-05",
+        "num": 5,
+        "question": "¿Qué contraste recoge el temario entre las aportaciones de Ibáñez-Martín et al. (1998) y los testimonios de Martín et al. (2006) respecto al reconocimiento social del profesorado?",
+        "options": {
+            "A": "Ibáñez-Martín et al. (1998) señalan que las familias valoran los estudios y la labor docente, mientras que Martín et al. (2006) recogen sensación de escaso reconocimiento, pérdida de autoridad y cuestionamiento profesional.",
+            "B": "Ibáñez-Martín et al. (1998) denuncian el desprestigio total de la profesión entre las familias, mientras que Martín et al. (2006) demuestran el aumento constante de la autoridad docente.",
+            "C": "Ambos estudios coinciden en que el profesorado percibe un elevado respaldo institucional y ausencia de cuestionamiento sobre el valor social de la educación.",
+            "D": "Ibáñez-Martín et al. (1998) analizan únicamente la enseñanza universitaria y Martín et al. (2006) se centran en la satisfacción salarial en centros privados."
+        },
+        "correct": "A",
+        "justification": "El material contrapone ambos hallazgos: mientras Ibáñez-Martín et al. (1998) indican que las familias valoran los estudios y la labor docente, los testimonios recogidos por Martín et al. (2006) reflejan sensación de escaso reconocimiento, pérdida de autoridad y cuestionamiento de la profesionalidad y del valor social de la educación."
+    },
+    {
+        "id": "SFE-T7-06",
+        "num": 6,
+        "question": "¿Cuáles son los cinco atractivos de la docencia identificados por Lortie (1975)?",
+        "options": {
+            "A": "Trabajo con jóvenes, altruismo, continuidad, beneficios materiales y compatibilidad horaria.",
+            "B": "Autonomía curricular, promoción vertical, prestigio académico, innovación tecnológica y estabilidad geográfica.",
+            "C": "Vocación intrínseca, liderazgo directivo, reducción de burocracia, investigación disciplinar y tutoría individual.",
+            "D": "Reconocimiento familiar, equifinalidad, mediación cultural, flexibilidad contractual y formación permanente."
+        },
+        "correct": "A",
+        "justification": "Lortie (1975) identifica cinco atractivos principales asociados a la elección y ejercicio de la docencia: el trabajo con jóvenes, el altruismo, la continuidad, los beneficios materiales y la compatibilidad horaria."
+    },
+    {
+        "id": "SFE-T7-07",
+        "num": 7,
+        "question": "¿Qué consecuencias produce el fenómeno de la «intensificación del trabajo» docente descrito en el material?",
+        "options": {
+            "A": "Genera una sobrecarga crónica que dificulta el encuentro entre docentes, debilita la sociabilidad profesional y contribuye a la descualificación intelectual al priorizar la cantidad sobre la calidad.",
+            "B": "Incrementa la coordinación pedagógica entre departamentos al reducir la carga burocrática y centrar la evaluación en la calidad reflexiva de las tareas.",
+            "C": "Favorece la cualificación intelectual del profesorado al permitirle dedicar más tiempo al intercambio metodológico y a la actualización científica.",
+            "D": "Elimina las metas inalcanzables mediante una delimitación estricta entre las horas de docencia directa y el trabajo fuera del aula."
+        },
+        "correct": "A",
+        "justification": "La intensificación del trabajo constituye una sobrecarga crónica que obstaculiza el encuentro entre compañeros, debilita la sociabilidad profesional y favorece la descualificación intelectual, pues se valora más la cantidad y cumplimiento de tareas que su calidad."
+    },
+    {
+        "id": "SFE-T7-08",
+        "num": 8,
+        "question": "Al comparar los resultados de TALIS 2024 (OCDE) y el estudio SM 2023 recogidos en el material sobre el estado laboral del profesorado español, ¿qué aparente paradoja se observa?",
+        "options": {
+            "A": "El 95 % del profesorado español de Secundaria declara estar satisfecho con su trabajo en TALIS 2024, pero en SM 2023 el 47 % se muestra neutral ante abandonar y se declaran altos niveles de agotamiento (37 %) y ansiedad o depresión (39 %).",
+            "B": "España presenta la satisfacción laboral más baja de la OCDE (por debajo del 50 %), aunque en SM 2023 el 78 % rechaza rotundamente la posibilidad de abandonar la profesión.",
+            "C": "Tanto TALIS 2024 como SM 2023 demuestran que la apatía y el agotamiento afectan exclusivamente al profesorado próximo a la jubilación.",
+            "D": "La satisfacción laboral en España (89 %) coincide exactamente con el promedio de la OCDE-27 y se acompaña de una ausencia total de distanciamiento docente."
+        },
+        "correct": "A",
+        "justification": "El material destaca que satisfacción laboral y desgaste se estudian con indicadores distintos: en TALIS 2024 el 95 % del profesorado español de Secundaria declara satisfacción (frente al 89 % OCDE-27 y 90 % UE-22), mientras que SM 2023 registra un 47 % neutral ante abandonar (frente al 78 % contrario quince años antes), cerca de dos de cada cinco con distanciamiento y malestar declarado (33 % apatía, 37 % agotamiento, 39 % ansiedad y depresión)."
+    },
+    {
+        "id": "SFE-T7-09",
+        "num": 9,
+        "question": "Un docente de Secundaria con tres años de experiencia manifiesta indiferencia hacia las dinámicas del centro y se plantea cambiar de profesión debido a los continuos cambios normativos, el exceso de burocracia y una formación inicial que siente alejada de la realidad del aula. ¿Qué señala el temario sobre este perfil?",
+        "options": {
+            "A": "Que el distanciamiento profesional es más marcado entre docentes con menor antigüedad y se vincula a cambios legislativos continuos, formación poco ajustada al aula, carrera poco definida, burocracia, rendición de cuentas y exigencias de atención a la diversidad.",
+            "B": "Que el distanciamiento afecta únicamente al profesorado mayor de 50 años y obedece de forma exclusiva a la falta de incentivos económicos.",
+            "C": "Que la indiferencia docente desaparece automáticamente cuando el profesorado cumple 40 horas semanales de trabajo a tiempo completo.",
+            "D": "Que este distanciamiento indica ausencia de vocación inicial, dado que en SM 2023 solo un 2 % eligió la docencia por gusto o vocación."
+        },
+        "correct": "A",
+        "justification": "El tema vincula explícitamente el distanciamiento docente —más acusado entre quienes tienen menor antigüedad— con los cambios legislativos continuos, la formación poco ajustada al aula, una carrera poco definida, la burocracia, la rendición de cuentas y las exigencias de atención a la diversidad."
+    },
+    {
+        "id": "SFE-T7-10",
+        "num": 10,
+        "question": "Respecto al síndrome de desgaste ocupacional o «burnout», ¿qué aportación corresponde a Herbert Freudenberger (1974) y cuál a Christina Maslach y Susan E. Jackson (1981)?",
+        "options": {
+            "A": "Freudenberger (1974) describió inicialmente la pérdida progresiva de energía y motivación en voluntarios de una clínica de Nueva York, mientras que Maslach y Jackson (1981) establecieron sus tres dimensiones: agotamiento emocional, despersonalización y baja realización personal.",
+            "B": "Freudenberger (1974) definió el síndrome como estrés crónico laboral gestionado sin éxito en la OMS, mientras que Maslach y Jackson (1981) lo aplicaron únicamente al voluntariado sanitario.",
+            "C": "Freudenberger (1974) formuló las tres dimensiones del instrumento de medida, mientras que Maslach y Jackson (1981) introdujeron el concepto de equifinalidad motivacional.",
+            "D": "Freudenberger (1974) vinculó el desgaste a la intensificación burocrática escolar, mientras que Maslach y Jackson (1981) lo restringieron al profesorado de Educación Primaria."
+        },
+        "correct": "A",
+        "justification": "Herbert Freudenberger (1974) realizó la descripción inicial del burnout al observar la pérdida progresiva de energía y motivación en voluntarios de una clínica de Nueva York, y Maslach y Jackson (1981) desarrollaron su medición en tres dimensiones: agotamiento emocional, despersonalización y baja realización personal."
+    },
+    {
+        "id": "SFE-T7-11",
+        "num": 11,
+        "question": "En el tránsito del esquema tradicional de «explicar y examinar» hacia enseñar a «aprender a aprender», ¿cómo se redefine el rol del docente?",
+        "options": {
+            "A": "Actúa como mediador del aprendizaje para desarrollar la autonomía y el crecimiento cognitivo y personal del alumnado mediante actividades críticas e interdisciplinares.",
+            "B": "Se convierte en el único depositario y transmisor del saber científico ante la ausencia de fuentes externas de información.",
+            "C": "Limita su intervención a la supervisión disciplinaria mientras el alumnado selecciona los contenidos curriculares sin orientación.",
+            "D": "Sustituye el dominio de los contenidos científicos actualizados por habilidades exclusivamente recreativas y motivacionales."
+        },
+        "correct": "A",
+        "justification": "Dado que la escuela comparte hoy el acceso al saber con otras fuentes, el docente pasa del esquema de explicar y examinar a mediar en el aprendizaje para enseñar a aprender a aprender, promoviendo la autonomía y el desarrollo cognitivo y personal mediante actividades críticas e interdisciplinares."
+    },
+    {
+        "id": "SFE-T7-12",
+        "num": 12,
+        "question": "Dentro de las competencias docentes integradas en el perfil profesional (Delors, 1996; Tribó, 2008), ¿qué ámbito comprende gestionar el aula, interpretar su diversidad, ejercer la tutoría, resolver conflictos y elaborar materiales didácticos?",
+        "options": {
+            "A": "Saber hacer (competencia metodológica)",
+            "B": "Saber (competencia disciplinar)",
+            "C": "Saber estar (competencia social)",
+            "D": "Saber ser (competencia personal)"
+        },
+        "correct": "A",
+        "justification": "El ámbito del «Saber hacer» (competencia metodológica) incluye gestionar el aula, interpretar su diversidad, ejercer la tutoría, resolver conflictos y elaborar materiales didácticos."
+    },
+    {
+        "id": "SFE-T7-13",
+        "num": 13,
+        "question": "Una profesora de Biología participa activamente en los órganos de coordinación de su instituto, fomenta el debate crítico entre sus estudiantes y vela por el cumplimiento de las normas de convivencia del centro. ¿Qué ámbito competencial del perfil docente está desarrollando principalmente?",
+        "options": {
+            "A": "Saber estar (competencia social)",
+            "B": "Saber (competencia disciplinar)",
+            "C": "Saber hacer (competencia metodológica)",
+            "D": "Saber ser (competencia personal)"
+        },
+        "correct": "A",
+        "justification": "El ámbito del «Saber estar» (competencia social) abarca promover la participación y la actitud crítica, respetar y aplicar la normativa y colaborar con otros profesionales."
+    },
+    {
+        "id": "SFE-T7-14",
+        "num": 14,
+        "question": "En el estudio de la motivación docente (Ryan y Deci, 2000; Muñoz-Fernández et al., 2019), ¿qué significa el concepto de «equifinalidad»?",
+        "options": {
+            "A": "Que distintos caminos o combinaciones de motivos (altruistas, intrínsecos y extrínsecos) pueden conducir a una misma meta profesional.",
+            "B": "Que todos los docentes acceden a la profesión impulsados por el mismo porcentaje de vocación y atractivo salarial.",
+            "C": "Que la motivación extrínseca anula necesariamente el compromiso altruista a lo largo de la carrera docente.",
+            "D": "Que la persistencia en la profesión depende únicamente de la estabilidad laboral obtenida al inicio del ejercicio."
+        },
+        "correct": "A",
+        "justification": "La equifinalidad implica que distintos caminos pueden conducir a la misma meta, lo que explica que la elección y permanencia en la docencia pueda combinar de diferentes formas motivos altruistas, intrínsecos y extrínsecos."
+    },
+    {
+        "id": "SFE-T7-15",
+        "num": 15,
+        "question": "¿Qué rasgo distingue a la cultura del «teenager» surgida desde los años cincuenta frente a las contraculturas protagonizadas por la generación del «baby boom»?",
+        "options": {
+            "A": "La cultura del teenager nace en EE. UU. ligada al consumo, el ocio urbano, el cine y la high school, mientras que el baby boom impulsa contraculturas como el hippy y el punk con cuestionamiento de valores tradicionales o estética transgresora.",
+            "B": "La cultura del teenager se caracteriza por el pacifismo psicodélico y Mayo del 68, mientras que el baby boom promueve la obediencia adulta en las fraternidades.",
+            "C": "La cultura del teenager surge tras la Primera Guerra Mundial mediante organizaciones estatales juveniles, mientras que el baby boom nace con la globalización de internet.",
+            "D": "La cultura del teenager rechaza los medios de masas y el baile, mientras que el baby boom se define exclusivamente por la precariedad laboral y la COVID-19."
+        },
+        "correct": "A",
+        "justification": "Desde los años cincuenta surge en EE. UU. la cultura del teenager, difundida por medios de masas y cine y asociada al consumo, ocio, música, desafío a los adultos y la high school; en cambio, los nacidos en el baby boom participan en contraculturas como hippy (pacifismo, diversidad, Mayo del 68) y punk (inconformismo, estética transgresora, nihilismo)."
+    },
+    {
+        "id": "SFE-T7-16",
+        "num": 16,
+        "question": "Según Velasco, Venegas y Sánchez (2022), ¿qué permite analizar la doble condición del estudiante de Secundaria como categoría «escolar» y categoría «social»?",
+        "options": {
+            "A": "Como categoría escolar (alumnado) permite analizar la desventaja educativa y social y las circunstancias de su paso por el sistema; como categoría social (adolescentes de 12-18 años) permite analizar los retos del grupo de edad y su impacto en el aprendizaje y la convivencia.",
+            "B": "Como categoría escolar analiza exclusivamente las calificaciones académicas, y como categoría social estudia únicamente el nivel socioeconómico familiar.",
+            "C": "Como categoría escolar se aplica solo a la etapa de Primaria, y como categoría social sustituye a la condición de estudiante durante la adolescencia.",
+            "D": "Como categoría escolar evalúa la motivación del profesorado, y como categoría social clasifica las reformas legislativas del currículo."
+        },
+        "correct": "A",
+        "justification": "Velasco, Venegas y Sánchez (2022) distinguen la categoría escolar (alumnado), centrada en la desventaja educativa y social y las condiciones del paso por el sistema educativo, y la categoría social (adolescentes de 12-18 años), enfocada en los retos propios de ese grupo de edad y cómo afectan al aprendizaje y la convivencia."
+    },
+    {
+        "id": "SFE-T7-17",
+        "num": 17,
+        "question": "De acuerdo con Dubet y Martuccelli (1998), ¿qué diferencia el proceso predominante en la infancia del que cobra peso durante la adolescencia?",
+        "options": {
+            "A": "En la infancia predomina la socialización (incorporación de normas y formas de participar), mientras que en la adolescencia cobra peso la subjetivación, donde se construye un criterio propio mediante resistencia y agencia sin perder el sentido de pertenencia.",
+            "B": "En la infancia predomina la subjetivación crítica y la agencia individual, mientras que en la adolescencia se impone la socialización pasiva de normas adultas.",
+            "C": "En la adolescencia desaparece por completo la necesidad de pertenencia grupal, siendo sustituida por una resistencia aislada frente a toda norma.",
+            "D": "Tanto en la infancia como en la adolescencia opera únicamente la socialización primaria sin intervención de la capacidad de agencia del estudiante."
+        },
+        "correct": "A",
+        "justification": "Dubet y Martuccelli (1998) explican que en la infancia predomina la lógica de la socialización (incorporar normas y formas de participar) y en la adolescencia cobra fuerza la subjetivación, proceso complementario en el que se construye un criterio propio mediante resistencia y agencia manteniendo el sentido de pertenencia."
+    },
+    {
+        "id": "SFE-T7-18",
+        "num": 18,
+        "question": "Frente a la tendencia histórica señalada por Fernández Enguita (2012) de tratar el fracaso y el abandono temprano como problemas meramente técnicos o atribuidos en exclusiva al profesorado o a las familias, ¿qué enfoque propone el material?",
+        "options": {
+            "A": "Una respuesta situada ajustada a las condiciones concretas del alumnado y del centro, apoyada en la formación docente para abordar causas sociales, estructurales y generacionales.",
+            "B": "Un protocolo técnico uniforme aplicado de forma idéntica en todos los institutos con independencia del contexto socioeconómico del alumnado.",
+            "C": "La derivación sistemática de los problemas de convivencia y abandono hacia servicios externos desvinculados de la acción educativa del centro.",
+            "D": "La reducción de la intervención docente a la transmisión de contenidos disciplinares sin considerar los factores generacionales."
+        },
+        "correct": "A",
+        "justification": "El tema vincula el fracaso y el abandono temprano con causas sociales, estructurales y generacionales que se manifiestan en el aula, proponiendo una respuesta situada ajustada a las condiciones concretas del alumnado y del centro que requiere formación docente."
+    },
+    {
+        "id": "SFE-T7-19",
+        "num": 19,
+        "question": "En la clasificación de los problemas del alumnado en Secundaria recogida en el temario, ¿qué problemas se encuadran en el nivel «estructural» frente al nivel «generacional»?",
+        "options": {
+            "A": "Pobreza y exclusión social, contexto familiar (violencia, problemas parentales, monoparentalidad) y movimientos migratorios.",
+            "B": "Ciberadicción, sexting, vamping, nomofobia y trastornos de la conducta alimentaria como anorexia y bulimia.",
+            "C": "Acoso escolar, ciberacoso, adicciones tempranas con o sin sustancias (como el juego) y violencia de género.",
+            "D": "Necesidades específicas de apoyo educativo (NEAE), TDAH, TEA e incorporación tardía al sistema educativo."
+        },
+        "correct": "A",
+        "justification": "El material clasifica en el nivel estructural la pobreza y exclusión social, el contexto familiar (violencia, problemas parentales y situaciones de familias monomarentales o monoparentales) y los movimientos migratorios, mientras que el resto de opciones pertenecen al nivel generacional."
+    },
+    {
+        "id": "SFE-T7-20",
+        "num": 20,
+        "question": "Un estudiante de 3.º de ESO presenta somnolencia persistente y caída del rendimiento académico porque permanece conectado al teléfono móvil durante la madrugada para revisar mensajes en redes sociales. Según el glosario del tema, ¿qué fenómeno tecnológico describe específicamente esta conducta?",
+        "options": {
+            "A": "Vamping",
+            "B": "Sexting",
+            "C": "Equifinalidad digital",
+            "D": "Subjetivación normativa"
+        },
+        "correct": "A",
+        "justification": "El glosario del tema define el vamping como el uso nocturno de tecnología que reduce las horas de sueño, diferenciándolo del sexting (intercambio digital de imágenes sexuales)."
+    }
+]

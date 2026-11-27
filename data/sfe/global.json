@@ -1,0 +1,1302 @@
+[
+    {
+        "id": "SFE-global-01",
+        "num": 1,
+        "question": "¿Qué autor es considerado una figura fundacional de la Sociología de la Educación por situar la educación como un hecho social que debe estudiarse científicamente?",
+        "options": {
+            "A": "Karl Marx",
+            "B": "Émile Durkheim",
+            "C": "Max Weber",
+            "D": "Talcott Parsons"
+        },
+        "correct": "B",
+        "justification": "Émile Durkheim es señalado en el material como una figura fundacional de la Sociología de la Educación, defendiendo que la educación es un hecho social que debe estudiarse científicamente."
+    },
+    {
+        "id": "SFE-global-02",
+        "num": 2,
+        "question": "Según el enfoque estructural-funcionalista en Sociología de la Educación, ¿qué función principal cumple la institución escolar?",
+        "options": {
+            "A": "Cuestionar la neutralidad del currículo y evidenciar el conflicto de clases",
+            "B": "Reproducir las relaciones de producción y la ideología dominante",
+            "C": "Socializar al alumnado en reglas y disposiciones que contribuyen al orden y la cohesión social",
+            "D": "Dividir al alumnado mediante una doble red de escolarización según su origen"
+        },
+        "correct": "C",
+        "justification": "El estructural-funcionalismo interpreta la escuela como un órgano que socializa al alumnado en creencias, conocimientos y reglas que favorecen la integración, la cohesión y la igualdad de oportunidades."
+    },
+    {
+        "id": "SFE-global-03",
+        "num": 3,
+        "question": "¿Qué autores desarrollaron la teoría de la correspondencia entre la organización escolar y el mundo del trabajo dentro de las teorías de la reproducción?",
+        "options": {
+            "A": "Christian Baudelot y Roger Establet",
+            "B": "Pierre Bourdieu y Jean-Claude Passeron",
+            "C": "Samuel Bowles y Herbert Gintis",
+            "D": "Peter Berger y Thomas Luckmann"
+        },
+        "correct": "C",
+        "justification": "Samuel Bowles y Herbert Gintis (1976/1985) son los autores que desarrollan la teoría de la correspondencia entre la organización de la escuela y el mundo del trabajo."
+    },
+    {
+        "id": "SFE-global-04",
+        "num": 4,
+        "question": "En el análisis sociológico de Thorstein Veblen, ¿qué fenómeno relaciona este autor con el debilitamiento del orden patriarcal y la reforma de la educación preescolar?",
+        "options": {
+            "A": "La expansión de la sociedad post-materialista",
+            "B": "El proceso de industrialización y el movimiento de la Nueva Mujer",
+            "C": "La implantación de la segunda transición demográfica",
+            "D": "La consolidación de los grupos de estatus burocráticos"
+        },
+        "correct": "B",
+        "justification": "Veblen relaciona la industrialización con el debilitamiento del orden patriarcal y destaca el papel de mujeres acomodadas en la emancipación, el trabajo asalariado y la reforma preescolar mediante el Kindergarten y el movimiento de la Nueva Mujer."
+    },
+    {
+        "id": "SFE-global-05",
+        "num": 5,
+        "question": "Un docente observa que, además de enseñar matemáticas (objetivo explícito del currículo), su aula enseña al alumnado a esperar turnos y respetar horarios sin que figure como un objetivo formal declarado. Según Robert K. Merton, este segundo efecto corresponde a:",
+        "options": {
+            "A": "Una función latente de la institución escolar",
+            "B": "Una función manifiesta del sistema educativo",
+            "C": "Un proceso de resocialización terciaria",
+            "D": "Una forma de dominación simbólica"
+        },
+        "correct": "A",
+        "justification": "Robert K. Merton distingue entre funciones manifiestas (declaradas y reconocidas) y funciones latentes (no previstas o no reconocidas) de las instituciones escolares."
+    },
+    {
+        "id": "SFE-global-06",
+        "num": 6,
+        "question": "¿Cuál de las siguientes opciones recoge exactamente los cuatro pilares de la educación formulados por Delors (1996)?",
+        "options": {
+            "A": "Aprender a pensar, aprender a sentir, aprender a actuar y aprender a convivir",
+            "B": "Aprender a conocer, aprender a hacer, aprender a ser y aprender a vivir juntos",
+            "C": "Aprender a saber, aprender a emprender, aprender a crear y aprender a colaborar",
+            "D": "Aprender a estudiar, aprender a trabajar, aprender a participar y aprender a respetar"
+        },
+        "correct": "B",
+        "justification": "Los cuatro pilares de la educación propuestos por Delors (1996) son aprender a conocer, aprender a hacer, aprender a ser y aprender a vivir juntos."
+    },
+    {
+        "id": "SFE-global-07",
+        "num": 7,
+        "question": "¿Qué característica define al marco de competencias clave de la LOMLOE según los apuntes?",
+        "options": {
+            "A": "Se organiza en ocho competencias clave, de carácter transversal y sin jerarquía entre ellas",
+            "B": "Establece cinco competencias básicas jerarquizadas según su peso en las materias troncales",
+            "C": "Limita el desarrollo competencial exclusivamente al aprendizaje escolar formal en el aula",
+            "D": "Prioriza la acumulación de contenidos teóricos sobre las destrezas y actitudes"
+        },
+        "correct": "A",
+        "justification": "El marco LOMLOE se articula mediante ocho competencias clave que tienen carácter transversal y carecen de jerarquía entre sí, integrando conocimientos, destrezas y actitudes."
+    },
+    {
+        "id": "SFE-global-08",
+        "num": 8,
+        "question": "A diferencia del estructural-funcionalismo, ¿qué sostiene la nueva Sociología de la Educación respecto a la escuela?",
+        "options": {
+            "A": "Que garantiza de manera automática la meritocracia y la movilidad social",
+            "B": "Que funciona como un subsistema neutro dedicado exclusivamente a la formación técnica",
+            "C": "Que cuestiona su aparente neutralidad al poder reproducir las clases sociales y la ideología dominante",
+            "D": "Que el entorno familiar no ejerce influencia relevante en el capital cultural del alumnado"
+        },
+        "correct": "C",
+        "justification": "La nueva Sociología de la Educación cuestiona la neutralidad de la escuela y sostiene que puede reproducir las relaciones de producción, las clases sociales y la ideología dominante."
+    },
+    {
+        "id": "SFE-global-09",
+        "num": 9,
+        "question": "En el estudio de las teorías de la reproducción, ¿qué autores escribieron 'La reproducción' destacando el papel del capital cultural y del origen familiar en la desigualdad escolar?",
+        "options": {
+            "A": "Louis Althusser y Talcott Parsons",
+            "B": "Pierre Bourdieu y Jean-Claude Passeron",
+            "C": "Christian Baudelot y Roger Establet",
+            "D": "Samuel Bowles y Herbert Gintis"
+        },
+        "correct": "B",
+        "justification": "Pierre Bourdieu y Jean-Claude Passeron (1970/2018) son los autores de 'La reproducción', obra en la que destacan el papel del capital cultural y del origen familiar en la desigualdad escolar."
+    },
+    {
+        "id": "SFE-global-10",
+        "num": 10,
+        "question": "¿Qué concepto de Peter Berger y Thomas Luckmann aparece vinculado en el material con la socialización primaria?",
+        "options": {
+            "A": "El otro generalizado",
+            "B": "La doble red de escolarización",
+            "C": "El capital humano",
+            "D": "La bondad de ajuste"
+        },
+        "correct": "A",
+        "justification": "En el material sobre socialización, Berger y Luckmann se asocian con la socialización primaria y el concepto de «otro generalizado»."
+    },
+    {
+        "id": "SFE-global-11",
+        "num": 11,
+        "question": "¿Cuáles son las cuatro funciones principales de la familia identificadas en el estudio de la familia como agente socializador?",
+        "options": {
+            "A": "Afectiva o de apoyo, económica, socializadora y asistencial",
+            "B": "Educativa, sanitaria, jurídica y recreativa",
+            "C": "Productiva, demográfica, normativa y tecnológica",
+            "D": "Instrumental, cognitiva, comunicativa y axiológica"
+        },
+        "correct": "A",
+        "justification": "Las cuatro principales funciones familiares recogidas en el tema son la afectiva o de apoyo, la económica, la socializadora y la asistencial."
+    },
+    {
+        "id": "SFE-global-12",
+        "num": 12,
+        "question": "En el proceso de socialización familiar, ¿qué diferencia la dimensión de 'contenido' de la dimensión de 'disciplina familiar'?",
+        "options": {
+            "A": "El contenido es el cómo se socializa mediante normas, y la disciplina es el qué valores se transmiten",
+            "B": "El contenido refiere a qué se socializa (valores, normas, costumbres) y la disciplina a cómo se socializa (estrategias y mecanismos usados por los padres)",
+            "C": "El contenido actúa únicamente en la infancia y la disciplina familiar opera exclusivamente en la adolescencia",
+            "D": "El contenido depende de la escuela y la disciplina familiar depende de las redes informales"
+        },
+        "correct": "B",
+        "justification": "La dimensión de contenido responde a qué se socializa (valores, creencias, normas y costumbres), mientras que el aspecto formal o disciplina familiar responde a cómo se socializa (estrategias, normas, supervisión y diálogo)."
+    },
+    {
+        "id": "SFE-global-13",
+        "num": 13,
+        "question": "Según López (2005), ¿qué dos dimensiones organizan los estilos educativos parentales?",
+        "options": {
+            "A": "Afecto/comunicación y control/disciplina",
+            "B": "Autonomía/independencia y supervisión/rendimiento",
+            "C": "Cohesión/adaptabilidad y normas/expectativas",
+            "D": "Apoyo emocional/recursos y participación/tutoría"
+        },
+        "correct": "A",
+        "justification": "López (2005) organiza los estilos educativos parentales en torno a dos dimensiones principales: afecto/comunicación y control/disciplina."
+    },
+    {
+        "id": "SFE-global-14",
+        "num": 14,
+        "question": "Unos progenitores mantienen normas claras y supervisión consistente en el hogar, al tiempo que fomentan el diálogo abierto y muestran un alto nivel de afecto hacia sus hijos. ¿Qué estilo parental ejercen?",
+        "options": {
+            "A": "Permisivo",
+            "B": "Autoritario",
+            "C": "Democrático",
+            "D": "Negligente"
+        },
+        "correct": "C",
+        "justification": "El estilo educativo democrático se caracteriza precisamente por combinar niveles altos tanto en la dimensión de afecto/comunicación como en la de control/disciplina."
+    },
+    {
+        "id": "SFE-global-15",
+        "num": 15,
+        "question": "¿Qué se entiende por 'pareja LAT' (Living Apart Together) según la clasificación de modelos familiares?",
+        "options": {
+            "A": "Una pareja con proyecto de vida común formalizado mediante matrimonio civil",
+            "B": "Una relación de pareja estable sin convivencia habitual bajo el mismo techo",
+            "C": "Una familia reconstituida tras una ruptura previa de ambos miembros",
+            "D": "Una unión de hecho con hijos que comparte vivienda con la familia extensa"
+        },
+        "correct": "B",
+        "justification": "Una pareja LAT (referenciada con Ayuso, 2012) se define como una relación estable sin convivencia habitual bajo el mismo techo."
+    },
+    {
+        "id": "SFE-global-16",
+        "num": 16,
+        "question": "¿A qué grupo poblacional hace referencia el concepto de 'generación sándwich'?",
+        "options": {
+            "A": "A jóvenes adultos que retrasan su emancipación por inestabilidad laboral",
+            "B": "A adultos que atienden simultáneamente a sus hijos y a sus progenitores mayores",
+            "C": "A menores que conviven de forma alterna en dos hogares tras un divorcio",
+            "D": "A abuelos que asumen en exclusiva la crianza de sus nietos"
+        },
+        "correct": "B",
+        "justification": "La generación sándwich designa a los adultos que asumen el cuidado y atención al mismo tiempo de sus hijos y de sus progenitores mayores."
+    },
+    {
+        "id": "SFE-global-17",
+        "num": 17,
+        "question": "¿Qué fenómeno describe Lesthaeghe (1995) bajo el concepto de 'segunda transición demográfica'?",
+        "options": {
+            "A": "El aumento simultáneo de la natalidad y de los matrimonios religiosos tras la industrialización",
+            "B": "El retraso y descenso de la nupcialidad y la fecundidad, junto al aumento de no-uniones, separaciones y diversidad familiar",
+            "C": "La sustitución total de la familia extensa por la familia nuclear tradicional en el siglo XIX",
+            "D": "El retorno masivo a estructuras familiares patriarcales en las sociedades post-materialistas"
+        },
+        "correct": "B",
+        "justification": "Lesthaeghe (1995) define la segunda transición demográfica por el retraso y descenso de la nupcialidad y la fecundidad, acompañados de más no-uniones, separaciones y diversidad familiar."
+    },
+    {
+        "id": "SFE-global-18",
+        "num": 18,
+        "question": "Según la evidencia recogida en el material (como Musitu y Cava, 2001), ¿qué factor resulta más determinante para el ajuste psicosocial y educativo de los hijos?",
+        "options": {
+            "A": "La estructura familiar tradicional biparental por encima de cualquier otra variable",
+            "B": "El clima familiar, el apoyo y la implicación educativa parental",
+            "C": "El nivel de renta per cápita del hogar con independencia de la comunicación",
+            "D": "La ausencia total de normas explícitas para evitar conflictos adolescentes"
+        },
+        "correct": "B",
+        "justification": "El material subraya que la estructura familiar por sí sola no determina el ajuste de los hijos, sino que importan especialmente el clima familiar, el apoyo y la implicación educativa."
+    },
+    {
+        "id": "SFE-global-19",
+        "num": 19,
+        "question": "Cuando se afirma que la socialización familiar es 'bidireccional', ¿qué implica este principio?",
+        "options": {
+            "A": "Que la familia transmite valores tanto de forma consciente como inconsciente",
+            "B": "Que la influencia entre progenitores e hijos es mutua y no solo de padres a hijos",
+            "C": "Que la familia y la escuela ejercen exactamente las mismas funciones educativas",
+            "D": "Que la socialización ocurre en dos etapas cerradas: infancia y adultez"
+        },
+        "correct": "B",
+        "justification": "La socialización bidireccional significa que la influencia en el seno familiar es mutua entre progenitores e hijos, transformándose ambos en la interacción."
+    },
+    {
+        "id": "SFE-global-20",
+        "num": 20,
+        "question": "¿Cuál es la diferencia fundamental entre el enfoque macrosociológico y el microsociológico en el estudio de la familia?",
+        "options": {
+            "A": "El macrosociológico estudia la familia como institución y estructura social, y el microsociológico analiza sus relaciones e interacciones internas",
+            "B": "El macrosociológico se centra en familias numerosas y el microsociológico en hogares unipersonales",
+            "C": "El macrosociológico analiza los estilos parentales y el microsociológico estudia las leyes demográficas",
+            "D": "El macrosociológico evalúa la etapa adolescente y el microsociológico la primera infancia"
+        },
+        "correct": "A",
+        "justification": "Desde la macrosociología se aborda la familia como institución y estructura dentro de la sociedad, mientras que la microsociología se enfoca en las relaciones e interacciones internas de sus miembros."
+    },
+    {
+        "id": "SFE-global-21",
+        "num": 21,
+        "question": "¿Qué ley española de 2005 modificó el Código Civil en materia de derecho a contraer matrimonio?",
+        "options": {
+            "A": "Ley 13/2005, de 1 de julio",
+            "B": "Ley 15/2005, de 8 de julio",
+            "C": "Ley Orgánica 2/2006, de 3 de mayo",
+            "D": "Ley Orgánica 3/2020, de 29 de diciembre"
+        },
+        "correct": "A",
+        "justification": "La Ley 13/2005, de 1 de julio, modificó el Código Civil en materia de derecho a contraer matrimonio, mientras que la Ley 15/2005 reguló la separación y el divorcio."
+    },
+    {
+        "id": "SFE-global-22",
+        "num": 22,
+        "question": "¿A qué se refiere el concepto de 'bondad de ajuste' en la relación entre el alumnado, su familia y el centro educativo?",
+        "options": {
+            "A": "A la coincidencia exacta entre las calificaciones escolares y las expectativas económicas familiares",
+            "B": "Al encaje adecuado entre las variables personales del alumnado y las características de sus entornos ambiental, familiar y escolar",
+            "C": "A la adaptación exclusiva del estudiante a las normas disciplinarias del centro sin modificar el contexto",
+            "D": "A la homogeneidad sociocultural entre todas las familias matriculadas en un mismo centro"
+        },
+        "correct": "B",
+        "justification": "El ajuste del alumnado surge de la interacción entre sus variables personales y ambientales; la bondad de ajuste aparece precisamente cuando ambas encajan adecuadamente."
+    },
+    {
+        "id": "SFE-global-23",
+        "num": 23,
+        "question": "Respecto al reparto de tareas entre la familia y el centro educativo, ¿qué principio rector establece el material?",
+        "options": {
+            "A": "La sustitución progresiva de la acción familiar por la escolar",
+            "B": "La duplicación de funciones para reforzar los mismos hábitos",
+            "C": "La complementariedad de funciones y la comunicación bidireccional",
+            "D": "La separación estricta de ámbitos sin intercambio de información"
+        },
+        "correct": "C",
+        "justification": "Familia y escuela no deben duplicar funciones ni sustituirse, sino complementarse y mantener una comunicación bidireccional estable."
+    },
+    {
+        "id": "SFE-global-24",
+        "num": 24,
+        "question": "Un tutor de ESO prepara una entrevista con la familia de un alumno que presenta bajo rendimiento. Siguiendo las pautas sobre entrevistas con familias, ¿cómo debe plantear el encuentro?",
+        "options": {
+            "A": "Centrándose en señalar los errores educativos cometidos en el hogar para corregirlos",
+            "B": "Manteniendo un tono acogedor, no culpabilizador y centrado en objetivos y soluciones compartidas",
+            "C": "Limitándose a leer el boletín de notas de forma unidireccional para ahorrar tiempo",
+            "D": "Posponiendo cualquier reunión hasta final de curso para disponer de calificaciones definitivas"
+        },
+        "correct": "B",
+        "justification": "Las entrevistas entre tutoría y familias deben ser habituales, acogedoras, no culpabilizadoras y estar centradas en objetivos y soluciones compartidas."
+    },
+    {
+        "id": "SFE-global-25",
+        "num": 25,
+        "question": "¿Qué tres tipos de barreras pueden explicar una baja participación de las familias en el centro educativo?",
+        "options": {
+            "A": "Informativas, organizativas y culturales",
+            "B": "Cognitivas, axiológicas y emocionales",
+            "C": "Jurídicas, demográficas y tecnológicas",
+            "D": "Curriculares, evaluativas y metodológicas"
+        },
+        "correct": "A",
+        "justification": "El tema identifica tres tipos de barreras que dificultan la participación familiar en el centro escolar: informativas, organizativas y culturales."
+    },
+    {
+        "id": "SFE-global-26",
+        "num": 26,
+        "question": "¿Sobre qué cuatro pilares se apoya la armonía familiar para favorecer el desarrollo y aprendizaje del alumnado?",
+        "options": {
+            "A": "Comunicación empática, resolución dialogada de conflictos, disciplina consistente y vínculo afectivo",
+            "B": "Autoridad rígida, supervisión académica constante, premios materiales y aislamiento digital",
+            "C": "Homogeneidad de creencias, ausencia de discrepancias, horarios estrictos y delegación escolar",
+            "D": "Evaluación continua, tutorización externa, actividades extraescolares y control parental"
+        },
+        "correct": "A",
+        "justification": "La armonía familiar se sustenta en cuatro elementos clave: comunicación empática, resolución dialogada de conflictos, disciplina consistente y vínculo afectivo."
+    },
+    {
+        "id": "SFE-global-27",
+        "num": 27,
+        "question": "¿Cuál de las siguientes funciones corresponde específicamente al rol del tutor en su relación con las familias?",
+        "options": {
+            "A": "Informar, asesorar, escuchar, coordinar y facilitar la cooperación educativa",
+            "B": "Evaluar el nivel socioeconómico del hogar para determinar las calificaciones",
+            "C": "Sustituir a los progenitores en la toma de decisiones sobre la crianza afectiva",
+            "D": "Restringir el contacto con las familias únicamente a casos de sanción disciplinaria"
+        },
+        "correct": "A",
+        "justification": "El tutor cumple el papel de informar, asesorar, escuchar, coordinar y facilitar la cooperación educativa continua entre el centro y las familias."
+    },
+    {
+        "id": "SFE-global-28",
+        "num": 28,
+        "question": "Un equipo directivo detecta que las familias migrantes apenas acuden a las reuniones porque las circulares solo se envían en un idioma técnico y las reuniones coinciden con sus jornadas laborales. ¿Qué barreras están operando principalmente?",
+        "options": {
+            "A": "Barreras culturales, informativas y organizativas",
+            "B": "Barreras estrictamente cognitivas e instrumentales",
+            "C": "Barreras legales derivadas de la LOE",
+            "D": "Barreras de resocialización terciaria"
+        },
+        "correct": "A",
+        "justification": "El lenguaje técnico y la falta de adaptación idiomática constituyen barreras informativas y culturales, mientras que la incompatibilidad de horarios representa una barrera organizativa del centro."
+    },
+    {
+        "id": "SFE-global-29",
+        "num": 29,
+        "question": "¿Quiénes desarrollaron el modelo TPACK (Technological Pedagogical Content Knowledge) entre 2006 y 2009?",
+        "options": {
+            "A": "Punya Mishra y Matthew J. Koehler",
+            "B": "Manuel Área y Teresa Pessoa",
+            "C": "Marc Prensky y Cristóbal Cobo",
+            "D": "Mike Ribble, Gerald Bailey y Tweed Ross"
+        },
+        "correct": "A",
+        "justification": "El modelo TPACK fue desarrollado por Punya Mishra y Matthew J. Koehler entre 2006 y 2009 para explicar cómo integrar eficazmente las TIC en la docencia."
+    },
+    {
+        "id": "SFE-global-30",
+        "num": 30,
+        "question": "En el modelo TPACK, ¿qué representa el componente PCK (Pedagogical Content Knowledge)?",
+        "options": {
+            "A": "El dominio técnico de los dispositivos y programas informáticos",
+            "B": "El conocimiento de cómo las herramientas tecnológicas modifican el aula",
+            "C": "La capacidad de transformar un contenido disciplinar para hacerlo comprensible al alumnado",
+            "D": "La integración simultánea de tecnología, pedagogía y contenido en un contexto"
+        },
+        "correct": "C",
+        "justification": "PCK (conocimiento pedagógico del contenido) consiste en saber transformar un contenido específico de la materia para que el alumnado pueda comprenderlo y aprenderlo."
+    },
+    {
+        "id": "SFE-global-31",
+        "num": 31,
+        "question": "Según la 'regla de examen' destacada en el modelo TPACK, ¿qué aspecto es esencial para una integración eficaz de las tecnologías?",
+        "options": {
+            "A": "La suma aislada de los conocimientos técnico, pedagógico y disciplinar",
+            "B": "La interacción entre los conocimientos y la consideración del contexto educativo",
+            "C": "El dominio exclusivo del conocimiento tecnológico (TK) por encima de la materia",
+            "D": "La sustitución de la metodología didáctica por plataformas digitales estandarizadas"
+        },
+        "correct": "B",
+        "justification": "El modelo TPACK no consiste en sumar tres conocimientos aislados, sino en su interacción dinámica, incorporando además el contexto educativo que condiciona qué combinación es adecuada."
+    },
+    {
+        "id": "SFE-global-32",
+        "num": 32,
+        "question": "¿Qué diferencia esencial establece Lozano (2011) entre el enfoque TIC y el enfoque TAC?",
+        "options": {
+            "A": "Las TIC se usan en educación primaria y las TAC exclusivamente en educación superior",
+            "B": "Las TIC se centran en el manejo de herramientas y las TAC orientan esas tecnologías al aprendizaje y la adquisición de conocimiento",
+            "C": "Las TIC requieren conexión a internet y las TAC funcionan únicamente sin dispositivos electrónicos",
+            "D": "Las TIC son responsabilidad del alumnado y las TAC son de uso exclusivo del equipo directivo"
+        },
+        "correct": "B",
+        "justification": "Según Lozano (2011), las TAC (Tecnologías del Aprendizaje y del Conocimiento) van más allá del mero manejo instrumental de las TIC, orientando las herramientas hacia el aprendizaje y la construcción de conocimiento."
+    },
+    {
+        "id": "SFE-global-33",
+        "num": 33,
+        "question": "Un profesor de Historia diseña una actividad preguntándose «¿Qué y cómo aprenderán mejor mis alumnos el concepto de transición política utilizando esta línea de tiempo interactiva?». ¿En qué enfoque se sitúa?",
+        "options": {
+            "A": "Enfoque TIC centrado en el soporte",
+            "B": "Enfoque TAC centrado en el aprendizaje y el conocimiento",
+            "C": "Enfoque de dotación tecnológica según Cobo (2016)",
+            "D": "Enfoque instrumental de Prensky (2001)"
+        },
+        "correct": "B",
+        "justification": "La pregunta clave del enfoque TAC es «¿Qué y cómo aprenderemos mejor con ella?», frente a la pregunta instrumental de las TIC («¿Qué herramienta usamos?»)."
+    },
+    {
+        "id": "SFE-global-34",
+        "num": 34,
+        "question": "¿Qué idea central aporta Cristóbal Cobo (2016) respecto a la incorporación de tecnología en los centros educativos?",
+        "options": {
+            "A": "Que dotar de dispositivos digitales a las aulas garantiza automáticamente la innovación educativa",
+            "B": "Que equipar no equivale a transformar, siendo necesarios cambios profesionales y organizativos",
+            "C": "Que los nacidos después de 1990 poseen competencia digital innata sin necesidad de formación",
+            "D": "Que la competencia digital debe adquirirse únicamente en la etapa adulta"
+        },
+        "correct": "B",
+        "justification": "Cobo (2016) advierte que equipar tecnológicamente los centros no equivale a transformar la educación, ya que se requieren cambios profesionales y organizativos."
+    },
+    {
+        "id": "SFE-global-35",
+        "num": 35,
+        "question": "¿Cuáles son las cinco dimensiones de la alfabetización o competencia digital propuestas por Área y Pessoa (2012)?",
+        "options": {
+            "A": "Instrumental, cognitiva, comunicativa, axiológica y emocional",
+            "B": "Técnica, pedagógica, curricular, evaluativa y contextual",
+            "C": "Informativa, organizativa, cultural, social y ética",
+            "D": "Crítica, creativa, segura, participativa y colaborativa"
+        },
+        "correct": "A",
+        "justification": "Área y Pessoa (2012) estructuran la competencia digital en cinco dimensiones: instrumental, cognitiva, comunicativa, axiológica y emocional."
+    },
+    {
+        "id": "SFE-global-36",
+        "num": 36,
+        "question": "¿Qué distinción conceptual realiza Mario Kaplún (1998) entre 'comunicar' y 'comunicarse'?",
+        "options": {
+            "A": "Comunicar es dialogar y compartir, mientras que comunicarse es transmitir información",
+            "B": "Comunicar es transmitir, mientras que comunicarse implica dialogar y compartir",
+            "C": "Comunicar requiere medios digitales y comunicarse solo ocurre de forma presencial",
+            "D": "Comunicar es un proceso bidireccional y comunicarse es un acto unidireccional"
+        },
+        "correct": "B",
+        "justification": "Kaplún (1998) distingue entre comunicar (acto de transmitir) y comunicarse (proceso de dialogar y compartir en reciprocidad)."
+    },
+    {
+        "id": "SFE-global-37",
+        "num": 37,
+        "question": "¿Cuántas áreas y competencias comprende el marco europeo DigComp 2.0 (2016) recogido en el temario?",
+        "options": {
+            "A": "Cinco áreas y 21 competencias",
+            "B": "Siete áreas y 15 competencias",
+            "C": "Cuatro áreas y 16 competencias",
+            "D": "Nueve áreas y 27 competencias"
+        },
+        "correct": "A",
+        "justification": "El marco europeo DigComp 2.0 (2016) se estructura en cinco áreas y 21 competencias digitales."
+    },
+    {
+        "id": "SFE-global-38",
+        "num": 38,
+        "question": "Según Ortega-Barón y cols. (2016), ¿cómo se define el ciberacoso?",
+        "options": {
+            "A": "Como el acceso accidental a contenidos inadecuados en redes sociales",
+            "B": "Como el hostigamiento entre iguales mediante medios electrónicos",
+            "C": "Como la brecha de acceso a dispositivos entre distintos niveles socioeconómicos",
+            "D": "Como la dependencia psicológica provocada por el uso excesivo de pantallas"
+        },
+        "correct": "B",
+        "justification": "Ortega-Barón y cols. (2016) definen el ciberacoso específicamente como el hostigamiento entre iguales llevado a cabo mediante medios electrónicos."
+    },
+    {
+        "id": "SFE-global-39",
+        "num": 39,
+        "question": "¿Qué conclusión relevante extraen los datos de PISA 2025 / OCDE (2026) citados en el material sobre el uso digital en educación?",
+        "options": {
+            "A": "Que a mayor número de horas frente a pantallas siempre se obtiene mejor rendimiento académico",
+            "B": "Que el propósito y la intensidad del uso digital importan, y que asociación no equivale a causalidad",
+            "C": "Que el uso de herramientas digitales elimina por completo las desigualdades de origen social",
+            "D": "Que el alumnado considerado nativo digital no requiere orientación docente para buscar información"
+        },
+        "correct": "B",
+        "justification": "El material señala respecto a PISA 2025 / OCDE (2026) que tanto el propósito como la intensidad del uso digital son determinantes, advirtiendo además que la asociación estadística no implica causalidad."
+    },
+    {
+        "id": "SFE-global-40",
+        "num": 40,
+        "question": "¿Qué diferencia establece el tema sobre habilidades socioeducativas entre 'habilidades sociales' y 'competencia social'?",
+        "options": {
+            "A": "Las habilidades sociales son innatas y la competencia social se adquiere en la escuela",
+            "B": "Las habilidades sociales son conductas específicas, aprendidas y ajustadas al contexto, mientras que la competencia social es la valoración global que se apoya en ellas",
+            "C": "Las habilidades sociales se aplican solo con el alumnado y la competencia social solo con las familias",
+            "D": "Las habilidades sociales corresponden al ámbito emocional y la competencia social al ámbito cognitivo"
+        },
+        "correct": "B",
+        "justification": "Las habilidades sociales se definen como conductas específicas, aprendidas y ajustadas a la situación y contexto cultural, mientras que la competencia social es la valoración global sustentada en dichas habilidades."
+    },
+    {
+        "id": "SFE-global-41",
+        "num": 41,
+        "question": "¿Cuáles son las cuatro vías de aprendizaje de las habilidades sociales identificadas en el temario?",
+        "options": {
+            "A": "Experiencia directa, observación, instrucción verbal y retroalimentación interpersonal",
+            "B": "Imitación espontánea, castigo positivo, lectura teórica y evaluación sumativa",
+            "C": "Asertividad, empatía, escucha reflexiva y negociación colaborativa",
+            "D": "Planificación, ejecución, temporalización y seguimiento institucional"
+        },
+        "correct": "A",
+        "justification": "El material establece cuatro vías principales para el aprendizaje de las habilidades sociales: experiencia directa, observación, instrucción verbal y retroalimentación interpersonal."
+    },
+    {
+        "id": "SFE-global-42",
+        "num": 42,
+        "question": "Según la clasificación de estilos de relación de Caballo (1993), ¿qué caracteriza al estilo asertivo frente al pasivo y al agresivo?",
+        "options": {
+            "A": "Evitar expresar las propias opiniones para no generar conflicto con los demás",
+            "B": "Expresar y defender los propios derechos y opiniones respetando los de los demás",
+            "C": "Imponer el propio criterio vulnerando los derechos del interlocutor para lograr el objetivo",
+            "D": "Ceder sistemáticamente ante las demandas ajenas ocultando el malestar emocional"
+        },
+        "correct": "B",
+        "justification": "La asertividad permite expresar y defender lo propio respetando simultáneamente los derechos y la dignidad de los demás, a diferencia de la pasividad y la agresión."
+    },
+    {
+        "id": "SFE-global-43",
+        "num": 43,
+        "question": "Durante una tutoría, una madre critica al docente diciéndole: «Siempre deja los deberes para última hora». El profesor responde: «Tiene razón en que ayer publiqué la tarea más tarde de lo habitual; ¿a qué otros días se refiere exactamente?». ¿Qué dos técnicas asertivas ha combinado el docente?",
+        "options": {
+            "A": "Aserción negativa e interrogación negativa",
+            "B": "Parafraseo y disco rayado",
+            "C": "Banco de niebla y refuerzo intermitente",
+            "D": "Instrucción verbal y modelado conductual"
+        },
+        "correct": "A",
+        "justification": "Admitir una crítica justa corresponde a la aserción negativa («Tiene razón en que ayer publiqué la tarea más tarde»), y pedir que se concrete la crítica corresponde a la interrogación negativa («¿a qué otros días se refiere?»)."
+    },
+    {
+        "id": "SFE-global-44",
+        "num": 44,
+        "question": "¿En qué consiste la técnica del 'parafraseo' dentro de la escucha reflexiva?",
+        "options": {
+            "A": "En repetir palabra por palabra el discurso del interlocutor sin alterar ninguna expresión",
+            "B": "En reformular con propias palabras lo que se ha entendido del mensaje del interlocutor",
+            "C": "En formular preguntas cerradas para verificar la veracidad de los hechos relatados",
+            "D": "En interrumpir el relato emocional para ofrecer inmediatamente una solución técnica"
+        },
+        "correct": "B",
+        "justification": "El parafraseo es una técnica de escucha reflexiva que consiste en reformular lo entendido para confirmar la comprensión y demostrar atención empática."
+    },
+    {
+        "id": "SFE-global-45",
+        "num": 45,
+        "question": "¿Qué diferencia funcional existe entre la 'tutoría' y la 'escuela de familias' en la coordinación entre hogar y centro educativo?",
+        "options": {
+            "A": "La tutoría ofrece formación grupal preventiva y la escuela de familias realiza el seguimiento individual",
+            "B": "La tutoría personaliza el seguimiento individual con comunicación bidireccional y la escuela de familias ofrece formación grupal, apoyo y prevención",
+            "C": "La tutoría es obligatoria por ley para los abuelos y la escuela de familias es exclusiva para alumnado con necesidades educativas",
+            "D": "La tutoría se centra en el rendimiento académico y la escuela de familias en la evaluación disciplinaria"
+        },
+        "correct": "B",
+        "justification": "La tutoría tiene como finalidad el seguimiento individualizado y la comunicación bidireccional, mientras que la escuela de familias (Fresnillo Poza et al., 2000) constituye un recurso grupal de formación, apoyo y prevención."
+    },
+    {
+        "id": "SFE-global-46",
+        "num": 46,
+        "question": "Según Tapia-Gutiérrez y Cubo-Delgado (2017), ¿qué consecuencias tiene una buena relación entre familia y profesorado?",
+        "options": {
+            "A": "Mejora el clima del centro y la comunicación, repercutiendo positivamente en el aprendizaje y rendimiento del alumnado",
+            "B": "Reduce la necesidad de realizar seguimiento tutorial durante la etapa de Educación Secundaria",
+            "C": "Sustituye la intervención de los departamentos de orientación en los conflictos familiares",
+            "D": "Garantiza que todas las familias adopten un estilo parental democrático de forma inmediata"
+        },
+        "correct": "A",
+        "justification": "Tapia-Gutiérrez y Cubo-Delgado (2017) señalan que una buena relación familia-profesorado mejora el clima del centro y la comunicación, lo que repercute en el aprendizaje y el rendimiento, favoreciendo aprendizajes duraderos."
+    },
+    {
+        "id": "SFE-global-47",
+        "num": 47,
+        "question": "¿Qué cualidades propone cultivar Palomero-Fernández (2009) en el profesorado para desarrollar su competencia socioemocional?",
+        "options": {
+            "A": "Disposición fenomenológica, autonomía, responsabilidad, independencia de criterio y disposición cooperadora",
+            "B": "Autoridad jerárquica, distancia emocional, dominio técnico, rigor sancionador y neutralidad afectiva",
+            "C": "Extroversión comunicativa, liderazgo carismático, flexibilidad normativa, intuición y competitividad",
+            "D": "Competencia digital avanzada, dominio curricular, erudición teórica, evaluación objetiva y obediencia institucional"
+        },
+        "correct": "A",
+        "justification": "Palomero-Fernández (2009) propone desarrollar la disposición fenomenológica (percibir los propios pensamientos, emociones y conductas), la autonomía, la responsabilidad, la independencia de criterio y la disposición cooperadora."
+    },
+    {
+        "id": "SFE-global-48",
+        "num": 48,
+        "question": "¿Qué cinco elementos integran la estructura de un 'plan de acción' para la mejora de las habilidades socioeducativas?",
+        "options": {
+            "A": "Objetivo, medios, motivación, temporalización y seguimiento",
+            "B": "Diagnóstico, hipótesis, intervención, evaluación y memoria",
+            "C": "Contenido, metodología, recursos, competencias y criterios",
+            "D": "Afecto, comunicación, control, disciplina y apoyo"
+        },
+        "correct": "A",
+        "justification": "El plan de acción recogido en el tema consta de cinco componentes: objetivo, medios, motivación, temporalización y seguimiento."
+    },
+    {
+        "id": "SFE-global-49",
+        "num": 49,
+        "question": "¿Qué tres tipos de destrezas distingue el temario dentro de las habilidades socioeducativas del profesorado?",
+        "options": {
+            "A": "Pensar, sentir y actuar",
+            "B": "Conocer, hacer y convivir",
+            "C": "Escuchar, hablar y negociar",
+            "D": "Observar, planificar y evaluar"
+        },
+        "correct": "A",
+        "justification": "El material sobre habilidades socioeducativas distingue tres tipos de destrezas: pensar, sentir y actuar, junto a seis grupos de habilidades y siete claves de comunicación eficaz."
+    },
+    {
+        "id": "SFE-global-50",
+        "num": 50,
+        "question": "De acuerdo con Díaz Fouz (2014), ¿qué papel desempeñan las familias y los docentes respecto al desarrollo socioemocional del alumnado?",
+        "options": {
+            "A": "Actúan como modelos del desarrollo socioemocional, vinculándose el autoconcepto docente con la eficacia profesional y el rendimiento del alumnado",
+            "B": "Deben delegar la educación emocional exclusivamente en especialistas externos para mantener la objetividad",
+            "C": "Influyen únicamente en la etapa infantil, perdiendo relevancia como modelos en la adolescencia",
+            "D": "Su impacto depende exclusivamente de la formación teórica recibida en psicología clínica"
+        },
+        "correct": "A",
+        "justification": "Díaz Fouz (2014) sostiene que familias y docentes son modelos del desarrollo socioemocional y vincula el autoconcepto positivo del docente con su eficacia profesional y con el desarrollo y rendimiento del alumnado."
+    },
+    {
+        "id": "SFE-global-51",
+        "num": 51,
+        "question": "Según la definición pedagógica recogida en el material, ¿cómo se caracteriza epistemológicamente la Sociología de la Educación?",
+        "options": {
+            "A": "Como una ciencia descriptiva, positiva y auxiliar de la Pedagogía con método positivo-plural",
+            "B": "Como una rama normativa de la Filosofía dedicada a prescribir los fines ideales de la enseñanza",
+            "C": "Como una disciplina psicológica centrada en los procesos cognitivos individuales del aprendizaje",
+            "D": "Como una ciencia exclusivamente teórica que prescinde de enfoques y métodos empíricos"
+        },
+        "correct": "A",
+        "justification": "El material define la Sociología de la Educación, desde el punto de vista pedagógico, como una ciencia descriptiva, positiva y auxiliar de la Pedagogía, con campo de investigación propio y método positivo-plural que emplea enfoques y métodos empíricos."
+    },
+    {
+        "id": "SFE-global-52",
+        "num": 52,
+        "question": "¿Cuál de las siguientes preguntas corresponde específicamente a la escala de análisis de la macrosociología de la educación?",
+        "options": {
+            "A": "¿Cómo influyen las relaciones cotidianas entre alumnado y profesorado en la dinámica del aula?",
+            "B": "¿Cómo influye la desigualdad social en las oportunidades educativas y el sistema educativo?",
+            "C": "¿Qué roles informales surgen dentro de un grupo de iguales durante el recreo escolar?",
+            "D": "¿De qué manera negocia un docente las normas de convivencia en su grupo de tutoría?"
+        },
+        "correct": "B",
+        "justification": "La macrosociología analiza las relaciones amplias entre sociedad y educación (estructura social, instituciones, clases, políticas y sistema educativo), respondiendo a cuestiones como la influencia de la desigualdad social en las oportunidades educativas."
+    },
+    {
+        "id": "SFE-global-53",
+        "num": 53,
+        "question": "En el contexto de la Revolución Industrial, ¿qué relación establece Karl Marx entre el modo de producción y la educación?",
+        "options": {
+            "A": "El modo de producción condiciona los fenómenos sociales y la organización del trabajo influye en la educación que recibe cada persona",
+            "B": "El modo de producción es independiente de la cultura escolar y garantiza la movilidad meritocrática",
+            "C": "La institución escolar determina por sí sola las relaciones económicas entre burguesía y proletariado",
+            "D": "La educación neutraliza el conflicto de clases al homogeneizar las posiciones sociales de partida"
+        },
+        "correct": "A",
+        "justification": "Desde el materialismo histórico de Marx, el modo de producción condiciona los fenómenos sociales, de modo que el trabajo organiza la cultura y la posición social, influyendo en la educación que recibe cada persona."
+    },
+    {
+        "id": "SFE-global-54",
+        "num": 54,
+        "question": "¿En qué contexto histórico y corriente de pensamiento sitúa el material la obra de Émile Durkheim sobre la educación como hecho social?",
+        "options": {
+            "A": "En la III República francesa (1870-1940) y dentro del pensamiento progresista-liberal",
+            "B": "En la Revolución Industrial inglesa y dentro del materialismo histórico",
+            "C": "En la posguerra estadounidense de 1950 y dentro de la escuela neomarxista",
+            "D": "En la Europa posterior a 1968 y dentro de la nueva Sociología de la Educación"
+        },
+        "correct": "A",
+        "justification": "El material contextualiza explícitamente a Émile Durkheim en la III República francesa (1870-1940) y dentro del pensamiento progresista-liberal."
+    },
+    {
+        "id": "SFE-global-55",
+        "num": 55,
+        "question": "Aunque Max Weber no formuló una teoría específica de la Sociología de la Educación, ¿qué conceptos suyos influyen en la corriente neoweberiana?",
+        "options": {
+            "A": "La dominación simbólica, el poder, la legitimidad y los grupos de estatus",
+            "B": "La doble red de escolarización y los aparatos ideológicos del Estado",
+            "C": "Las funciones manifiestas y latentes del subsistema escolar",
+            "D": "La distinción entre clase ociosa y clase trabajadora en el Kindergarten"
+        },
+        "correct": "A",
+        "justification": "Weber estudia la acción social, el poder, la dominación y la legitimidad; sus ideas sobre dominación simbólica y grupos de estatus influyen posteriormente en la corriente neoweberiana."
+    },
+    {
+        "id": "SFE-global-56",
+        "num": 56,
+        "question": "En el marco curricular de la LOMLOE recogido en el temario, ¿qué elemento conecta las competencias clave con los saberes básicos y los criterios de evaluación?",
+        "options": {
+            "A": "Las competencias específicas",
+            "B": "Los objetivos generales de etapa",
+            "C": "Las funciones latentes del centro",
+            "D": "Los pilares del Informe Delors"
+        },
+        "correct": "A",
+        "justification": "Según la tabla de conceptos curriculares LOMLOE, las competencias específicas son los desempeños que el alumnado debe desplegar en actividades o situaciones y conectan las competencias clave con los saberes básicos y los criterios de evaluación."
+    },
+    {
+        "id": "SFE-global-57",
+        "num": 57,
+        "question": "¿Cuál es la diferencia normativa entre la Ley Orgánica 3/2020 (LOMLOE) y el Real Decreto 217/2022 respecto a las ocho competencias clave en Educación Secundaria Obligatoria?",
+        "options": {
+            "A": "La LOMLOE modifica la LO 2/2006, mientras que el artículo 11 y el anexo I del RD 217/2022 enumeran expresamente las ocho competencias clave y regulan el Perfil de salida para ESO",
+            "B": "La LOMLOE regula únicamente el Bachillerato y el RD 217/2022 establece las enseñanzas mínimas de Educación Infantil",
+            "C": "El RD 217/2022 deroga por completo la Ley Orgánica 2/2006 y sustituye las competencias clave por saberes memorísticos",
+            "D": "La LOMLOE jerarquiza las ocho competencias según su carga lectiva y el RD 217/2022 elimina el Perfil de salida"
+        },
+        "correct": "A",
+        "justification": "La precisión normativa del material aclara que la LO 3/2020 modifica la LO 2/2006, mientras que para ESO es el artículo 11 y el anexo I del Real Decreto 217/2022, de 29 de marzo, donde se enumeran las ocho competencias clave y se regula el Perfil de salida."
+    },
+    {
+        "id": "SFE-global-58",
+        "num": 58,
+        "question": "¿De qué documento europeo adapta el Perfil de salida del sistema educativo español las ocho competencias clave?",
+        "options": {
+            "A": "De la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018",
+            "B": "Del Informe Delors presentado ante la UNESCO en 1996",
+            "C": "De la Estrategia de aprendizaje permanente de la Unión Europea de 2014",
+            "D": "De la Declaración de la Agenda 2030 aprobada en 2015"
+        },
+        "correct": "A",
+        "justification": "El Perfil de salida adapta al sistema educativo español las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018."
+    },
+    {
+        "id": "SFE-global-59",
+        "num": 59,
+        "question": "En el análisis de Émile Durkheim sobre la función socializadora de la escuela, ¿qué diferencia la 'dimensión instrumental' de la 'dimensión expresiva'?",
+        "options": {
+            "A": "La instrumental refiere a habilidades y capacidades cognitivas para la vida adulta, y la expresiva a la interiorización de valores sociales para integrarse en la sociedad",
+            "B": "La instrumental consiste en la obediencia a las normas familiares, y la expresiva en el dominio de las herramientas digitales del aula",
+            "C": "La instrumental evalúa la conducta moral del alumnado, y la expresiva mide exclusivamente sus calificaciones académicas",
+            "D": "La instrumental se desarrolla en la familia durante la infancia, y la expresiva corresponde únicamente a la formación profesional"
+        },
+        "correct": "A",
+        "justification": "En el esquema sobre Durkheim, la dimensión instrumental es la adquisición de habilidades y capacidades cognitivas para desenvolverse en la vida adulta, mientras que la expresiva es la adquisición e interiorización de valores sociales necesarios para integrarse en la sociedad."
+    },
+    {
+        "id": "SFE-global-60",
+        "num": 60,
+        "question": "Según Talcott Parsons, ¿sobre qué dos tipos de criterios clasifica y selecciona la escuela al alumnado de cara a la futura distribución del trabajo?",
+        "options": {
+            "A": "Criterios cognitivos (resultados en contenidos curriculares) y criterios morales o de conducta (responsabilidad y disciplina)",
+            "B": "Criterios socioeconómicos (renta familiar) y criterios geográficos (lugar de residencia)",
+            "C": "Criterios de edad cronológica y criterios de afiliación cultural de los progenitores",
+            "D": "Criterios de currículo oculto y criterios de capital simbólico heredado"
+        },
+        "correct": "A",
+        "justification": "Parsons señala que la clasificación escolar se basa en criterios cognitivos (resultados de aprendizaje) y criterios morales o de conducta (responsabilidad, disciplina y comportamiento hacia el aprendizaje, compañeros y profesorado)."
+    },
+    {
+        "id": "SFE-global-61",
+        "num": 61,
+        "question": "¿Cuál es la postura de Talcott Parsons respecto a la influencia del origen social en el rendimiento y selección escolar?",
+        "options": {
+            "A": "Considera que el origen social solo tendría una influencia relevante en situaciones muy extremas",
+            "B": "Sostiene que el origen social determina de forma inevitable todo fracaso escolar",
+            "C": "Afirma que la escuela debe compensar las desigualdades eliminando las calificaciones individuales",
+            "D": "Defiende que el capital cultural familiar invalida cualquier intento de meritocracia escolar"
+        },
+        "correct": "A",
+        "justification": "Dentro de su planteamiento funcionalista, Parsons considera que la escuela selecciona justamente según capacidades individuales y que el origen social solo tendría influencia relevante en situaciones muy extremas."
+    },
+    {
+        "id": "SFE-global-62",
+        "num": 62,
+        "question": "¿Qué autores dentro de las teorías de la reproducción escribieron 'La escuela capitalista en Francia' y se vinculan con la idea de una doble red de escolarización?",
+        "options": {
+            "A": "Christian Baudelot y Roger Establet",
+            "B": "Samuel Bowles y Herbert Gintis",
+            "C": "Pierre Bourdieu y Jean-Claude Passeron",
+            "D": "Émile Durkheim y Talcott Parsons"
+        },
+        "correct": "A",
+        "justification": "Christian Baudelot y Roger Establet (1971/1976) son los autores de 'La escuela capitalista en Francia' y se relacionan en el material con la noción de una doble red de escolarización."
+    },
+    {
+        "id": "SFE-global-63",
+        "num": 63,
+        "question": "¿Qué autor es señalado en el material como iniciador de las teorías de la reproducción en Sociología de la Educación (1970/1988)?",
+        "options": {
+            "A": "Louis Althusser",
+            "B": "Robert K. Merton",
+            "C": "Thorstein Veblen",
+            "D": "Max Weber"
+        },
+        "correct": "A",
+        "justification": "La tabla de autores de la reproducción identifica explícitamente a Louis Althusser (1970/1988) como quien inicia las teorías de la reproducción en sociología de la educación."
+    },
+    {
+        "id": "SFE-global-64",
+        "num": 64,
+        "question": "Un centro educativo aplica exactamente las mismas pruebas lingüísticas y normas formales a todo su alumnado, pero los estudiantes procedentes de hogares con mayor capital cultural obtienen sistemáticamente mejores resultados. ¿Cómo explican este fenómeno Bourdieu y Passeron?",
+        "options": {
+            "A": "La escuela aparenta neutralidad mediante reglas formalmente iguales, pero favorece a quienes ya dominan los códigos culturales valorados por la institución",
+            "B": "Las pruebas objetivas demuestran que la escuela garantiza la igualdad real de oportunidades al margen del entorno familiar",
+            "C": "Se trata de una situación patológica excepcional derivada de una mala gestión directiva del centro",
+            "D": "El rendimiento desigual obedece únicamente a diferencias genéticas en extraversión y neuroticismo"
+        },
+        "correct": "A",
+        "justification": "Para Bourdieu y Passeron, la escuela parece neutral al aplicar reglas formalmente iguales, pero esas prácticas favorecen a quienes ya poseen el lenguaje y los códigos culturales valorados por la institución, agravando las diferencias de partida."
+    },
+    {
+        "id": "SFE-global-65",
+        "num": 65,
+        "question": "¿Cuáles son las cuatro funciones sociales principales de la escuela identificadas en el estudio de las funciones sociales de la educación?",
+        "options": {
+            "A": "Preparar para el trabajo, distribuir posiciones sociales, integrar y controlar socialmente, y formar ciudadanía",
+            "B": "Custodiar menores, financiar servicios públicos, homogeneizar creencias religiosas y suprimir el conflicto político",
+            "C": "Acreditar títulos universitarios, sustituir a la familia en la crianza, seleccionar élites políticas y regular el mercado laboral",
+            "D": "Transmitir saberes técnicos, eliminar la estratificación social, fomentar el consumo y estandarizar el ocio"
+        },
+        "correct": "A",
+        "justification": "El material enumera cuatro funciones sociales principales de la escuela: preparar para el trabajo, distribuir posiciones sociales, integrar y controlar socialmente, y formar ciudadanía."
+    },
+    {
+        "id": "SFE-global-66",
+        "num": 66,
+        "question": "Además de las dimensiones formal y real del currículo, ¿qué otras dos dimensiones curriculares destaca el temario para explicar que no todo lo que se aprende está escrito ni todo lo relevante se enseña?",
+        "options": {
+            "A": "Currículo oculto y currículo nulo",
+            "B": "Currículo transversal y currículo optativo",
+            "C": "Currículo expresivo y currículo instrumental",
+            "D": "Currículo manifiesto y currículo compensatorio"
+        },
+        "correct": "A",
+        "justification": "El currículo presenta cuatro dimensiones: formal, real, oculta y nula, reflejando que no todo lo que se aprende está escrito (oculto) y no todo lo relevante llega a enseñarse (nulo)."
+    },
+    {
+        "id": "SFE-global-67",
+        "num": 67,
+        "question": "¿Cómo caracteriza el material la transición contemporánea entre la escuela y el mundo del trabajo?",
+        "options": {
+            "A": "Como trayectorias más flexibles, inciertas y discontinuas, acompañadas de la exigencia de formación continua",
+            "B": "Como un paso único, lineal y definitivo tras finalizar la educación obligatoria",
+            "C": "Como un proceso garantizado por la posesión de un título académico sin necesidad de actualización posterior",
+            "D": "Como una desconexión total entre las credenciales educativas y el acceso al empleo"
+        },
+        "correct": "A",
+        "justification": "La transición escuela-trabajo ha dejado de ser un paso único y definitivo: predominan trayectorias flexibles, inciertas y discontinuas junto con la exigencia de formación continua."
+    },
+    {
+        "id": "SFE-global-68",
+        "num": 68,
+        "question": "¿Qué diferencia esencial existe entre el currículo oficial y el currículo oculto en relación con las funciones de Merton?",
+        "options": {
+            "A": "El currículo oficial se vincula con las funciones manifiestas declaradas y el currículo oculto con las funciones latentes o efectos no declarados",
+            "B": "El currículo oficial regula las actividades extraescolares y el currículo oculto establece los criterios de evaluación LOMLOE",
+            "C": "El currículo oficial es elaborado por las familias y el currículo oculto por la administración educativa",
+            "D": "El currículo oficial afecta solo al profesorado y el currículo oculto solo al equipo directivo"
+        },
+        "correct": "A",
+        "justification": "La distinción entre funciones manifiestas (declaradas y reconocidas en objetivos oficiales) y latentes (efectos indirectos o no declarados) se relaciona directamente con el currículo oficial y el currículo oculto."
+    },
+    {
+        "id": "SFE-global-69",
+        "num": 69,
+        "question": "Según el material sobre socialización, ¿qué dos rasgos de personalidad vinculados a la genética se mencionan expresamente como factores que modulan la socialización?",
+        "options": {
+            "A": "Extraversión y neuroticismo",
+            "B": "Impulsividad y resiliencia",
+            "C": "Introversión y empatía cognitiva",
+            "D": "Apertura a la experiencia y autocontrol"
+        },
+        "correct": "A",
+        "justification": "Al analizar los factores que modulan la socialización, el texto indica que influye la genética y menciona especialmente la extraversión y el neuroticismo, junto con los factores ambientales."
+    },
+    {
+        "id": "SFE-global-70",
+        "num": 70,
+        "question": "¿Qué tendencia describe el material respecto a la relación entre el nivel educativo de los progenitores y sus prácticas de socialización familiar?",
+        "options": {
+            "A": "Niveles educativos más altos se asocian con mayor énfasis en autonomía, razonamiento y expresión emocional, y niveles más bajos con mayor énfasis en obediencia y conformidad",
+            "B": "Niveles educativos más altos se asocian con disciplina autoritaria rígida, y niveles más bajos con estilos educativos permisivos",
+            "C": "El nivel educativo de los progenitores no guarda ninguna relación observable con las estrategias de crianza",
+            "D": "Niveles educativos más bajos favorecen la expresión emocional libre mientras los más altos priorizan la conformidad acrítica"
+        },
+        "correct": "A",
+        "justification": "El material recoge como tendencia (no regla universal) que niveles educativos parentales más altos se asocian con mayor énfasis en autonomía, razonamiento y expresión emocional, mientras que niveles más bajos enfatizan más la obediencia y conformidad."
+    },
+    {
+        "id": "SFE-global-71",
+        "num": 71,
+        "question": "¿Qué ocurre con los primeros modelos de apego familiar a medida que el individuo crece y se relaciona con otros entornos?",
+        "options": {
+            "A": "La influencia familiar suele perder protagonismo con la edad, aunque los primeros modelos de apego no desaparecen por completo y pueden transformarse mediante experiencias posteriores",
+            "B": "Los primeros modelos de apego quedan fijados de manera inmutable en la infancia sin posibilidad de cambio",
+            "C": "Los modelos de apego desaparecen totalmente al iniciar la Educación Secundaria Obligatoria",
+            "D": "La influencia familiar aumenta linealmente hasta alcanzar su punto máximo en la jubilación"
+        },
+        "correct": "A",
+        "justification": "El texto señala que aunque la influencia familiar pierde protagonismo con la edad, los primeros modelos de apego no desaparecen por completo y pueden transformarse mediante experiencias posteriores."
+    },
+    {
+        "id": "SFE-global-72",
+        "num": 72,
+        "question": "Unos padres muestran un nivel bajo de afecto y comunicación hacia su hijo adolescente, pero imponen normas muy estrictas, control rígido y escaso margen para el diálogo. ¿A qué estilo educativo parental de López (2005) corresponde este perfil?",
+        "options": {
+            "A": "Autoritario",
+            "B": "Permisivo",
+            "C": "Democrático",
+            "D": "Indulgente"
+        },
+        "correct": "A",
+        "justification": "En el esquema de dos dimensiones de López (2005), el estilo autoritario combina un alto control/disciplina con un bajo nivel de afecto/comunicación."
+    },
+    {
+        "id": "SFE-global-73",
+        "num": 73,
+        "question": "¿Qué caracteriza al estilo educativo parental 'permisivo' en función de las dimensiones de afecto/comunicación y control/disciplina?",
+        "options": {
+            "A": "Alto nivel de afecto y comunicación combinado con bajo nivel de control y disciplina",
+            "B": "Bajo nivel de afecto y comunicación combinado con bajo nivel de control y disciplina",
+            "C": "Alto nivel de afecto y comunicación combinado con alto nivel de control y disciplina",
+            "D": "Bajo nivel de afecto y comunicación combinado con alto nivel de control y disciplina"
+        },
+        "correct": "A",
+        "justification": "El estilo permisivo se define por presentar altos niveles de afecto y comunicación junto con bajos niveles de control y exigencia disciplinaria."
+    },
+    {
+        "id": "SFE-global-74",
+        "num": 74,
+        "question": "¿Cuál de las siguientes situaciones ejemplifica un 'entorno no compartido' como factor ambiental modulador de la socialización familiar?",
+        "options": {
+            "A": "Dos hermanos que viven en el mismo hogar tienen grupos de amigos distintos y reciben un trato diferenciado según su edad y temperamento",
+            "B": "Dos hermanos comparten exactamente los mismos ingresos económicos familiares y el mismo barrio de residencia",
+            "C": "Todos los miembros de la familia pertenecen al mismo momento histórico y contexto cultural",
+            "D": "Dos hermanos heredan idéntica predisposición genética hacia la extraversión"
+        },
+        "correct": "A",
+        "justification": "Los entornos no compartidos por hermanos son experiencias y condiciones ambientales diferentes dentro o fuera del hogar (trato diferenciado, amigos distintos, orden de nacimiento) que modulan de modo distinto la socialización."
+    },
+    {
+        "id": "SFE-global-75",
+        "num": 75,
+        "question": "¿Qué ley española de 2005 modificó el Código Civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio?",
+        "options": {
+            "A": "Ley 15/2005, de 8 de julio",
+            "B": "Ley 13/2005, de 1 de julio",
+            "C": "Ley Orgánica 8/2013, de 9 de diciembre",
+            "D": "Ley Orgánica 3/2020, de 29 de diciembre"
+        },
+        "correct": "A",
+        "justification": "La Ley 15/2005, de 8 de julio, reguló la reforma en materia de separación y divorcio, diferenciándose de la Ley 13/2005 que reguló el derecho a contraer matrimonio."
+    },
+    {
+        "id": "SFE-global-76",
+        "num": 76,
+        "question": "Según Cardona (2001), ¿por qué se considera insustituible el papel de la familia frente a la institución escolar?",
+        "options": {
+            "A": "Porque es el ámbito primordial para que el niño se reconozca como persona desde el inicio de la socialización y la crianza",
+            "B": "Porque posee mayor especialización didáctica que el profesorado en contenidos curriculares",
+            "C": "Porque la escuela carece de capacidad para transmitir normas de convivencia social",
+            "D": "Porque las presiones socioeconómicas nunca afectan al tiempo de contacto educativo en el hogar"
+        },
+        "correct": "A",
+        "justification": "Cardona (2001) destaca el carácter insustituible de la familia para que el niño se reconozca como persona, iniciando la socialización y la crianza mientras la escuela da continuidad a la labor educativa."
+    },
+    {
+        "id": "SFE-global-77",
+        "num": 77,
+        "question": "¿Qué efecto señala el temario que pueden tener las presiones socioeconómicas sobre la dinámica educativa familiar?",
+        "options": {
+            "A": "Pueden reducir el tiempo de contacto educativo en casa",
+            "B": "Aumentan automáticamente la participación de los progenitores en el consejo escolar",
+            "C": "Eliminan las diferencias entre los estilos educativos autoritario y democrático",
+            "D": "Sustituyen la función afectiva de la familia por la función asistencial del centro"
+        },
+        "correct": "A",
+        "justification": "El texto señala explícitamente que las presiones socioeconómicas pueden reducir el tiempo de contacto educativo en el hogar."
+    },
+    {
+        "id": "SFE-global-78",
+        "num": 78,
+        "question": "Un centro educativo establece canales digitales complejos sin formación previa para los padres y redacta comunicados con tecnicismos pedagógicos que muchas familias no comprenden. ¿Qué tipo de barrera a la participación familiar predomina en este caso?",
+        "options": {
+            "A": "Barrera informativa",
+            "B": "Barrera de bondad de ajuste",
+            "C": "Barrera de socialización terciaria",
+            "D": "Barrera de estilo parental negligente"
+        },
+        "correct": "A",
+        "justification": "Dentro de las tres barreras a la participación (informativas, organizativas y culturales), la falta de claridad comunicativa y el uso de canales o lenguajes poco accesibles constituyen barreras informativas."
+    },
+    {
+        "id": "SFE-global-79",
+        "num": 79,
+        "question": "¿Cuál de las siguientes actuaciones docentes favorece mejor la 'bondad de ajuste' entre el alumnado y su entorno educativo?",
+        "options": {
+            "A": "Adaptar las estrategias pedagógicas y de tutoría para lograr un encaje adecuado entre las características personales del estudiante y los contextos familiar y escolar",
+            "B": "Exigir que todos los estudiantes respondan de manera idéntica ante un único método de enseñanza sin considerar su contexto familiar",
+            "C": "Limitar la comunicación con las familias únicamente a notificaciones escritas cuando exista suspenso generalizado",
+            "D": "Separar al alumnado según su estructura familiar para homogeneizar las expectativas del aula"
+        },
+        "correct": "A",
+        "justification": "La bondad de ajuste se produce cuando las variables personales del alumnado encajan adecuadamente con las características de sus entornos ambiental, familiar y escolar."
+    },
+    {
+        "id": "SFE-global-80",
+        "num": 80,
+        "question": "En el marco de la relación familia-escuela, ¿qué función cumple específicamente la 'escuela de familias' según Fresnillo Poza et al. (2000)?",
+        "options": {
+            "A": "Es un recurso grupal orientado a la formación, el apoyo y la prevención",
+            "B": "Es un órgano sancionador encargado de evaluar la idoneidad parental de cada hogar",
+            "C": "Es una entrevista individual obligatoria para comunicar las calificaciones trimestrales",
+            "D": "Es una plataforma digital destinada exclusivamente al intercambio de tareas escolares"
+        },
+        "correct": "A",
+        "justification": "Fresnillo Poza et al. (2000) definen la escuela de familias como un recurso grupal destinado a la formación, el apoyo y la prevención para mejorar las competencias educativas familiares."
+    },
+    {
+        "id": "SFE-global-81",
+        "num": 81,
+        "question": "En el modelo TPACK de Mishra y Koehler, ¿qué representa la intersección TCK (Technological Content Knowledge)?",
+        "options": {
+            "A": "El conocimiento de cómo las tecnologías transforman y permiten representar los contenidos de una disciplina",
+            "B": "El dominio técnico del funcionamiento del hardware y software sin relación con ninguna materia",
+            "C": "La capacidad de organizar dinámicas grupales en el aula sin emplear dispositivos digitales",
+            "D": "El conocimiento de los criterios de evaluación establecidos en la normativa curricular"
+        },
+        "correct": "A",
+        "justification": "En el modelo TPACK, TCK (conocimiento tecnológico del contenido) alude a comprender cómo la tecnología y los contenidos disciplinares se influyen mutuamente y cómo representar la materia con herramientas digitales."
+    },
+    {
+        "id": "SFE-global-82",
+        "num": 82,
+        "question": "¿Qué representa el componente TPK (Technological Pedagogical Knowledge) dentro del modelo TPACK?",
+        "options": {
+            "A": "El conocimiento de cómo cambian la enseñanza y el aprendizaje al utilizar determinadas herramientas tecnológicas",
+            "B": "El dominio exclusivo de los contenidos científicos de una especialidad docente",
+            "C": "La habilidad para reparar averías técnicas en los equipos informáticos del centro",
+            "D": "La capacidad de enseñar una materia sin ningún tipo de mediación tecnológica"
+        },
+        "correct": "A",
+        "justification": "TPK (conocimiento tecnológico pedagógico) consiste en saber cómo diversas tecnologías pueden usarse en la enseñanza y cómo su uso transforma las estrategias pedagógicas y el aprendizaje."
+    },
+    {
+        "id": "SFE-global-83",
+        "num": 83,
+        "question": "Un docente domina los contenidos de Biología (CK), conoce estrategias de aprendizaje cooperativo (PK) y sabe manejar simuladores virtuales (TK), pero al integrarlos en un aula real no tiene en cuenta la conectividad ni el nivel previo del grupo. ¿Qué elemento fundamental del modelo TPACK está omitiendo?",
+        "options": {
+            "A": "El contexto educativo que rodea y condiciona la integración TPACK",
+            "B": "La dimensión axiológica de Área y Pessoa",
+            "C": "La función manifiesta de Merton",
+            "D": "El estilo parental democrático"
+        },
+        "correct": "A",
+        "justification": "El modelo TPACK subraya que la integración de tecnología, pedagogía y contenido ocurre siempre dentro de un contexto específico que condiciona qué combinación resulta adecuada."
+    },
+    {
+        "id": "SFE-global-84",
+        "num": 84,
+        "question": "En las cinco dimensiones de la alfabetización digital de Área y Pessoa (2012), ¿qué evalúa la 'dimensión axiológica'?",
+        "options": {
+            "A": "Los valores éticos, democráticos y el uso responsable y crítico de la tecnología",
+            "B": "El dominio técnico y mecánico de programas, aplicaciones y dispositivos",
+            "C": "La capacidad de expresar sentimientos y gestionar emociones en entornos virtuales",
+            "D": "La habilidad para buscar, seleccionar y analizar información en bases de datos"
+        },
+        "correct": "A",
+        "justification": "Dentro del modelo de Área y Pessoa (2012), la dimensión axiológica se refiere a los valores éticos y democráticos, así como al uso cívico, responsable y crítico de las tecnologías."
+    },
+    {
+        "id": "SFE-global-85",
+        "num": 85,
+        "question": "Dentro del mismo modelo de Área y Pessoa (2012), ¿a qué hace referencia la 'dimensión emocional'?",
+        "options": {
+            "A": "Al conjunto de afectos, sentimientos y regulación emocional activados en la interacción con entornos digitales",
+            "B": "Al conocimiento de las normas de propiedad intelectual y licencias de uso",
+            "C": "A la destreza instrumental para configurar redes inalámbricas y sistemas operativos",
+            "D": "A la capacidad técnica para producir archivos audiovisuales en alta definición"
+        },
+        "correct": "A",
+        "justification": "La dimensión emocional propuesta por Área y Pessoa (2012) aborda los afectos, sentimientos y control de emociones impulsivas que intervienen en las experiencias e interacciones digitales."
+    },
+    {
+        "id": "SFE-global-86",
+        "num": 86,
+        "question": "¿Cuál es la pregunta clave que guía el enfoque TIC frente al enfoque TAC según Lozano (2011)?",
+        "options": {
+            "A": "En TIC se pregunta «¿Qué herramienta usamos?» y en TAC «¿Qué y cómo aprenderemos mejor con ella?»",
+            "B": "En TIC se pregunta «¿Cómo evaluamos competencias?» y en TAC «¿Cuántos ordenadores tiene el aula?»",
+            "C": "En TIC se pregunta «¿Qué valores éticos transmite la red?» y en TAC «¿Qué sistema operativo instalamos?»",
+            "D": "En TIC se pregunta «¿Cómo dialogan las familias?» y en TAC «¿Cómo se transmite el currículo oculto?»"
+        },
+        "correct": "A",
+        "justification": "El material sintetiza el tránsito de TIC a TAC mediante el cambio de pregunta: del instrumental «¿Qué herramienta usamos?» (TIC) al pedagógico «¿Qué y cómo aprenderemos mejor con ella?» (TAC)."
+    },
+    {
+        "id": "SFE-global-87",
+        "num": 87,
+        "question": "¿Qué critica o matiza el material respecto al concepto de 'nativos digitales' popularizado por Prensky?",
+        "options": {
+            "A": "Que haber nacido rodeado de pantallas no garantiza automáticamente competencia digital crítica, cognitiva ni educativa",
+            "B": "Que los jóvenes nacidos en la era digital carecen por completo de habilidades instrumentales básicas",
+            "C": "Que el profesorado no debe intervenir en la alfabetización digital para no frenar la intuición del alumnado",
+            "D": "Que la brecha digital ha desaparecido totalmente en todos los estratos socioeconómicos"
+        },
+        "correct": "A",
+        "justification": "El temario advierte frente al mito del nativo digital que la familiaridad instrumental con dispositivos no equivale a poseer competencia digital crítica, informacional o de aprendizaje."
+    },
+    {
+        "id": "SFE-global-88",
+        "num": 88,
+        "question": "Un docente utiliza la plataforma virtual del centro únicamente para colgar archivos PDF y dar avisos unidireccionales sin permitir respuestas ni debate. Según Mario Kaplún (1998), ¿qué está realizando?",
+        "options": {
+            "A": "Comunicar (transmitir), pero no comunicarse (dialogar y compartir)",
+            "B": "Comunicarse de forma plenamente bidireccional y participativa",
+            "C": "Aplicar la dimensión axiológica de la competencia digital",
+            "D": "Desarrollar el componente TPK del modelo TPACK"
+        },
+        "correct": "A",
+        "justification": "Kaplún (1998) diferencia entre comunicar (mera transmisión unidireccional de información) y comunicarse (proceso dialógico y compartido)."
+    },
+    {
+        "id": "SFE-global-89",
+        "num": 89,
+        "question": "¿Qué diferencia el 'ciberacoso' de otros riesgos digitales como el acceso a contenidos inadecuados según Ortega-Barón y cols. (2016)?",
+        "options": {
+            "A": "El ciberacoso consiste específicamente en el hostigamiento entre iguales mediante medios electrónicos",
+            "B": "El ciberacoso ocurre únicamente cuando un adulto desconocido suplanta la identidad de un docente",
+            "C": "El ciberacoso se produce exclusivamente dentro del horario lectivo y en equipos del centro",
+            "D": "El ciberacoso se refiere únicamente a la adicción fisiológica a los videojuegos en línea"
+        },
+        "correct": "A",
+        "justification": "Ortega-Barón y cols. (2016) definen el ciberacoso de forma precisa como el hostigamiento entre iguales realizado a través de medios electrónicos."
+    },
+    {
+        "id": "SFE-global-90",
+        "num": 90,
+        "question": "En el ámbito de la ciudadanía digital (Ribble, Bailey y Ross), ¿qué aspecto se enfatiza para una integración saludable de las tecnologías en la escuela?",
+        "options": {
+            "A": "El uso ético, seguro, responsable y cívico de la tecnología junto con la alfabetización crítica",
+            "B": "La prohibición absoluta de cualquier recurso digital en las etapas de educación obligatoria",
+            "C": "La delegación exclusiva de la seguridad digital en los filtros técnicos de las empresas proveedoras",
+            "D": "La sustitución de la convivencia presencial por interacciones exclusivamente virtuales"
+        },
+        "correct": "A",
+        "justification": "La ciudadanía digital abordada en el material promueve normas de conducta apropiadas, responsables, seguras y éticas en el uso de la tecnología."
+    },
+    {
+        "id": "SFE-global-91",
+        "num": 91,
+        "question": "Según el estudio sobre competencia social, ¿por qué se afirma que las habilidades sociales son 'situacionales y culturales'?",
+        "options": {
+            "A": "Porque son conductas específicas aprendidas cuya adecuación depende del contexto concreto y de las normas culturales",
+            "B": "Porque se heredan genéticamente y varían únicamente según el nivel socioeconómico del país",
+            "C": "Porque solo pueden manifestarse en situaciones de conflicto grave dentro del aula",
+            "D": "Porque son rasgos fijos de personalidad que no cambian ante distintos interlocutores"
+        },
+        "correct": "A",
+        "justification": "El material define las habilidades sociales como conductas específicas, aprendidas y ajustadas a la situación y al contexto cultural en que se producen."
+    },
+    {
+        "id": "SFE-global-92",
+        "num": 92,
+        "question": "Un docente novato observa cómo un compañero veterano gestiona con calma y empatía una queja familiar y posteriormente incorpora esa forma de actuar en sus propias tutorías. ¿Qué vía de aprendizaje de las habilidades sociales ha operado?",
+        "options": {
+            "A": "Aprendizaje por observación (modelado)",
+            "B": "Aprendizaje por instrucción verbal escrita",
+            "C": "Aprendizaje por aserción negativa",
+            "D": "Aprendizaje por extinción operante"
+        },
+        "correct": "A",
+        "justification": "Entre las cuatro vías de aprendizaje de las habilidades sociales (experiencia directa, observación, instrucción verbal y retroalimentación interpersonal), aprender viendo modelos de conducta corresponde a la observación."
+    },
+    {
+        "id": "SFE-global-93",
+        "num": 93,
+        "question": "¿En qué se diferencia el estilo de relación 'pasivo' del estilo 'agresivo' según Caballo (1993)?",
+        "options": {
+            "A": "El pasivo inhibe sus propios derechos y opiniones para evitar conflictos, mientras el agresivo impone los suyos vulnerando los derechos ajenos",
+            "B": "El pasivo defiende sus derechos respetando al otro, mientras el agresivo busca acuerdos colaborativos mediante el diálogo",
+            "C": "El pasivo utiliza la interrogación negativa, mientras el agresivo emplea exclusivamente el parafraseo",
+            "D": "El pasivo aparece únicamente en el alumnado y el agresivo únicamente en las familias"
+        },
+        "correct": "A",
+        "justification": "Caballo (1993) distingue tres estilos: el pasivo (no defiende sus derechos ni expresa sus necesidades), el agresivo (impone su postura vulnerando los derechos del otro) y el asertivo (defiende lo propio respetando al otro)."
+    },
+    {
+        "id": "SFE-global-94",
+        "num": 94,
+        "question": "Durante una reunión tensa, un familiar insiste en exigir que se cambie una nota sin aportar argumentos, y el profesor mantiene con serenidad y respeto su postura: «Entiendo su preocupación, pero la calificación responde a los criterios publicados y no puedo modificarla». ¿Qué técnica asertiva emplea el docente?",
+        "options": {
+            "A": "Disco rayado",
+            "B": "Interrogación negativa",
+            "C": "Aserción negativa",
+            "D": "Inversión de roles"
+        },
+        "correct": "A",
+        "justification": "La técnica del disco rayado consiste en repetir de manera tranquila, firme y respetuosa el propio punto de vista o negativa sin dejarse desviar por provocaciones ni entrar en discusiones estériles."
+    },
+    {
+        "id": "SFE-global-95",
+        "num": 95,
+        "question": "¿Cuál es la finalidad principal de la técnica asertiva del 'banco de niebla'?",
+        "options": {
+            "A": "Reconocer la parte de verdad o posibilidad en lo que dice el interlocutor sin ceder en el propio criterio ni entrar en confrontación directa",
+            "B": "Solicitar al interlocutor que especifique todos los fallos cometidos para corregirlos de inmediato",
+            "C": "Rechazar tajantemente cualquier comentario crítico interrumpiendo la conversación",
+            "D": "Repetir literalmente las últimas palabras del interlocutor para ganar tiempo"
+        },
+        "correct": "A",
+        "justification": "El banco de niebla permite dar la razón en lo que pueda haber de cierto o posible en la crítica del otro (amortiguando la hostilidad), pero manteniendo la propia decisión o criterio."
+    },
+    {
+        "id": "SFE-global-96",
+        "num": 96,
+        "question": "En el ámbito de la escucha activa y reflexiva, ¿qué diferencia el 'reflejo de sentimientos' del 'parafraseo'?",
+        "options": {
+            "A": "El reflejo de sentimientos verbaliza la emoción percibida en el interlocutor, mientras el parafraseo reformula el contenido cognitivo de su mensaje",
+            "B": "El reflejo de sentimientos evalúa la veracidad de los hechos, mientras el parafraseo impone una solución normativa",
+            "C": "El reflejo de sentimientos se usa solo en escritos oficiales, mientras el parafraseo se emplea únicamente en llamadas telefónicas",
+            "D": "El reflejo de sentimientos interrumpe el discurso, mientras el parafraseo guarda silencio absoluto"
+        },
+        "correct": "A",
+        "justification": "Mientras el parafraseo reformula con propias palabras el contenido informativo del mensaje, el reflejo de sentimientos identifica y devuelve al interlocutor la emoción que está expresando."
+    },
+    {
+        "id": "SFE-global-97",
+        "num": 97,
+        "question": "¿Qué significa la 'disposición fenomenológica' que Palomero-Fernández (2009) recomienda cultivar en el profesorado?",
+        "options": {
+            "A": "La capacidad de percibir y tomar conciencia de los propios pensamientos, emociones y conductas en la relación educativa",
+            "B": "El dominio exclusivo de las teorías filosóficas europeas del siglo XX",
+            "C": "La tendencia a delegar en el departamento de orientación cualquier conflicto emocional del aula",
+            "D": "La aplicación mecánica de protocolos disciplinarios sin atender a la subjetividad del alumnado"
+        },
+        "correct": "A",
+        "justification": "El material define la disposición fenomenológica de Palomero-Fernández (2009) como la capacidad docente de percibir los propios pensamientos, emociones y conductas."
+    },
+    {
+        "id": "SFE-global-98",
+        "num": 98,
+        "question": "Según Díaz Fouz (2014), ¿con qué dos aspectos clave se vincula un autoconcepto positivo del profesorado?",
+        "options": {
+            "A": "Con su propia eficacia profesional y con el desarrollo y rendimiento del alumnado",
+            "B": "Con la reducción de la jornada lectiva y el aumento de la ratio en el aula",
+            "C": "Con la sustitución de la tutoría individual y la eliminación de las reuniones con familias",
+            "D": "Con la aplicación de estilos autoritarios y el control externo de las emociones"
+        },
+        "correct": "A",
+        "justification": "Díaz Fouz (2014) vincula el autoconcepto positivo del docente con su eficacia profesional y con el desarrollo y rendimiento del alumnado, actuando además como modelo socioemocional."
+    },
+    {
+        "id": "SFE-global-99",
+        "num": 99,
+        "question": "En el diseño de un 'plan de acción' para mejorar las habilidades socioeducativas (objetivo, medios, motivación, temporalización y seguimiento), ¿qué función cumple la fase de 'seguimiento'?",
+        "options": {
+            "A": "Revisar periódicamente los avances, detectar dificultades y ajustar las estrategias previstas para consolidar el cambio",
+            "B": "Establecer por primera vez las metas generales sin realizar ninguna comprobación posterior",
+            "C": "Enumerar los recursos materiales necesarios antes de iniciar la intervención",
+            "D": "Sancionar el incumplimiento de los plazos establecidos en la temporalización"
+        },
+        "correct": "A",
+        "justification": "El seguimiento dentro del plan de acción permite comprobar el grado de cumplimiento de los objetivos a lo largo del tiempo y reajustar los medios o acciones cuando sea necesario."
+    },
+    {
+        "id": "SFE-global-100",
+        "num": 100,
+        "question": "De acuerdo con el artículo 100 de la Ley Orgánica 2/2006 (LOE) citado en la ampliación normativa sobre formación docente, ¿qué exige la formación inicial del profesorado?",
+        "options": {
+            "A": "Capacitación para afrontar los retos del sistema y adaptarse a nuevas necesidades formativas, junto con la titulación y la formación pedagógica y didáctica correspondientes",
+            "B": "Exclusivamente la posesión de un título de grado universitario sin necesidad de formación pedagógica ni didáctica",
+            "C": "Únicamente experiencia laboral previa en el sector empresarial relacionada con la especialidad",
+            "D": "La superación de pruebas de competencia digital avanzada sin requisitos de titulación académica"
+        },
+        "correct": "A",
+        "justification": "La ampliación sobre el art. 100 de la LO 2/2006 indica que la formación inicial exige capacitación para afrontar los retos del sistema y adaptarse a nuevas necesidades formativas, junto con la titulación y la formación pedagógica y didáctica correspondientes."
+    }
+]

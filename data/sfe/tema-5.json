@@ -1,0 +1,262 @@
+[
+    {
+        "id": "SFE-T5-01",
+        "num": 1,
+        "question": "¿Cómo se define el concepto de «bondad de ajuste» formulado por Thomas y Chess (1977) en relación con el desarrollo del alumnado?",
+        "options": {
+            "A": "Como la capacidad del centro educativo para compensar las carencias del entorno familiar mediante refuerzo curricular.",
+            "B": "Como la adecuación entre las características personales del estudiante y las demandas de su entorno, lo que favorece un desarrollo óptimo.",
+            "C": "Como la duplicación de funciones educativas entre la familia y la escuela para asegurar la coherencia normativa.",
+            "D": "Como la estabilidad permanente del capital económico, social y cultural de la familia a lo largo de la escolarización."
+        },
+        "correct": "B",
+        "justification": "La bondad de ajuste, planteada por Thomas y Chess (1977), se define como la adecuación entre las características personales (variables organísmicas) y las demandas del entorno (variables ambientales), favoreciendo un desarrollo óptimo."
+    },
+    {
+        "id": "SFE-T5-02",
+        "num": 2,
+        "question": "¿Qué autores sostienen que el ajuste social del niño o adolescente resulta de la interacción entre variables organísmicas o personales y variables ambientales?",
+        "options": {
+            "A": "Marchesi y Martín (2014)",
+            "B": "Buss y Plomin (1984) y Bronfenbrenner y Morris (1998)",
+            "C": "López-Larrosa (2003) y Jurado (2009)",
+            "D": "Kuppens y Ceulemans (2019)"
+        },
+        "correct": "B",
+        "justification": "El material atribuye a distintos modelos del desarrollo, concretamente a Buss y Plomin (1984) y Bronfenbrenner y Morris (1998), la idea de que el ajuste social surge de la interacción entre variables organísmicas o personales y variables ambientales."
+    },
+    {
+        "id": "SFE-T5-03",
+        "num": 3,
+        "question": "En el estudio del entorno familiar y su impacto en el aprendizaje, ¿qué distinción establecen Marchesi y Martín (2014)?",
+        "options": {
+            "A": "Entre el contexto social y cultural, de influencia amplia y general, y el entorno familiar próximo, que afecta directamente a cada hijo-alumno.",
+            "B": "Entre las variables organísmicas estables del estudiante y las estrategias metodológicas aplicadas en el aula.",
+            "C": "Entre la participación formal en el Consejo Escolar y la asistencia informal a las tutorías individuales.",
+            "D": "Entre las barreras organizativas del centro educativo y las barreras informativas de las familias."
+        },
+        "correct": "A",
+        "justification": "Marchesi y Martín (2014) distinguen entre el contexto social y cultural, cuya influencia sobre familias, centros y estudiantes es amplia y general, y el entorno familiar próximo, que incide directamente sobre cada hijo-alumno y su aprendizaje."
+    },
+    {
+        "id": "SFE-T5-04",
+        "num": 4,
+        "question": "Según el planteamiento sobre el capital económico, social y cultural de las familias recogido en el material, ¿qué diferencia a sus dimensiones?",
+        "options": {
+            "A": "El capital económico determina exclusivamente el rendimiento escolar, mientras que las prácticas educativas carecen de efecto medible.",
+            "B": "Algunas dimensiones son relativamente estables a corto plazo (como ingresos o estudios), mientras que ciertas prácticas familiares sí pueden orientarse para mejorar el aprendizaje.",
+            "C": "Todas las dimensiones del capital familiar cambian de forma inmediata cuando el centro ofrece información práctica a los progenitores.",
+            "D": "Las prácticas familiares cotidianas son inmodificables, por lo que la intervención tutorial debe centrarse únicamente en los recursos materiales."
+        },
+        "correct": "B",
+        "justification": "El material explica que dentro del capital económico, social y cultural existen dimensiones relativamente estables que no cambian de inmediato (ingresos, estatus social, nivel de estudios), junto a prácticas familiares que sí pueden orientarse para mejorar su efecto en el aprendizaje."
+    },
+    {
+        "id": "SFE-T5-05",
+        "num": 5,
+        "question": "¿Cuál de las siguientes opciones recoge correctamente las «seis claves del efecto de la familia en el aprendizaje» propuestas por Marchesi y Martín (2014)?",
+        "options": {
+            "A": "Habitualidad, acogida, objetivos comunes, soluciones consensuadas, seguimiento y evaluación.",
+            "B": "Comunicación, seguimiento de las tareas, expectativas académicas elevadas, provisión de recursos, actividades extracurriculares enriquecedoras y control del tiempo.",
+            "C": "Información, normas, delegación, tiempo, tradición participativa y flexibilidad de horarios.",
+            "D": "Capacidad intelectual, desarrollo evolutivo, motivación intrínseca, calidad de la enseñanza, tiempo de aprendizaje y clima de aula."
+        },
+        "correct": "B",
+        "justification": "Las seis claves de Marchesi y Martín (2014) sobre el efecto familiar en el aprendizaje son: comunicación, seguimiento de las tareas, expectativas académicas elevadas, provisión de recursos, actividades extracurriculares enriquecedoras y control del tiempo y las actividades."
+    },
+    {
+        "id": "SFE-T5-06",
+        "num": 6,
+        "question": "Una madre revisa cada tarde cuánto tiempo dedica su hijo de 1.º de ESO a los deberes y cuánto al uso de pantallas, buscando un reparto equilibrado de su jornada. ¿Qué clave del impacto familiar en el aprendizaje está aplicando principalmente?",
+        "options": {
+            "A": "Provisión de recursos materiales",
+            "B": "Expectativas académicas elevadas",
+            "C": "Control del tiempo y las actividades",
+            "D": "Actividades extracurriculares enriquecedoras"
+        },
+        "correct": "C",
+        "justification": "La clave «control del tiempo y las actividades» consiste precisamente en supervisar de forma equilibrada cómo distribuye el hijo su tiempo y qué actividades realiza."
+    },
+    {
+        "id": "SFE-T5-07",
+        "num": 7,
+        "question": "En el esquema de factores que influyen en el aprendizaje escolar de Musitu (2012), ¿qué elementos se agrupan dentro del bloque «Proceso de enseñanza»?",
+        "options": {
+            "A": "Capacidad, desarrollo y motivación",
+            "B": "Familia, aula, amistades y medios de comunicación",
+            "C": "Calidad de la enseñanza y tiempo de aprendizaje",
+            "D": "Comunicación, seguimiento de tareas y provisión de recursos"
+        },
+        "correct": "C",
+        "justification": "En el esquema de Musitu (2012), los factores del aprendizaje se dividen en Persona (capacidad, desarrollo, motivación), Proceso de enseñanza (calidad de la enseñanza y tiempo de aprendizaje) y Entorno (familia, aula, amistades y medios de comunicación)."
+    },
+    {
+        "id": "SFE-T5-08",
+        "num": 8,
+        "question": "¿Qué papel ocupa la implicación familiar dentro de los factores que promueven el aprendizaje escolar según Musitu (2012)?",
+        "options": {
+            "A": "Es el único factor determinante del éxito académico en la educación secundaria.",
+            "B": "Se encuentra entre los nueve factores más efectivos para promover el aprendizaje escolar.",
+            "C": "Actúa de forma independiente sin interacción con el aula ni con las amistades.",
+            "D": "Garantiza automáticamente la ausencia de conductas de riesgo en la adolescencia."
+        },
+        "correct": "B",
+        "justification": "El material señala explícitamente que la implicación familiar se encuentra entre los nueve factores más efectivos para promover el aprendizaje escolar (Musitu, 2012), actuando junto a otros factores personales, escolares y del entorno."
+    },
+    {
+        "id": "SFE-T5-09",
+        "num": 9,
+        "question": "¿Por qué sostiene el material que la relación entre familia y escuela debe regirse por el principio de «complementariedad»?",
+        "options": {
+            "A": "Porque ambas instituciones tienen funciones educativas diferentes que deben sumarse y no duplicarse como copias una de otra.",
+            "B": "Porque la escuela debe asumir la crianza afectiva primaria mientras la familia se encarga del currículo académico.",
+            "C": "Porque la duplicación exacta de tareas escolares en el hogar elimina las diferencias socioeconómicas de partida.",
+            "D": "Porque las familias carecen de capacidad pedagógica para influir en las dimensiones cognitiva y social del alumnado."
+        },
+        "correct": "A",
+        "justification": "La familia y la escuela desempeñan funciones educativas distintas que deben complementarse en lugar de convertirse en copias una de otra, potenciando conjuntamente las dimensiones física, cognitiva, social y afectiva del alumnado."
+    },
+    {
+        "id": "SFE-T5-10",
+        "num": 10,
+        "question": "Según el material, ¿a quién corresponde la iniciativa de proponer estrategias concretas que faciliten la colaboración entre familia y centro educativo?",
+        "options": {
+            "A": "Exclusivamente a las asociaciones de madres y padres (AMPA) del centro.",
+            "B": "Al profesorado, que necesita contar con los progenitores para desarrollar eficazmente su labor.",
+            "C": "Únicamente a la administración educativa mediante decretos de participación obligatoria.",
+            "D": "Al alumnado, que actúa como mediador principal entre las normas del aula y el hogar."
+        },
+        "correct": "B",
+        "justification": "El material atribuye explícitamente al profesorado la iniciativa de proponer estrategias concretas que faciliten la colaboración con las familias, dado que necesita contar con ellas para desarrollar eficazmente su labor."
+    },
+    {
+        "id": "SFE-T5-11",
+        "num": 11,
+        "question": "¿Cuál de las siguientes afirmaciones refleja con mayor precisión la relación entre colaboración familia-escuela y resultados del alumnado según el texto?",
+        "options": {
+            "A": "La participación familiar garantiza automáticamente un rendimiento excelente y la desaparición del absentismo.",
+            "B": "La colaboración se asocia favorablemente con mejor rendimiento, ajuste psicosocial y menor implicación en conductas de riesgo, aunque no es una garantía automática.",
+            "C": "La colaboración familia-escuela mejora el clima del profesorado, pero no guarda relación con las conductas de riesgo del alumnado.",
+            "D": "El impacto positivo de la participación familiar se limita exclusivamente al rendimiento académico en etapas de educación primaria."
+        },
+        "correct": "B",
+        "justification": "La participación y colaboración familia-escuela se asocian con mejor rendimiento, mayor bienestar y ajuste psicosocial y menor implicación en conductas de riesgo (alcohol, actos violentos, absentismo), precisándose que se trata de una asociación favorable y no de una garantía automática."
+    },
+    {
+        "id": "SFE-T5-12",
+        "num": 12,
+        "question": "En el esquema de las dos direcciones de la colaboración de Musitu (2012), ¿qué pregunta central define la dirección «Escuela → familia»?",
+        "options": {
+            "A": "¿Cómo puede el centro implicar a madres y padres en el currículo escolar y en qué medida necesita su participación?",
+            "B": "¿Cómo puede el profesorado reforzar el aprendizaje incorporando el currículo y las experiencias del hogar a los procesos educativos?",
+            "C": "¿Cómo pueden las asociaciones de familias evaluar la programación general anual del centro educativo?",
+            "D": "¿Cómo pueden los tutores traducir las abreviaturas de los boletines trimestrales para evitar el abandono escolar?"
+        },
+        "correct": "B",
+        "justification": "En el esquema de Musitu (2012), la dirección «Escuela → familia» responde a cómo puede el profesorado reforzar el aprendizaje incorporando el currículo y las experiencias del hogar a los procesos educativos, mientras que «Familia → escuela» aborda cómo implicar a los progenitores en el currículo escolar."
+    },
+    {
+        "id": "SFE-T5-13",
+        "num": 13,
+        "question": "¿Qué conjunto de barreras dificulta la participación de las familias en los centros escolares según Jurado (2009)?",
+        "options": {
+            "A": "Temperamento, motivación, nivel intelectual y habilidades sociales.",
+            "B": "Información, normas, delegación, tiempo, tradición participativa y horarios.",
+            "C": "Ingresos económicos, estatus profesional, vivienda y redes vecinales.",
+            "D": "Comunicación, seguimiento, expectativas, recursos y control del tiempo."
+        },
+        "correct": "B",
+        "justification": "El material recoge la clasificación de Jurado (2009), que identifica como barreras de participación la información, las normas, la delegación, el tiempo, la tradición participativa y los horarios."
+    },
+    {
+        "id": "SFE-T5-14",
+        "num": 14,
+        "question": "¿Cómo debe interpretarse la observación del estudio de Martín (2006) citada en el material sobre la menor presencia de padres que de madres en el centro educativo?",
+        "options": {
+            "A": "Como una ley sociológica invariable que impide diseñar horarios de tutoría dirigidos a los padres.",
+            "B": "Como una observación contextualizada de aquella investigación concreta, y no como un dato actual generalizable.",
+            "C": "Como una prueba de que las madres presentan mejores competencias comunicativas en la entrevista tutorial.",
+            "D": "Como una barrera normativa establecida por los reglamentos de régimen interior de los institutos."
+        },
+        "correct": "B",
+        "justification": "El material advierte expresamente que la observación de Martín (2006) sobre la menor presencia de padres que de madres en el centro debe leerse como un hallazgo de aquella investigación y no como un dato actual generalizable."
+    },
+    {
+        "id": "SFE-T5-15",
+        "num": 15,
+        "question": "En la actividad de reflexión sobre «el alumno invisible» (el caso de Pablo, de 12 años, con descenso de notas y escaso contacto familiar), ¿qué principio de actuación educativa se plantea?",
+        "options": {
+            "A": "Esperar a que la familia solicite formalmente una entrevista antes de activar cualquier medida de apoyo en el aula.",
+            "B": "Detectar y atender las necesidades del alumno desde las posibilidades y recursos realistas de la escuela, sin culpabilizar al estudiante ni a su familia.",
+            "C": "Aplicar medidas disciplinarias inmediatas para forzar la comparecencia de los progenitores en el departamento de orientación.",
+            "D": "Centrar la intervención exclusivamente en exigir soluciones al propio alumno desde la primera tutoría."
+        },
+        "correct": "B",
+        "justification": "La dinámica del «alumno invisible» propone escuchar primero las emociones y necesidades del estudiante y responder desde la escuela con posibilidades, límites y recursos realistas, atendiendo sus necesidades aunque la familia no pueda o no sepa implicarse y sin culpabilizar a ninguna de las partes."
+    },
+    {
+        "id": "SFE-T5-16",
+        "num": 16,
+        "question": "Según López-Larrosa (2003), ¿cuáles son los cinco pasos que estructuran una entrevista eficaz entre tutor y familia?",
+        "options": {
+            "A": "Convocatoria formal, diagnóstico unilateral, prescripción de tareas, sanción y cierre.",
+            "B": "Habitualidad, acogida, objetivos comunes, soluciones consensuadas y seguimiento.",
+            "C": "Recepción normativa, exposición de calificaciones, derivación externa, firma de compromisos y evaluación.",
+            "D": "Presentación del currículo, revisión del capital cultural, asignación de recursos, control del tiempo y balance."
+        },
+        "correct": "B",
+        "justification": "López-Larrosa (2003) estructura la entrevista tutor-familia en cinco pasos: habitualidad, acogida, objetivos comunes, soluciones consensuadas y seguimiento."
+    },
+    {
+        "id": "SFE-T5-17",
+        "num": 17,
+        "question": "Un tutor de Educación Secundaria prepara una reunión con una familia recién llegada al sistema educativo español, traduce las siglas de los informes de evaluación, les facilita un teléfono de contacto y destaca los avances del alumno en clase. ¿Con qué enfoque del tema se corresponden estas actuaciones?",
+        "options": {
+            "A": "Las buenas prácticas de comunicación con las familias propuestas por Musitu (2012).",
+            "B": "Las funciones exclusivas atribuidas al Consejo Escolar por el artículo 127 de la LOE.",
+            "C": "La evaluación de las variables organísmicas del alumnado según Buss y Plomin (1984).",
+            "D": "El modelo de pobreza de ajuste entre el temperamento infantil y las demandas del hogar."
+        },
+        "correct": "A",
+        "justification": "Enviar información práctica (horarios, teléfonos, explicación de abreviaturas), traducir la jerga escolar de reuniones e informes, atender a familias diversas y reconocer los aspectos positivos de los hijos forman parte de las buenas prácticas de comunicación de Musitu (2012)."
+    },
+    {
+        "id": "SFE-T5-18",
+        "num": 18,
+        "question": "De acuerdo con el texto consolidado de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE) recogido en la actualización normativa del material, ¿qué artículo establece entre las funciones del profesorado la tutoría, la orientación del aprendizaje y la información periódica a las familias?",
+        "options": {
+            "A": "El artículo 91",
+            "B": "El artículo 119",
+            "C": "El artículo 127",
+            "D": "El artículo 19"
+        },
+        "correct": "A",
+        "justification": "En el texto consolidado de la LOE citado en el material, el artículo 91 recoge entre las funciones del profesorado la tutoría y orientación del aprendizaje, así como la información periódica a las familias sobre el proceso de aprendizaje y la orientación para que cooperen en él."
+    },
+    {
+        "id": "SFE-T5-19",
+        "num": 19,
+        "question": "En relación con los órganos de participación de la comunidad educativa regulados en la LOE según el material, ¿qué función específica corresponde al artículo 127 frente al artículo 119?",
+        "options": {
+            "A": "El artículo 127 regula las funciones del Consejo Escolar en la aprobación y evaluación de proyectos, normas y programación general anual, mientras que el artículo 119 regula la participación mediante el Consejo Escolar y las asociaciones de madres y padres.",
+            "B": "El artículo 127 asigna la tutoría individual al profesorado especialista y el artículo 119 deroga los reglamentos de convivencia anteriores.",
+            "C": "El artículo 127 regula exclusivamente la constitución de las asociaciones de alumnado y el artículo 119 establece los horarios de atención tutorial.",
+            "D": "El artículo 127 define las competencias de la inspección educativa y el artículo 119 fija las pruebas de evaluación externa."
+        },
+        "correct": "A",
+        "justification": "Según la precisión normativa del material, el artículo 119 de la LOE regula la participación de la comunidad educativa mediante el Consejo Escolar y las asociaciones de madres y padres, mientras que el artículo 127 atribuye al Consejo Escolar funciones de aprobación y evaluación de proyectos, normas y programación general anual."
+    },
+    {
+        "id": "SFE-T5-20",
+        "num": 20,
+        "question": "¿Qué precisión normativa recoge el material respecto a la vigencia de la LOMCE (Ley Orgánica 8/2013)?",
+        "options": {
+            "A": "Continúa vigente en todo lo relativo a la organización de las tutorías y las escuelas de familias.",
+            "B": "Fue derogada con efectos de 19 de enero de 2021 por la Ley Orgánica 3/2020 (LOMLOE).",
+            "C": "Sustituyó íntegramente a la Ley Orgánica 2/2006 (LOE) manteniendo su vigencia hasta 2024.",
+            "D": "Amplió el texto consolidado de la LOE incorporando las seis claves familiares de Marchesi y Martín."
+        },
+        "correct": "B",
+        "justification": "La actualización normativa del material precisa que la LOMCE (Ley Orgánica 8/2013) fue derogada con efectos de 19 de enero de 2021 por la Ley Orgánica 3/2020 (LOMLOE)."
+    }
+]
