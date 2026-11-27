@@ -101,6 +101,93 @@
   <script>
     const GITHUB_DATA_BASE_URL = "https://raw.githubusercontent.com/MarioNDev93/cuestionarios-master/main/data";
 
+    const SUBJECT_THEMES = {
+      SFE: {
+        headerGradient: "from-[#424fe7] to-indigo-700",
+        globalGradient: "from-indigo-700 to-[#424fe7]",
+        subtitleText: "text-indigo-100",
+        globalDescText: "text-indigo-100",
+        globalBtnText: "text-[#424fe7]",
+        infoBox: "bg-indigo-50/90 border-indigo-200/90",
+        infoIcon: "bg-[#424fe7] text-white",
+        eyebrowText: "text-[#424fe7]",
+        focusBorder: "focus:border-[#424fe7]",
+        actionBtn: "bg-[#424fe7] hover:bg-indigo-700"
+      },
+      PCE: {
+        headerGradient: "from-sky-600 to-blue-700",
+        globalGradient: "from-blue-700 to-sky-600",
+        subtitleText: "text-sky-100",
+        globalDescText: "text-sky-100",
+        globalBtnText: "text-blue-700",
+        infoBox: "bg-sky-50/90 border-sky-200/90",
+        infoIcon: "bg-sky-600 text-white",
+        eyebrowText: "text-sky-700",
+        focusBorder: "focus:border-sky-600",
+        actionBtn: "bg-sky-600 hover:bg-sky-700"
+      },
+      DIDACTICA: {
+        headerGradient: "from-teal-600 to-cyan-700",
+        globalGradient: "from-cyan-700 to-teal-600",
+        subtitleText: "text-teal-100",
+        globalDescText: "text-teal-100",
+        globalBtnText: "text-teal-700",
+        infoBox: "bg-teal-50/90 border-teal-200/90",
+        infoIcon: "bg-teal-600 text-white",
+        eyebrowText: "text-teal-700",
+        focusBorder: "focus:border-teal-600",
+        actionBtn: "bg-teal-600 hover:bg-teal-700"
+      },
+      BICE: {
+        headerGradient: "from-emerald-600 to-green-700",
+        globalGradient: "from-green-700 to-emerald-600",
+        subtitleText: "text-emerald-100",
+        globalDescText: "text-emerald-100",
+        globalBtnText: "text-emerald-700",
+        infoBox: "bg-emerald-50/90 border-emerald-200/90",
+        infoIcon: "bg-emerald-600 text-white",
+        eyebrowText: "text-emerald-700",
+        focusBorder: "focus:border-emerald-600",
+        actionBtn: "bg-emerald-600 hover:bg-emerald-700"
+      },
+      TICS: {
+        headerGradient: "from-cyan-600 to-indigo-600",
+        globalGradient: "from-indigo-600 to-cyan-600",
+        subtitleText: "text-cyan-100",
+        globalDescText: "text-cyan-100",
+        globalBtnText: "text-indigo-700",
+        infoBox: "bg-cyan-50/90 border-cyan-200/90",
+        infoIcon: "bg-cyan-600 text-white",
+        eyebrowText: "text-cyan-700",
+        focusBorder: "focus:border-cyan-600",
+        actionBtn: "bg-cyan-600 hover:bg-cyan-700"
+      },
+      ADA: {
+        headerGradient: "from-amber-600 to-orange-600",
+        globalGradient: "from-orange-600 to-amber-600",
+        subtitleText: "text-amber-100",
+        globalDescText: "text-amber-100",
+        globalBtnText: "text-orange-700",
+        infoBox: "bg-amber-50/90 border-amber-200/90",
+        infoIcon: "bg-amber-600 text-white",
+        eyebrowText: "text-amber-700",
+        focusBorder: "focus:border-amber-600",
+        actionBtn: "bg-amber-600 hover:bg-amber-700"
+      },
+      PROGRAMACION: {
+        headerGradient: "from-rose-600 to-purple-700",
+        globalGradient: "from-purple-700 to-rose-600",
+        subtitleText: "text-rose-100",
+        globalDescText: "text-rose-100",
+        globalBtnText: "text-purple-700",
+        infoBox: "bg-rose-50/90 border-rose-200/90",
+        infoIcon: "bg-rose-600 text-white",
+        eyebrowText: "text-rose-700",
+        focusBorder: "focus:border-rose-600",
+        actionBtn: "bg-rose-600 hover:bg-rose-700"
+      }
+    };
+
     const questionsCache = {};
     /**
      * BASE DE DATOS DE ASIGNATURAS, TEMAS Y PREGUNTAS
@@ -945,143 +1032,144 @@
      */
     function renderSubjectView() {
       const subject = SUBJECTS_DB[state.subjectId] || SUBJECTS_DB.SFE;
+      const palette = SUBJECT_THEMES[subject.id] || SUBJECT_THEMES.SFE;
       const themesCount = subject.themes.length;
       const globalQuestionsCount = subject.totalSubjectQuestions;
 
       const optionsHtml = subject.themes.map((theme) => {
         const selectedAttr = theme.id === state.selectedThemeId ? "selected" : "";
         return `
-          <option value="${escapeHTML(theme.id)}" ${selectedAttr}>
-            ${escapeHTML(theme.title)} (${theme.questions} preguntas)
-          </option>
-        `;
+      <option value="${escapeHTML(theme.id)}" ${selectedAttr}>
+        ${escapeHTML(theme.title)} (${theme.questions} preguntas)
+      </option>
+    `;
       }).join("");
 
       return `
-        ${renderTopNavbar()}
+    ${renderTopNavbar()}
 
-        <main class="flex-1 max-w-4xl w-full mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-8 animate-fade-in">
-          <!-- Breadcrumb / Botón para volver a Inicio -->
-          <div class="flex flex-wrap items-center justify-between gap-3">
-            <button
-              type="button"
-              onclick="goHome()"
-              class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white border border-slate-200 text-slate-700 hover:text-blue-600 hover:border-blue-300 text-sm font-semibold shadow-2xs transition cursor-pointer"
-            >
-              <span>← Volver a Inicio</span>
-            </button>
+    <main class="flex-1 max-w-4xl w-full mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-8 animate-fade-in">
+      <!-- Breadcrumb / Botón para volver a Inicio -->
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        <button
+          type="button"
+          onclick="goHome()"
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white border border-slate-200 text-slate-700 hover:text-blue-600 hover:border-blue-300 text-sm font-semibold shadow-2xs transition cursor-pointer"
+        >
+          <span>← Volver a Inicio</span>
+        </button>
 
-            <nav class="text-xs font-medium text-slate-500 flex items-center gap-2" aria-label="Ruta de navegación">
-              <button type="button" onclick="goHome()" class="hover:text-blue-600 cursor-pointer">Inicio</button>
-              <span>/</span>
-              <span class="font-bold text-slate-800">${escapeHTML(subject.code)}</span>
-            </nav>
+        <nav class="text-xs font-medium text-slate-500 flex items-center gap-2" aria-label="Ruta de navegación">
+          <button type="button" onclick="goHome()" class="hover:text-blue-600 cursor-pointer">Inicio</button>
+          <span>/</span>
+          <span class="font-bold text-slate-800">${escapeHTML(subject.code)}</span>
+        </nav>
+      </div>
+
+      <!-- Cabecera de la asignatura -->
+      <section class="bg-white rounded-3xl shadow-sm border border-slate-200/90 overflow-hidden">
+        <div class="bg-gradient-to-r ${palette.headerGradient} px-6 sm:px-10 py-8 sm:py-10 text-white">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/15 border border-white/20 text-xs font-semibold mb-3">
+            <span>Asignatura del Máster</span>
+            <span>•</span>
+            <span>${themesCount} temas disponibles</span>
+          </div>
+          <h1 class="text-3xl sm:text-5xl font-extrabold tracking-tight">
+            ${escapeHTML(subject.code)}
+          </h1>
+          <p class="mt-2 text-lg sm:text-2xl font-medium ${palette.subtitleText}">
+            ${escapeHTML(subject.name)}
+          </p>
+        </div>
+
+        <div class="p-6 sm:p-10 space-y-8">
+          <!-- Bloque informativo destacado con el texto exacto adaptado a cada asignatura -->
+          <div class="p-5 sm:p-6 rounded-2xl ${palette.infoBox} border flex items-start gap-4">
+            <div class="w-10 h-10 rounded-xl ${palette.infoIcon} flex items-center justify-center shrink-0 mt-0.5">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z" />
+              </svg>
+            </div>
+            <div>
+              <p class="text-base sm:text-lg font-semibold text-slate-900 leading-relaxed">
+                En la asignatura de ${escapeHTML(subject.code)} existen ${themesCount} temas. Puedes hacer cuestionarios por cada tema o un cuestionario global.
+              </p>
+              <p class="mt-1.5 text-sm text-slate-600">
+                ${escapeHTML(subject.description)}
+              </p>
+            </div>
           </div>
 
-          <!-- Cabecera de la asignatura -->
-          <section class="bg-white rounded-3xl shadow-sm border border-slate-200/90 overflow-hidden">
-            <div class="bg-gradient-to-r from-blue-600 to-indigo-600 px-6 sm:px-10 py-8 sm:py-10 text-white">
-              <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/15 border border-white/20 text-xs font-semibold mb-3">
-                <span>Asignatura del Máster</span>
-                <span>•</span>
-                <span>${themesCount} temas disponibles</span>
-              </div>
-              <h1 class="text-3xl sm:text-5xl font-extrabold tracking-tight">
-                ${escapeHTML(subject.code)}
-              </h1>
-              <p class="mt-2 text-lg sm:text-2xl font-medium text-blue-100">
-                ${escapeHTML(subject.name)}
-              </p>
-            </div>
-
-            <div class="p-6 sm:p-10 space-y-8">
-              <!-- Bloque informativo destacado con el texto exacto adaptado a cada asignatura -->
-              <div class="p-5 sm:p-6 rounded-2xl bg-blue-50/90 border border-blue-200/90 flex items-start gap-4">
-                <div class="w-10 h-10 rounded-xl bg-blue-600 text-white flex items-center justify-center shrink-0 mt-0.5">
-                  <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z" />
-                  </svg>
-                </div>
-                <div>
-                  <p class="text-base sm:text-lg font-semibold text-slate-900 leading-relaxed">
-                    En la asignatura de ${escapeHTML(subject.code)} existen ${themesCount} temas. Puedes hacer cuestionarios por cada tema o un cuestionario global.
-                  </p>
-                  <p class="mt-1.5 text-sm text-slate-600">
-                    ${escapeHTML(subject.description)}
-                  </p>
-                </div>
-              </div>
-
-              <!-- Tarjeta de selección por temas -->
-              <div class="p-6 sm:p-7 rounded-2xl bg-slate-50/80 border border-slate-200/90 space-y-4">
-                <div>
-                  <span class="text-xs font-bold uppercase tracking-wider text-indigo-600">
-                    Opción 1 · Práctica específica
-                  </span>
-                  <h2 class="mt-1 text-xl font-bold text-slate-900">
-                    Cuestionario por tema
-                  </h2>
-                  <p class="mt-1 text-sm text-slate-600">
-                    Selecciona uno de los ${themesCount} temas disponibles en el desplegable para iniciar su prueba de repaso.
-                  </p>
-                </div>
-
-                <div class="flex flex-col md:flex-row items-stretch md:items-center gap-3.5 pt-1">
-                  <div class="flex-1">
-                    <label for="theme-select" class="sr-only">Selecciona un tema de ${escapeHTML(subject.code)}</label>
-                    <select
-                      id="theme-select"
-                      onchange="handleThemeDropdownChange(this.value)"
-                      class="w-full px-4 py-3.5 rounded-xl bg-white border-2 border-slate-300 focus:border-blue-600 focus:outline-hidden text-sm sm:text-base font-medium text-slate-800 shadow-2xs transition cursor-pointer"
-                    >
-                      ${optionsHtml}
-                    </select>
-                  </div>
-
-                  <button
-                    type="button"
-                    onclick="openSelectedThemeQuiz()"
-                    class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-blue-600 hover:bg-blue-700 active:scale-[0.99] text-white font-bold text-sm sm:text-base shadow-sm transition shrink-0 cursor-pointer"
-                  >
-                    <span>Hacer este cuestionario</span>
-                    <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.4" viewBox="0 0 24 24">
-                      <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
-                    </svg>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </section>
-
-          <!-- Sección destacada separada abajo del todo: Cuestionario global -->
-          <section class="bg-gradient-to-br from-indigo-600 to-blue-700 rounded-3xl shadow-md p-6 sm:p-8 text-white flex flex-col md:flex-row md:items-center justify-between gap-6">
-            <div class="space-y-1.5 max-w-xl">
-              <span class="inline-flex items-center px-3 py-1 rounded-full bg-white/15 border border-white/20 text-xs font-bold uppercase tracking-wider">
-                Opción 2 · Repaso completo de ${escapeHTML(subject.code)}
+          <!-- Tarjeta de selección por temas -->
+          <div class="p-6 sm:p-7 rounded-2xl bg-slate-50/80 border border-slate-200/90 space-y-4">
+            <div>
+              <span class="text-xs font-bold uppercase tracking-wider ${palette.eyebrowText}">
+                Opción 1 · Práctica específica
               </span>
-              <h2 class="text-2xl font-extrabold">
-                Evaluación global de toda la asignatura
+              <h2 class="mt-1 text-xl font-bold text-slate-900">
+                Cuestionario por tema
               </h2>
-              <p class="text-sm sm:text-base text-indigo-100 leading-relaxed">
-                Pon a prueba tus conocimientos combinando preguntas de los ${themesCount} temas de ${escapeHTML(subject.name)} (${globalQuestionsCount} preguntas en total).
+              <p class="mt-1 text-sm text-slate-600">
+                Selecciona uno de los ${themesCount} temas disponibles en el desplegable para iniciar su prueba de repaso.
               </p>
             </div>
 
-            <button
-              type="button"
-              onclick="openGlobalQuiz()"
-              class="inline-flex items-center justify-center gap-2.5 px-7 py-4 rounded-2xl bg-white text-indigo-700 hover:bg-blue-50 active:scale-[0.99] font-extrabold text-sm sm:text-base shadow-md transition shrink-0 cursor-pointer"
-            >
-              <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
-              </svg>
-              <span>Cuestionario global</span>
-            </button>
-          </section>
-        </main>
+            <div class="flex flex-col md:flex-row items-stretch md:items-center gap-3.5 pt-1">
+              <div class="flex-1">
+                <label for="theme-select" class="sr-only">Selecciona un tema de ${escapeHTML(subject.code)}</label>
+                <select
+                  id="theme-select"
+                  onchange="handleThemeDropdownChange(this.value)"
+                  class="w-full px-4 py-3.5 rounded-xl bg-white border-2 border-slate-300 ${palette.focusBorder} focus:outline-hidden text-sm sm:text-base font-medium text-slate-800 shadow-2xs transition cursor-pointer"
+                >
+                  ${optionsHtml}
+                </select>
+              </div>
 
-        ${renderFooter()}
-      `;
+              <button
+                type="button"
+                onclick="openSelectedThemeQuiz()"
+                class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl ${palette.actionBtn} active:scale-[0.99] text-white font-bold text-sm sm:text-base shadow-sm transition shrink-0 cursor-pointer"
+              >
+                <span>Hacer este cuestionario</span>
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.4" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Sección destacada separada abajo del todo: Cuestionario global -->
+      <section class="bg-gradient-to-br ${palette.globalGradient} rounded-3xl shadow-md p-6 sm:p-8 text-white flex flex-col md:flex-row md:items-center justify-between gap-6">
+        <div class="space-y-1.5 max-w-xl">
+          <span class="inline-flex items-center px-3 py-1 rounded-full bg-white/15 border border-white/20 text-xs font-bold uppercase tracking-wider">
+            Opción 2 · Repaso completo de ${escapeHTML(subject.code)}
+          </span>
+          <h2 class="text-2xl font-extrabold">
+            Evaluación global de toda la asignatura
+          </h2>
+          <p class="text-sm sm:text-base ${palette.globalDescText} leading-relaxed">
+            Pon a prueba tus conocimientos combinando preguntas de los ${themesCount} temas de ${escapeHTML(subject.name)} (${globalQuestionsCount} preguntas en total).
+          </p>
+        </div>
+
+        <button
+          type="button"
+          onclick="openGlobalQuiz()"
+          class="inline-flex items-center justify-center gap-2.5 px-7 py-4 rounded-2xl bg-white ${palette.globalBtnText} hover:bg-slate-50 active:scale-[0.99] font-extrabold text-sm sm:text-base shadow-md transition shrink-0 cursor-pointer"
+        >
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
+          </svg>
+          <span>Cuestionario global</span>
+        </button>
+      </section>
+    </main>
+
+    ${renderFooter()}
+  `;
     }
 
     /**
